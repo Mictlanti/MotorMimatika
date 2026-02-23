@@ -1,20 +1,10 @@
 [
   {
-    "id" : "basic_alge",
-    "title" : "Algebra básica",
-    topics: [
-       {
-         "id" : "basic_ope",
-         "title" : "Operaciones básicas"
-       },
-       {
-         "id" : "simpli",
-         "title": "Simplificación"
-       }
-    ]
+    "id": "pow",
+    "title": "Potencias"
   },
   {
-    "id" : "inter_alge",
-    "title" : "Algebra intermedia"
+    "id": "fract",
+    "title": "Fracciones"
   }
 ]
