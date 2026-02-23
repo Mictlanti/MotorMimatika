@@ -1,0 +1,82 @@
+[
+  {
+    "id" : "basic_alge",
+    "title" : "Algebra básica",
+    topics: [
+       {
+         "id" : "basic_ope",
+         "title" : "Operaciones básicas"
+       },
+       {
+         "id" : "simpli",
+         "title": "Simplificación"
+       },
+       {
+          "id" : "Multi_poli",
+          "title" : "Multiplicación de polinomios"
+       },
+       {
+          "id" : "Sistem_equa_1",
+          "title" : "Sistema de ecuaciones 1"
+        },
+        {
+          "id" : "Sistem_equa_2",
+          "title" : "Sistema de ecuaciones 2"
+        },
+        {
+          "id" : "Sistem_equa_3",
+          "title" : "Sistema de ecuaciones 3"
+        },
+        {
+          "id" : "Desi_lineales",
+          "title" : "Desigualdades lineales"
+        },
+        {
+          "id" : "Point_plane",
+          "title" : "Puntos de un plano"
+        },
+        {
+          "id" : "Gra_rect",
+          "title" : "Grafica de la recta"
+        },
+    ]
+  },
+  {
+    "id" : "inter_alge",
+    "title" : "Algebra intermedia",
+    "topics" : [
+       {
+          "id" : "law_exp",
+          "title" : "Leyes de los exponentes"
+       },
+       {
+          "id" : "produc_nota_1",
+          "title" : "Grafica de la recta"
+        },
+        {
+          "id" : "facto_1",
+          "title" : "Factorización 1"
+        },
+        {
+          "id" : "facto_2",
+          "title" : "Factorización 2"
+        },
+        {
+          "id" : "facto_3",
+          "title" : "Factorización 3"
+        },
+        {
+          "id" : "divi_poli",
+          "title" : "División de polinomios"
+        },
+        {
+          "id" : "fun_cua",
+          "title" : "Funciones cuadráticas"
+        },
+        {
+          "id" : "Teo_resto_factor",
+          "title" : "Teorema del resto y factor"
+        }
+    ]
+  }
+]
