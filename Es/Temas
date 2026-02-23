@@ -1,0 +1,20 @@
+[
+  {
+    "id" : "basic_alge",
+    "title" : "Algebra básica",
+    topics: [
+       {
+         "id" : "basic_ope",
+         "title" : "Operaciones básicas"
+       },
+       {
+         "id" : "simpli",
+         "title": "Simplificación"
+       }
+    ]
+  },
+  {
+    "id" : "inter_alge",
+    "title" : "Algebra intermedia"
+  }
+]
