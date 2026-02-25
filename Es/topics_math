@@ -2,6 +2,7 @@
   {
     "id" : "basic_alge",
     "title" : "Algebra básica",
+    "image_section" : "",
     topics: [
        {
          "id" : "basic_ope",
@@ -44,6 +45,7 @@
   {
     "id" : "inter_alge",
     "title" : "Algebra intermedia",
+    "image_section" : "",
     "topics" : [
        {
           "id" : "law_exp",
