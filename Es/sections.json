@@ -1,11 +1,13 @@
 [
   {
     "id" : "basic_alge",
+    "course_id" : "math",
     "title" : "Algebra básica",
     "image_section" : ""
   },
   {
     "id" : "inter_alge",
+    "course_id" : "math",
     "title" : "Algebra intermedia",
     "image_section" : ""
   }
