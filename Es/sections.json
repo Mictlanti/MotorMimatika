@@ -10,5 +10,17 @@
     "course_id" : "math",
     "title" : "Algebra intermedia",
     "image_section" : ""
+  },
+  {
+    "id" : "econo_intro",
+    "course_id" : "econo",
+    "title" : "Introducción",
+    "image_section" : ""
+  },
+  {
+    "id" : "econo_consumer",
+    "course_id" : "econo",
+    "title" : "Consumidor(Cardinal)",
+    "image_section" : ""
   }
 ]
