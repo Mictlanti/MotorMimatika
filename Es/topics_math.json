@@ -5,7 +5,7 @@
       {
         "id": "basic_ope",
         "title": "Operaciones básicas",
-        "lesons": [
+        "lessons": [
           {
             "id": "basic_ope_1",
             "title": "Operaciones básicas 1"
@@ -35,7 +35,7 @@
       {
         "id": "simpli",
         "title": "Simplificación",
-        "lesons": [
+        "lessons": [
           {
             "id": "simpli_1",
             "title": "Simplificación 1"
@@ -58,7 +58,7 @@
       {
         "id": "multi_poli",
         "title": "Multiplicación de polinomios",
-        "lesons": [
+        "lessons": [
           {
             "id": "multi_poli_1",
             "title": "Multiplicación de polinomios 1"
@@ -84,7 +84,7 @@
       {
         "id": "sistem_equa_1",
         "title": "Sistema de ecuaciones 1",
-        "lesons": [
+        "lessons": [
           {
             "id": "sistem_equa_1_1",
             "title": "Sistema de ecuaciones 1"
@@ -114,7 +114,7 @@
       {
         "id": "sistem_equa_2",
         "title": "Sistema de ecuaciones 2",
-        "lesons": [
+        "lessons": [
           {
             "id": "sistem_equa_2_1",
             "title": "Sistema de ecuaciones 7"
@@ -144,7 +144,7 @@
       {
         "id": "sistem_equa_3",
         "title": "Sistema de ecuaciones 3",
-        "lesons": [
+        "lessons": [
           {
             "id": "sistem_equa_3_1",
             "title": "Sistema de ecuaciones 13"
@@ -162,7 +162,7 @@
       {
         "id": "desi_lineales",
         "title": "Desigualdades lineales",
-        "lesons": [
+        "lessons": [
           {
             "id": "desi_lineales_1",
             "title": "Desigualdades lineales 1"
@@ -192,7 +192,7 @@
       {
         "id": "point_plane",
         "title": "Puntos de un plano",
-        "lesons": [
+        "lessons": [
           {
             "id": "point_plane_1",
             "title": "Puntos de un plano 1"
@@ -210,7 +210,7 @@
       {
         "id": "graph_rect",
         "title": "Grafica de la recta",
-        "lesons": [
+        "lessons": [
           {
             "id": "graph_rect_1",
             "title": "Grafica de la recta 1"
@@ -229,7 +229,7 @@
       {
         "id": "law_exp",
         "title": "Leyes de los exponentes",
-        "lesons": [
+        "lessons": [
           {
             "id": "law_exp_1",
             "title": "Leyes de los exponentes 1"
@@ -251,7 +251,7 @@
       {
         "id": "produc_nota_1",
         "title": "Productos notables 1",
-        "lesons": [
+        "lessons": [
           {
             "id": "produc_nota_1_1",
             "title": "Productos notables 1"
@@ -277,7 +277,7 @@
       {
         "id": "facto_1",
         "title": "Factorización 1",
-        "lesons": [
+        "lessons": [
           {
             "id": "facto_1_1",
             "title": "Factorización 1"
@@ -303,7 +303,7 @@
       {
         "id": "facto_2",
         "title": "Factorización 2",
-        "lesons": [
+        "lessons": [
           {
             "id": "facto_2_1",
             "title": "Factorización 6"
@@ -321,7 +321,7 @@
       {
         "id": "facto_3",
         "title": "Factorización 3",
-        "lesons": [
+        "lessons": [
           {
             "id": "facto_3_1",
             "title": "Factorización 9"
@@ -339,7 +339,7 @@
       {
         "id": "divi_poli",
         "title": "División de polinomios",
-        "lesons": [
+        "lessons": [
           {
             "id": "divi_poli_1",
             "title": "División de polinomios 1"
@@ -361,7 +361,7 @@
       {
         "id": "fun_cua",
         "title": "Funciones cuadráticas",
-        "lesons": [
+        "lessons": [
           {
             "id": "fun_cua_1",
             "title": "Funciones cuadráticas 1"
@@ -387,7 +387,7 @@
       {
         "id": "teo_resto_factor",
         "title": "Teorema del resto y factor",
-        "lesons": [
+        "lessons": [
           {
             "id": "teo_resto_factor_1",
             "title": "Teorema del resto y factor 1"
