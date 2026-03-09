@@ -1,7 +1,7 @@
 [
   {
     "id_section" : "basic_alge",
-    topics: [
+    "topics": [
        {
          "id" : "basic_ope",
          "title" : "Operaciones básicas"
