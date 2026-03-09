@@ -41,7 +41,7 @@
     ]
   },
   {
-    "id" : "inter_alge",
+    "id_section" : "inter_alge",
     "topics" : [
        {
           "id" : "law_exp",
