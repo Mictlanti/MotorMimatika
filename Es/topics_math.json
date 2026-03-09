@@ -4,39 +4,222 @@
     "topics": [
       {
         "id": "basic_ope",
-        "title": "Operaciones básicas"
+        "title": "Operaciones básicas",
+        "lesons": [
+          {
+            "id": "basic_ope_1",
+            "title": "Operaciones básicas 1"
+          },
+          {
+            "id": "basic_ope_2",
+            "title": "Operaciones básicas 2"
+          },
+          {
+            "id": "basic_ope_3",
+            "title": "Operaciones básicas 3"
+          },
+          {
+            "id": "basic_ope_4",
+            "title": "Operaciones básicas 4"
+          },
+          {
+            "id": "basic_ope_5",
+            "title": "Operaciones básicas 5"
+          },
+          {
+            "id": "basic_ope_6",
+            "title": "Operaciones básicas 6"
+          },
+        ]
       },
       {
         "id": "simpli",
-        "title": "Simplificación"
+        "title": "Simplificación",
+        "lesons": [
+          {
+            "id": "simpli_1",
+            "title": "Simplificación 1"
+          },
+          {
+            "id": "simpli_2",
+            "title": "Simplificación 2"
+          },
+          {
+            "id": "simpli_3",
+            "title": "Simplificación 3"
+          },
+          {
+            "id": "simpli_4",
+            "title": "Simplificación 4"
+          }
+        ]
+      
       },
       {
-        "id": "Multi_poli",
-        "title": "Multiplicación de polinomios"
+        "id": "multi_poli",
+        "title": "Multiplicación de polinomios",
+        "lesons": [
+          {
+            "id": "multi_poli_1",
+            "title": "Multiplicación de polinomios 1"
+          },
+          {
+            "id": "multi_poli_2",
+            "title": "Multiplicación de polinomios 2"
+          },
+          {
+            "id": "multi_poli_3",
+            "title": "Multiplicación de polinomios 3"
+          },
+          {
+            "id": "multi_poli_4",
+            "title": "Multiplicación de polinomios 4"
+          },
+          {
+            "id": "multi_poli_5",
+            "title": "Multiplicación de polinomios 5"
+          }
+        ]
       },
       {
-        "id": "Sistem_equa_1",
-        "title": "Sistema de ecuaciones 1"
+        "id": "sistem_equa_1",
+        "title": "Sistema de ecuaciones 1",
+        "lesons": [
+          {
+            "id": "sistem_equa_1_1",
+            "title": "Sistema de ecuaciones 1"
+          },
+          {
+            "id": "sistem_equa_1_2",
+            "title": "Sistema de ecuaciones 2"
+          },
+          {
+            "id": "sistem_equa_1_3",
+            "title": "Sistema de ecuaciones 3"
+          },
+          {
+            "id": "sistem_equa_1_4",
+            "title": "Sistema de ecuaciones 4"
+          },
+          {
+            "id": "sistem_equa_1_5",
+            "title": "Sistema de ecuaciones 5"
+          },
+          {
+            "id": "sistem_equa_1_6",
+            "title": "Sistema de ecuaciones 6"
+          }
+        ]
       },
       {
-        "id": "Sistem_equa_2",
-        "title": "Sistema de ecuaciones 2"
+        "id": "sistem_equa_2",
+        "title": "Sistema de ecuaciones 2",
+        "lesons": [
+          {
+            "id": "sistem_equa_2_1",
+            "title": "Sistema de ecuaciones 7"
+          },
+          {
+            "id": "sistem_equa_2_2",
+            "title": "Sistema de ecuaciones 8"
+          },
+          {
+            "id": "sistem_equa_2_3",
+            "title": "Sistema de ecuaciones 9"
+          },
+          {
+            "id": "sistem_equa_2_4",
+            "title": "Sistema de ecuaciones 10"
+          },
+          {
+            "id": "sistem_equa_2_5",
+            "title": "Sistema de ecuaciones 11"
+          },
+          {
+            "id": "sistem_equa_2_6",
+            "title": "Sistema de ecuaciones 12"
+          }
+        ]
       },
       {
-        "id": "Sistem_equa_3",
-        "title": "Sistema de ecuaciones 3"
+        "id": "sistem_equa_3",
+        "title": "Sistema de ecuaciones 3",
+        "lesons": [
+          {
+            "id": "sistem_equa_3_1",
+            "title": "Sistema de ecuaciones 13"
+          },
+          {
+            "id": "sistem_equa_3_2",
+            "title": "Sistema de ecuaciones 14"
+          },
+          {
+            "id": "sistem_equa_3_3",
+            "title": "Sistema de ecuaciones 15"
+          }
+        ]
       },
       {
-        "id": "Desi_lineales",
-        "title": "Desigualdades lineales"
+        "id": "desi_lineales",
+        "title": "Desigualdades lineales",
+        "lesons": [
+          {
+            "id": "desi_lineales_1",
+            "title": "Desigualdades lineales 1"
+          },
+          {
+            "id": "desi_lineales_2",
+            "title": "Desigualdades lineales 2"
+          },
+          {
+            "id": "desi_lineales_3",
+            "title": "Desigualdades lineales 3"
+          },
+          {
+            "id": "desi_lineales_4",
+            "title": "Desigualdades lineales 4"
+          },
+          {
+            "id": "desi_lineales_5",
+            "title": "Desigualdades lineales 5"
+          },
+          {
+            "id": "desi_lineales_6",
+            "title": "Desigualdades lineales 6"
+          }
+        ]
       },
       {
-        "id": "Point_plane",
-        "title": "Puntos de un plano"
+        "id": "point_plane",
+        "title": "Puntos de un plano",
+        "lesons": [
+          {
+            "id": "point_plane_1",
+            "title": "Puntos de un plano 1"
+          },
+          {
+            "id": "point_plane_2",
+            "title": "Puntos de un plano 2"
+          },
+          {
+            "id": "point_plane_3",
+            "title": "Puntos de un plano 3"
+          }
+        ]
       },
       {
-        "id": "Gra_rect",
-        "title": "Grafica de la recta"
+        "id": "graph_rect",
+        "title": "Grafica de la recta",
+        "lesons": [
+          {
+            "id": "graph_rect_1",
+            "title": "Grafica de la recta 1"
+          },
+          {
+            "id": "graph_rect_2",
+            "title": "Grafica de la recta 2"
+          }
+        ]
       }
     ]
   },
@@ -45,35 +228,187 @@
     "topics": [
       {
         "id": "law_exp",
-        "title": "Leyes de los exponentes"
+        "title": "Leyes de los exponentes",
+        "lesons": [
+          {
+            "id": "law_exp_1",
+            "title": "Leyes de los exponentes 1"
+          },
+          {
+            "id": "law_exp_2",
+            "title": "Leyes de los exponentes 2"
+          },
+          {
+            "id": "law_exp_3",
+            "title": "Leyes de los exponentes 3"
+          },
+          {
+            "id": "law_exp_4",
+            "title": "Leyes de los exponentes 4"
+          }
+        ]
       },
       {
         "id": "produc_nota_1",
-        "title": "Productos notables 1"
+        "title": "Productos notables 1",
+        "lesons": [
+          {
+            "id": "produc_nota_1_1",
+            "title": "Productos notables 1"
+          },
+          {
+            "id": "produc_nota_1_2",
+            "title": "Productos notables 2"
+          },
+          {
+            "id": "produc_nota_1_3",
+            "title": "Productos notables 3"
+          },
+          {
+            "id": "produc_nota_1_4",
+            "title": "Productos notables 4"
+          },
+          {
+            "id": "produc_nota_1_5",
+            "title": "Productos notables 5"
+          }
+        ]
       },
       {
         "id": "facto_1",
-        "title": "Factorización 1"
+        "title": "Factorización 1",
+        "lesons": [
+          {
+            "id": "facto_1_1",
+            "title": "Factorización 1"
+          },
+          {
+            "id": "facto_1_2",
+            "title": "Factorización 2"
+          },
+          {
+            "id": "facto_1_3",
+            "title": "Factorización 3"
+          },
+          {
+            "id": "facto_1_4",
+            "title": "Factorización 4"
+          },
+          {
+            "id": "facto_1_5",
+            "title": "Factorización 5"
+          }
+        ]
       },
       {
         "id": "facto_2",
-        "title": "Factorización 2"
+        "title": "Factorización 2",
+        "lesons": [
+          {
+            "id": "facto_2_1",
+            "title": "Factorización 6"
+          },
+          {
+            "id": "facto_2_2",
+            "title": "Factorización 7"
+          },
+          {
+            "id": "facto_2_3",
+            "title": "Factorización 8"
+          }
+        ]
       },
       {
         "id": "facto_3",
-        "title": "Factorización 3"
+        "title": "Factorización 3",
+        "lesons": [
+          {
+            "id": "facto_3_1",
+            "title": "Factorización 9"
+          },
+          {
+            "id": "facto_3_2",
+            "title": "Factorización 10"
+          },
+          {
+            "id": "facto_3_3",
+            "title": "Factorización 11"
+          }
+        ]
       },
       {
         "id": "divi_poli",
-        "title": "División de polinomios"
+        "title": "División de polinomios",
+        "lesons": [
+          {
+            "id": "divi_poli_1",
+            "title": "División de polinomios 1"
+          },
+          {
+            "id": "divi_poli_2",
+            "title": "División de polinomios 2"
+          },
+          {
+            "id": "divi_poli_3",
+            "title": "División de polinomios 3"
+          },
+          {
+            "id": "divi_poli_4",
+            "title": "División de polinomios 4"
+          }
+        ]
       },
       {
         "id": "fun_cua",
-        "title": "Funciones cuadráticas"
+        "title": "Funciones cuadráticas",
+        "lesons": [
+          {
+            "id": "fun_cua_1",
+            "title": "Funciones cuadráticas 1"
+          },
+          {
+            "id": "fun_cua_2",
+            "title": "Funciones cuadráticas 2"
+          },
+          {
+            "id": "fun_cua_3",
+            "title": "Funciones cuadráticas 3"
+          },
+          {
+            "id": "fun_cua_4",
+            "title": "Funciones cuadráticas 4"
+          },
+          {
+            "id": "fun_cua_5",
+            "title": "Funciones cuadráticas 5"
+          }
+        ]
       },
       {
-        "id": "Teo_resto_factor",
-        "title": "Teorema del resto y factor"
+        "id": "teo_resto_factor",
+        "title": "Teorema del resto y factor",
+        "lesons": [
+          {
+            "id": "teo_resto_factor_1",
+            "title": "Teorema del resto y factor 1"
+          },
+          {
+            "id": "teo_resto_factor_2",
+            "title": "Teorema del resto y factor 2"
+          },
+          {
+            "id": "teo_resto_factor_3",
+            "title": "Teorema del resto y factor 3"
+          },
+          {
+            "id": "teo_resto_factor_4",
+            "title": "Teorema del resto y factor 4"
+          },
+          {
+            "id": "teo_resto_factor_5",
+            "title": "Teorema del resto y factor 5"
+          }
+        ]
       }
     ]
   }
