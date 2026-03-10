@@ -1,11 +1,11 @@
 [
   {
-    "id_section" : "",
-    "id_topic": "",
-    "leson" : [
+    "id_lesson": "basic_ope_1",
+    "pages_lesson" : 8,
+    "pages": [
       {
-        "id": "",
-        "title": ""
+        "id": "page_one",
+        "title": "Suma de monomios"
       }
     ]
   }
