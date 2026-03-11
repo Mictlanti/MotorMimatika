@@ -5,7 +5,12 @@
     "pages": [
       {
         "id": "page_one",
-        "title": "Suma de monomios"
+        "title": "Suma de monomios",
+        "card_example": [
+          {
+            "example": "1) 5m + 2m = 7m"
+          }
+        ]
       }
     ]
   }
