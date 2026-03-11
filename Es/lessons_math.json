@@ -1,14 +1,16 @@
 [
   {
     "id_lesson": "basic_ope_1",
-    "pages_lesson" : 8,
     "pages": [
       {
-        "id": "page_one",
-        "title": "Suma de monomios",
-        "card_example": [
+        "blocks" : [
           {
-            "example": "1) 5m + 2m = 7m"
+            "type": "title",
+            "text": "Suma de monomios"
+          },
+          {
+              "type": "body",
+              "text": "This is the body of project"
           }
         ]
       }
