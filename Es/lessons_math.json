@@ -13,6 +13,18 @@
               "text": "This is the body of project"
           }
         ]
+      },
+      {
+        "blocks" : [
+          {
+            "type": "title",
+            "text": "Suma de monomios new"
+          },
+          {
+              "type": "body",
+              "text": "This is the second body of project"
+          }
+        ]
       }
     ]
   }
