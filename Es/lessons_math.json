@@ -9,6 +9,23 @@
                         "text": "Suma de monomios"
                     },
                     {
+                        "type": "card_example",
+                        "content":  [
+                            {
+                                "type": "text",
+                                "text": "Este es un texto de ejemplo",
+                                "align": "center",
+                                "isBodyMedium": true
+                            },
+                            {
+                                "type": "exception",
+                                "text": "Mensaje de excepción",
+                                "align": "left",
+                                "isBodyMedium": false
+                            }
+                        ]
+                    },
+                    {
                         "type": "body",
                         "text": "This is the first body of project"
                     }
