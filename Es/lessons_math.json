@@ -60,6 +60,11 @@
                     {
                         "type": "body",
                         "text": "Contesta lo siguiente"
+                    },
+                    {
+                        "type": "body",
+                        "text": "2a + 3a = ",
+                        "isBodyMedium": true
                     }
                 ]
             },
