@@ -10,18 +10,19 @@
                     },
                     {
                         "type": "card_example",
+                        "content_visible": [0, 1]
                         "content":  [
                             {
                                 "type": "text",
                                 "text": "Este es un texto de ejemplo",
                                 "align": "center",
-                                "isBodyMedium": true
+                                "isBodyMedium": false
                             },
                             {
                                 "type": "exception",
                                 "text": "Mensaje de excepción",
                                 "align": "left",
-                                "isBodyMedium": false
+                                "isBodyMedium": true
                             }
                         ]
                     },
