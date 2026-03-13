@@ -71,6 +71,18 @@
                 "blocks": [
                     {
                         "type": "title",
+                        "text": "Elige la opción correcta"
+                    },
+                    {
+                        "type": "card_dynamic",
+                        "list": ["4x + y = ", "4x+y", "4xy", "x+y", "4(x+y)", "xy"]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
                         "text": "Resta de monomios"
                     },
                     {
