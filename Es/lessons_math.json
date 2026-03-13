@@ -16,7 +16,7 @@
                                 "text": "1) 5m + 2m = 7m",
                             },
                             {
-                                "type": "short_example"
+                                "type": "short_example",
                                 "text": "2) 9a + a = 10a",
                             },
                             {
@@ -24,7 +24,7 @@
                                 "text": "1) 5m + 2m = 7m",
                             },
                             {
-                                "type": "large_example"
+                                "type": "large_example",
                                 "text": "2) 9a + a = 10a",
                             },
                             {
@@ -32,7 +32,7 @@
                                 "text": "- Ambos términos tienen la misma letra respectivamente.",
                             },
                             {
-                                "type": "large_example"
+                                "type": "large_example",
                                 "text": "- Se suman los coeficientes:",
                             },
                             {
@@ -40,7 +40,7 @@
                                 "text": "1) 5 + 2 = 7",
                             },
                             {
-                                "type": "large_example"
+                                "type": "large_example",
                                 "text": "2) 9 + 1 = 10",
                             },
                             {
@@ -48,11 +48,11 @@
                                 "text": "Conserva las letras en la respuesta:",
                             },
                             {
-                                "type": "large_example"
+                                "type": "large_example",
                                 "text": "1) 7m",
                             },
                             {
-                                "type": "large_example"
+                                "type": "large_example",
                                 "text": "2) 10a",
                             },
                         ]
@@ -63,8 +63,7 @@
                     },
                     {
                         "type": "input_exercise",
-                        "text": "2a + 3a = ",
-                        "isBodyMedium": true
+                        "text": "2a + 3a = "
                     }
                 ]
             },
@@ -72,11 +71,40 @@
                 "blocks": [
                     {
                         "type": "title",
-                        "text": "New Suma de monomios"
+                        "text": "Resta de monomios"
+                    },
+                    {
+                        "type": "card_example",
+                        "content":  [
+                            {
+                                "type": "short_example",
+                                "text": "1) 5m - 2m = 3m",
+                            },
+                            {
+                                "type": "short_example",
+                                "text": "2) 3m - m = 2m",
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "Resta los coeficientes y mantén la misma letra:",
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "1) 5m - m = 2m",
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "2) 3m - m = 2m",
+                            }
+                        ]
                     },
                     {
                         "type": "body",
-                        "text": "This is the second body of project"
+                        "text": "Contesta lo siguiente"
+                    },
+                    {
+                        "type": "input_exercise",
+                        "text": "5x - 0 = "
                     }
                 ]
             }
