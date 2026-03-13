@@ -107,6 +107,42 @@
                         "text": "5x - 0 = "
                     }
                 ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text" : "Resuelve lo siguiente"
+                    },
+                    {
+                        "type": "input_exercise",
+                        "text": "10x + x - 4x = "
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text" : "Resuelve lo siguiente"
+                    },
+                    {
+                        "type": "input_exercise",
+                        "text": "2x - x + x + y = "
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text" : "Resuelve lo siguiente"
+                    },
+                    {
+                        "type": "input_exercise",
+                        "text": "3x + 2y - y = "
+                    }
+                ]
             }
         ]
     }
