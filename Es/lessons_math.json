@@ -62,7 +62,7 @@
                         "text": "Contesta lo siguiente"
                     },
                     {
-                        "type": "body",
+                        "type": "input_exercise",
                         "text": "2a + 3a = ",
                         "isBodyMedium": true
                     }
