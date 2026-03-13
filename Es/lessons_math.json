@@ -71,7 +71,7 @@
                 "blocks": [
                     {
                         "type": "card_dynamic",
-                        "list_cards": ["4x + y=", "4x+y", "4xy", "x+y", "4(x+y)", "xy"]
+                        "listCards": ["4x + y=", "4x+y", "4xy", "x+y", "4(x+y)", "xy"]
                     }
                 ]
             }
