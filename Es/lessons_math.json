@@ -12,15 +12,16 @@
                         "type": "card_example",
                         "content":  [
                             {
+                                "type": "short_example",
                                 "text": "Este es un texto de ejemplo",
-                                "align": "center",
-                                "color": "onSecundaryContainer"
-                                "isBodyMedium": false
                             },
                             {
+                                "type": "short_example"
                                 "text": "Mensaje de excepción",
-                                "align": "left",
-                                "isBodyMedium": true
+                            },
+                            {
+                                "type": "large_example"
+                                "text": "Large content",
                             }
                         ]
                     },
