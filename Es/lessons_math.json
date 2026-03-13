@@ -13,21 +13,53 @@
                         "content":  [
                             {
                                 "type": "short_example",
-                                "text": "Este es un texto de ejemplo",
+                                "text": "1) 5m + 2m = 7m",
                             },
                             {
                                 "type": "short_example"
-                                "text": "Mensaje de excepción",
+                                "text": "2) 9a + a = 10a",
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "1) 5m + 2m = 7m",
                             },
                             {
                                 "type": "large_example"
-                                "text": "Large content",
-                            }
+                                "text": "2) 9a + a = 10a",
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "- Ambos términos tienen la misma letra respectivamente.",
+                            },
+                            {
+                                "type": "large_example"
+                                "text": "- Se suman los coeficientes:",
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "1) 5 + 2 = 7",
+                            },
+                            {
+                                "type": "large_example"
+                                "text": "2) 9 + 1 = 10",
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "Conserva las letras en la respuesta:",
+                            },
+                            {
+                                "type": "large_example"
+                                "text": "1) 7m",
+                            },
+                            {
+                                "type": "large_example"
+                                "text": "2) 10a",
+                            },
                         ]
                     },
                     {
                         "type": "body",
-                        "text": "This is the first body of project"
+                        "text": "Contesta lo siguiente"
                     }
                 ]
             },
