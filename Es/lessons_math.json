@@ -234,6 +234,19 @@
                 ]
             },
             {
+                "blocks" : [
+                    {
+                        "type": "title",
+                        "text": "Coloca el resultado con su respectiva operación"
+                    },
+                    {
+                        "type": "card_drag_dynamic",
+                        "list_cards": ["2x", "6x", "4x"],
+                        "list_questions": ["4x + 2x =", "3x - x", "5x + x - 2x"]
+                    }
+                ]
+            },
+            {
                 "blocks": [
                     {
                         "type": "title",
