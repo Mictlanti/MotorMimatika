@@ -83,6 +83,18 @@
                 "blocks": [
                     {
                         "type": "title",
+                        "text": "Elige la opción correcta"
+                    },
+                    {
+                        "type": "card_dynamic",
+                        "list": ["4c + 6c = ", "4c+6", "2c", "10c", "4(c+6c)", "2(2c+6)"]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
                         "text": "Resta de monomios"
                     },
                     {
@@ -117,6 +129,19 @@
                     {
                         "type": "input_exercise",
                         "text": "5x - 0 = "
+                    }
+                ]
+            },
+            
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Elige la opción correcta"
+                    },
+                    {
+                        "type": "card_dynamic",
+                        "list": ["y - y = ", "2y", "y", "1", "0", "y-y"]
                     }
                 ]
             },
