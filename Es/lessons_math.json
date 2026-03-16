@@ -321,6 +321,21 @@
                 "blocks": [
                     {
                         "type": "title",
+                        "text": "Ordena las cartas según la expresión equivalente a:"
+                    },
+                    {
+                        "type": "card_drag_dynamic",
+                        "list_cards": ["+", "-"],
+                        "list_questions": ["+ (", "a", "b) = - a + b"],
+                        "pos_x": [0.1, 0.35, 0.6],
+                        "pos_y": [0.5, 0.5, 0.5]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
                         "text": "Resuelve lo siguiente"
                     },
                     {
@@ -403,6 +418,21 @@
                     {
                         "type": "card_dynamic",
                         "list": ["- (x - y)", "-", "+", "x", "y"]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Ordena las cartas según la expresión equivalente a:"
+                    },
+                    {
+                        "type": "card_drag_dynamic",
+                        "list_cards": ["-", "a", "b"],
+                        "list_questions": ["- (", ") = - a + b"],
+                        "pos_x": [0.1, 0.68],
+                        "pos_y": [0.5, 0.5]
                     }
                 ]
             },
@@ -921,7 +951,7 @@
                 "blocks": [
                     {
                         "type": "title",
-                        "text": "Contesta correctamente"
+                        "text": "OContesta correctamente"
                     },
                     {
                         "type": "body",
@@ -930,6 +960,32 @@
                     {
                         "type": "input_exercise",
                         "text": "x(2a + b) - b(x) + ax = "
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id_lesson": "simpli_1",
+        "pages": [
+            {
+                "blocks": [
+                    {
+                        "type": "card_example",
+                        "content": [
+                            {
+                                "type": "short_example",
+                                "text": "Aquí va a ir una imagen"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "title",
+                        "text": "Resuelve lo siguiente"
+                    },
+                    {
+                        "type": "body",
+                        "text": "Aquí va otra imagen"
                     }
                 ]
             }
