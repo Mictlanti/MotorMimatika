@@ -321,6 +321,21 @@
                 "blocks": [
                     {
                         "type": "title",
+                        "text": "Ordena las cartas según la expresión equivalente a:"
+                    },
+                    {
+                        "type": "card_drag_dynamic",
+                        "list_cards": ["+", "-"],
+                        "list_questions": ["+ (", "a", "b) = - a + b"],
+                        "pos_x": [0.1, 0.35, 0.6],
+                        "pos_y": [0.5, 0.5, 0.5]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
                         "text": "Resuelve lo siguiente"
                     },
                     {
@@ -403,6 +418,21 @@
                     {
                         "type": "card_dynamic",
                         "list": ["- (x - y)", "-", "+", "x", "y"]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Ordena las cartas según la expresión equivalente a:"
+                    },
+                    {
+                        "type": "card_drag_dynamic",
+                        "list_cards": ["-", "a", "b"],
+                        "list_questions": ["- (", ") = - a + b"],
+                        "pos_x": [0.1, 0.68],
+                        "pos_y": [0.5, 0.5]
                     }
                 ]
             },
