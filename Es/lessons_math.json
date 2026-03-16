@@ -317,7 +317,6 @@
                     }
                 ]
             },
-            #Falta un card_drag_dynamic horizontal
             {
                 "blocks": [
                     {
@@ -407,7 +406,6 @@
                     }
                 ]
             },
-            #Falta otro horizontal
             {
                 "blocks": [
                     {
