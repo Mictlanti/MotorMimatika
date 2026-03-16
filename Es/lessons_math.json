@@ -934,5 +934,31 @@
                 ]
             }
         ]
+    },
+    {
+        "id_lesson": "simpli_1",
+        "pages": [
+            {
+                "blocks": [
+                    {
+                        "type": "card_example",
+                        "content": [
+                            {
+                                "type": "short_example",
+                                "text": "Aquí va a ir una imagen"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "title",
+                        "text": "Resuelve lo siguiente"
+                    },
+                    {
+                        "type": "body",
+                        "text": "Aquí va otra imagen"
+                    }
+                ]
+            }
+        ]
     }
 ]
