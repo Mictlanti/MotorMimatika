@@ -325,8 +325,8 @@
                     },
                     {
                         "type": "card_drag_dynamic",
-                        "list_cards": ["+", "-"],
-                        "list_questions": ["+ (", "a", "b) = - a + b"]
+                        "list_cards": ["-a - b", "a - b", "-a + b"],
+                        "list_questions": ["+ (a - b) =", "+ (- a - b) =", "+ (-a + b) ="]
                     }
                 ]
             },
@@ -416,19 +416,6 @@
                     {
                         "type": "card_dynamic",
                         "list": ["- (x - y)", "-", "+", "x", "y"]
-                    }
-                ]
-            },
-            {
-                "blocks": [
-                    {
-                        "type": "title",
-                        "text": "Ordena las cartas según la expresión equivalente a:"
-                    },
-                    {
-                        "type": "card_drag_dynamic",
-                        "list_cards": ["-", "a", "b"],
-                        "list_questions": ["- (", ") = - a + b"]
                     }
                 ]
             },
@@ -947,7 +934,7 @@
                 "blocks": [
                     {
                         "type": "title",
-                        "text": "OContesta correctamente"
+                        "text": "Contesta correctamente"
                     },
                     {
                         "type": "body",
@@ -970,8 +957,9 @@
                         "type": "card_example",
                         "content": [
                             {
-                                "type": "short_example",
-                                "text": "Aquí va a ir una imagen"
+                                "type": "image_url",
+                                "dark_url": "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/dark/ejem_simplitwo_one_one_dark.png",
+                                "light_url": "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/light/ejem_simplitwo_one_one_light.png"
                             }
                         ]
                     },
