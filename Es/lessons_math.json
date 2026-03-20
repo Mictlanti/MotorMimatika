@@ -969,7 +969,16 @@
                     },
                     {
                         "type": "body",
-                        "text": "Aquí va otra imagen"
+                        "text": "y^2 * y * y^2 ="
+                    },
+                    {
+                        "type": "image_exercise",
+                        "urlDark": "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/dark/ejer_simplitwo_one_one_dark.png",
+                        "urlLight": "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/light/ejer_simplitwo_one_one_light.png"
+                    },
+                    {
+                        "type": "button_exercise",
+                        "list": ["y", "0", "y^5", "x^5"]
                     }
                 ]
             }
