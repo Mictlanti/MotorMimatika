@@ -969,7 +969,8 @@
                     },
                     {
                         "type": "body",
-                        "text": "y^2 * y * y^2 ="
+                        "text": "y^2 * y * y^2 =",
+                        "isMathText": true
                     },
                     {
                         "type": "image_exercise",
