@@ -982,6 +982,41 @@
                         "list": ["y", "0", "y^5", "x^5"]
                     }
                 ]
+            },
+            
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Verdadero o falso"
+                    },
+                    {
+                        "type": "body",
+                        "text": "z^2 * z^3 * z^3 = z^8",
+                        "isMathText": true
+                    },
+                    {
+                        "type": "button_exercise",
+                        "list": ["Verdadero", "Falso"],
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Verdadero o falso"
+                    },
+                    {
+                        "type": "body",
+                        "text": "a^5 * a * a^3 = a^7",
+                        "isMathText": true
+                    },
+                    {
+                        "type": "button_exercise",
+                        "list": ["Verdadero", "Falso"],
+                    }
+                ]
             }
         ]
     }
