@@ -886,7 +886,7 @@
                 "blocks": [
                     {
                         "type": "title",
-                        "text": "OContesta correctamente"
+                        "text": "Contesta correctamente"
                     },
                     {
                         "type": "body",
@@ -902,7 +902,7 @@
                 "blocks": [
                     {
                         "type": "title",
-                        "text": "OContesta correctamente"
+                        "text": "Contesta correctamente"
                     },
                     {
                         "type": "body",
@@ -918,7 +918,7 @@
                 "blocks": [
                     {
                         "type": "title",
-                        "text": "OContesta correctamente"
+                        "text": "Contesta correctamente"
                     },
                     {
                         "type": "body",
@@ -998,6 +998,7 @@
                     {
                         "type": "button_exercise",
                         "list": ["Verdadero", "Falso"],
+                        "bodyMedium": true
                     }
                 ]
             },
@@ -1015,6 +1016,7 @@
                     {
                         "type": "button_exercise",
                         "list": ["Verdadero", "Falso"],
+                        "bodyMedium": true
                     }
                 ]
             }
