@@ -12,43 +12,43 @@
                         "content": [
                             {
                                 "type": "short_example",
-                                "text": "1) 5m + 2m = 7m",
+                                "text": "1) 5m + 2m = 7m"
                             },
                             {
                                 "type": "short_example",
-                                "text": "2) 9a + a = 10a",
+                                "text": "2) 9a + a = 10a"
                             },
                             {
                                 "type": "large_example",
-                                "text": "1) 5m + 2m = 7m",
+                                "text": "1) 5m + 2m = 7m"
                             },
                             {
                                 "type": "large_example",
-                                "text": "2) 9a + a = 10a",
+                                "text": "2) 9a + a = 10a"
                             },
                             {
                                 "type": "large_example",
-                                "text": "- Ambos términos tienen la misma letra respectivamente.",
+                                "text": "- Ambos términos tienen la misma letra respectivamente."
                             },
                             {
                                 "type": "large_example",
-                                "text": "- Se suman los coeficientes:",
+                                "text": "- Se suman los coeficientes:"
                             },
                             {
                                 "type": "large_example",
-                                "text": "1) 5 + 2 = 7",
+                                "text": "1) 5 + 2 = 7"
                             },
                             {
                                 "type": "large_example",
-                                "text": "2) 9 + 1 = 10",
+                                "text": "2) 9 + 1 = 10"
                             },
                             {
                                 "type": "large_example",
-                                "text": "Conserva las letras en la respuesta:",
+                                "text": "Conserva las letras en la respuesta:"
                             },
                             {
                                 "type": "large_example",
-                                "text": "1) 7m",
+                                "text": "1) 7m"
                             },
                             {
                                 "type": "large_example",
@@ -101,19 +101,19 @@
                         "content": [
                             {
                                 "type": "short_example",
-                                "text": "1) 5m - 2m = 3m",
+                                "text": "1) 5m - 2m = 3m"
                             },
                             {
                                 "type": "short_example",
-                                "text": "2) 3m - m = 2m",
+                                "text": "2) 3m - m = 2m"
                             },
                             {
                                 "type": "large_example",
-                                "text": "Resta los coeficientes y mantén la misma letra:",
+                                "text": "Resta los coeficientes y mantén la misma letra:"
                             },
                             {
                                 "type": "large_example",
-                                "text": "1) 5m - m = 2m",
+                                "text": "1) 5m - m = 2m"
                             },
                             {
                                 "type": "large_example",
