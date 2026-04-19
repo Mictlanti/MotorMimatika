@@ -1,0 +1,78 @@
+{
+        "id_lesson": "basic_ope_2",
+        "pages": [
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Elige la opción correcta"
+                    },
+                    {
+                        "type": "card_dynamic",
+                        "list": ["5a - 3a + 2a =", "a", "8a", "4a", "6a", "2a", "0", "10 + a"]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Elige la opción correcta"
+                    },
+                    {
+                        "type": "card_dynamic",
+                        "list": ["9b - 2b + b =", "2b", "b", "4b", "7b", "5b", "0", "8b"]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Elige la opción correcta"
+                    },
+                    {
+                        "type": "card_dynamic",
+                        "list": ["4x - 3x", "7", "x", "y", "3", "9x", "3", "0"]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Resuelve lo siguiente"
+                    },
+                    {
+                        "type": "input_exercise",
+                        "text": "8p - 3p + 5 - 2p = "
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Coloca el resultado con su respectiva operación"
+                    },
+                    {
+                        "type": "card_drag_dynamic",
+                        "list_cards": ["2x", "6x", "4x"],
+                        "list_questions": ["4x + 2x =", "3x - x", "5x + x - 2x"]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Resuelve lo siguiente"
+                    },
+                    {
+                        "type": "input_exercise",
+                        "text": "3x - 2y - 0x + y = "
+                    }
+                ]
+            }
+        ]
+    }
