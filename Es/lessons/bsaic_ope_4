@@ -1,0 +1,186 @@
+{
+        "id_lesson": "basic_ope_4",
+        "pages": [
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Resuelve lo siguiente"
+                    },
+                    {
+                        "type": "card_dynamic",
+                        "list": ["(2a) + (2a) =", "2a", "3", "4a", "-2a", "-4a", "a"]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Arrastra las cartas a la posición correcta"
+                    },
+                    {
+                        "type": "card_drag_dynamic",
+                        "list_cards": ["-6t + 5a", "-5x", "2x"],
+                        "list_questions": ["3x - (9x) - (-8x)", "- (2x) + (5x) - (8x) =", "3t - (9t) - (-5a) ="]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Resuelve lo siguiente"
+                    },
+                    {
+                        "type": "card_dynamic",
+                        "list": ["(9a - a) - (-a) + (-2a) =", "9a", "7a", "4a", "-10a"]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Ley conmutativa de la multiplicación"
+                    },
+                    {
+                        "type": "card_example",
+                        "content": [
+                            {
+                                "type": "short_example",
+                                "text": "1) ab = ba"
+                            },
+                            {
+                                "type": "short_example",
+                                "text": "2) xy = yx"
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "1) ab = ba"
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "2) xy = yx"
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "El orden de los factores no alteran el producto. Así, el producto \"ab\" puede escribirse como \"ba\"."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "body",
+                        "text": "Aplica la ley conmutativa de la multiplicación"
+                    },
+                    {
+                        "type": "input_exercise",
+                        "text": "mn = "
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Multiplicación de monomios"
+                    },
+                    {
+                        "type": "card_example",
+                        "content": [
+                            {
+                                "type": "short_example",
+                                "text": "1) (-a)(-b) = ab"
+                            },
+                            {
+                                "type": "short_example",
+                                "text": "2) (-a)(b) = - ab"
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "1) (-a)(-b) = ab"
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "2) (-a)(b) = - ab"
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "Signos iguales dan positivo (+); signos diferentes dan negativo (-)."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "body",
+                        "text": "Resuelve lo siguiente"
+                    },
+                    {
+                        "type": "input_exercise",
+                        "text": "(x)(-y) = "
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Arrastra las cartas a la posición correcta"
+                    },
+                    {
+                        "type": "card_drag_dynamic",
+                        "list_cards": ["-2ax", "2ax"],
+                        "list_questions": ["(-2a)(x) =", "-(-2ax) ="]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Resuelve lo siguiente"
+                    },
+                    {
+                        "type": "input_exercise",
+                        "text": "- (m)(n) ="
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Resuelve lo siguiente"
+                    },
+                    {
+                        "type": "input_exercise",
+                        "text": "-(-2a)(-2b) = "
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Arrastra las cartas a la posición correcta"
+                    },
+                    {
+                        "type": "card_drag_dynamic",
+                        "list_cards": ["-2ab", "2ab"],
+                        "list_questions": ["-2(-a)(b) =", "-2(-a)(-b) ="]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Resuelve lo siguiente"
+                    },
+                    {
+                        "type": "input_exercise",
+                        "text": "-2(-x)(-y)(-z) = "
+                    }
+                ]
+            }
+        ]
+    }
