@@ -22,7 +22,7 @@
                     {
                         "type": "card_drag_dynamic",
                         "list_cards": ["-6t + 5a", "-5x", "2x"],
-                        "list_questions": ["3x - (9x) - (-8x)", "- (2x) + (5x) - (8x) =", "3t - (9t) - (-5a) ="]
+                        "list_questions": ["3x - (9x) - (-8x) =", "- (2x) + (5x) - (8x) =", "3t - (9t) - (-5a) ="]
                     }
                 ]
             },
@@ -141,7 +141,7 @@
                     },
                     {
                         "type": "input_exercise",
-                        "text": "- (m)(n) ="
+                        "text": "- (m)(n) = "
                     }
                 ]
             },
