@@ -76,7 +76,7 @@
                     },
                     {
                         "type": "input_exercise",
-                        "text": "(2a + a) + (2b - c)"
+                        "text": "(2a + a) + (2b - c) ="
                     }
                 ]
             },
@@ -153,7 +153,7 @@
                     },
                     {
                         "type": "card_dynamic",
-                        "list": ["- (x - y)", "-", "+", "x", "y"]
+                        "list": ["- (x - y) =", "-", "+", "x", "y"]
                     }
                 ]
             },
