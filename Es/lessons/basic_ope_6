@@ -1,0 +1,223 @@
+{
+        "id_lesson": "basic_ope_6",
+        "pages": [
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Resta de binomios"
+                    },
+                    {
+                        "type": "card_example",
+                        "content": [
+                            {
+                                "type": "short_example",
+                                "text": "(3x - 2) - (2x - 8)"
+                            },
+                            {
+                                "type": "short_example",
+                                "text": "= x + 6"
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "(3x - 2) - (2x - 8)"
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "= (3x - 2)  (-2x -+8)"
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "= (3x - 2)x - (8 - 2)"
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "(x) + (6)"
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "x + 6"
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "- Se eliminan paréntesis negativo cambiando los signos del segundo binomio."
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "- Se agrupan términos semejantes: los que tienen \"x\" y los números"
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "- Se hacen las operaciones"
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "3x - 2x = x"
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "8 - 2 = 6"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "body",
+                        "text": "Resuelve lo siguiente"
+                    },
+                    {
+                        "type": "input_exercise",
+                        "text": "(2x - x) + 5 = "
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Ordena verticalmente los pasos para simplificar la expresión"
+                    },
+                    {
+                        "type": "body",
+                        "text": "(-3a + b) + (2a + b) ="
+                    },
+                    {
+                        "type": "card_drag_dynamic",
+                        "list_cards": ["-a + 2b", "(-3a + 2a) + (b + b)"],
+                        "list_questions": [""]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Ordena verticalmente los pasos para simplificar la expresión"
+                    },
+                    {
+                        "type": "body",
+                        "text": "(4y - 2) - (2y + 3) ="
+                    },
+                    {
+                        "type": "card_drag_dynamic",
+                        "list_cards": ["(4y - 2y) + (-2 - 3)", "2y - 5", "(4y - 2) + (2y - 3)"],
+                        "list_questions": [""]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Ordena verticalmente los pasos para simplificar la expresión"
+                    },
+                    {
+                        "type": "body",
+                        "text": "(3x - 2) - (2x - 8) ="
+                    },
+                    {
+                        "type": "card_drag_dynamic",
+                        "list_cards": ["x + 6", "(3x - 2) + (-2x + 8)", "(3x - 2x) + (8 - 2)"],
+                        "list_questions": [""]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Ordena verticalmente los pasos para simplificar la expresión"
+                    },
+                    {
+                        "type": "body",
+                        "text": "(3x - 2) - (2x - 8) ="
+                    },
+                    {
+                        "type": "card_drag_dynamic",
+                        "list_cards": ["x + 6", "(3x - 2) + (-2x + 8)", "3x - 2x) + (8 - 2)"],
+                        "list_questions": [""]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Ordena verticalmente los pasos para simplificar la expresión"
+                    },
+                    {
+                        "type": "body",
+                        "text": "-(4a - 3) + (2a + 5) ="
+                    },
+                    {
+                        "type": "card_drag_dynamic",
+                        "list_cards": ["(-4a + 3) + (2a + 5)", "(-4a + 2a) + (3 + 5)", "-2a + 8"],
+                        "list_questions": [""]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "OContesta correctamente"
+                    },
+                    {
+                        "type": "body",
+                        "text": "(Si lo deseas podrás escribir el procedimiento"
+                    },
+                    {
+                        "type": "input_exercise",
+                        "text": "(5a + 6) + (9a + 1) ="
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "OContesta correctamente"
+                    },
+                    {
+                        "type": "body",
+                        "text": "(Si lo deseas podrás escribir el procedimiento"
+                    },
+                    {
+                        "type": "input_exercise",
+                        "text": "(4x - 6y) - (-4x - 6y) ="
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "OContesta correctamente"
+                    },
+                    {
+                        "type": "body",
+                        "text": "(Si lo deseas podrás escribir el procedimiento"
+                    },
+                    {
+                        "type": "input_exercise",
+                        "text": "(2x - y) - (x - 2y + z) ="
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "OContesta correctamente"
+                    },
+                    {
+                        "type": "body",
+                        "text": "(Si lo deseas podrás escribir el procedimiento"
+                    },
+                    {
+                        "type": "input_exercise",
+                        "text": "x(2a + b) - b(x) + ax = "
+                    }
+                ]
+            }
+        ]
+    }
