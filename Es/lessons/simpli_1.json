@@ -1,0 +1,71 @@
+{
+        "id_lesson": "simpli_1",
+        "pages": [
+            {
+                "blocks": [
+                    {
+                        "type": "card_example",
+                        "content": [
+                            {
+                                "type": "image_url",
+                                "dark_url": "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/dark/ejem_simplitwo_one_one_dark.png",
+                                "light_url": "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/light/ejem_simplitwo_one_one_light.png"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "title",
+                        "text": "Resuelve lo siguiente"
+                    },
+                    {
+                        "type": "body",
+                        "text": "y^2 * y * y^2 =",
+                        "isMathText": true
+                    },
+                    {
+                        "type": "image_exercise",
+                        "urlDark": "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/dark/ejer_simplitwo_one_one_dark.png",
+                        "urlLight": "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/light/ejer_simplitwo_one_one_light.png"
+                    },
+                    {
+                        "type": "button_exercise",
+                        "list": ["y", "0", "y^5", "x^5"]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Verdadero o falso"
+                    },
+                    {
+                        "type": "body",
+                        "text": "z^2 * z^3 * z^3 = z^8",
+                        "isMathText": true
+                    },
+                    {
+                        "type": "button_exercise",
+                        "list": ["Verdadero", "Falso"]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Verdadero o falso"
+                    },
+                    {
+                        "type": "body",
+                        "text": "a^5 * a * a^3 = a^7",
+                        "isMathText": true
+                    },
+                    {
+                        "type": "button_exercise",
+                        "list": ["Verdadero", "Falso"]
+                    }
+                ]
+            }
+        ]
+    }
