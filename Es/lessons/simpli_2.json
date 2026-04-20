@@ -1,0 +1,219 @@
+{
+        "id_lesson": "simpli_2",
+        "pages": [
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "¿Cuantas veces se multiplica la \"x\" en la expresión?"
+                    },
+                    {
+                        "type": "body",
+                        "text": "x^2 * x(x) = x^2 * x^2 = x * x * x * x"
+                    },
+                    {
+                        "type": "button_exercise",
+                        "text": ["4", "3", "5", "0"]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "¿Cuantas veces se multiplica la \"x\" en la expresión?"
+                    },
+                    {
+                        "type": "body",
+                        "text": "a(a^3) * 3a = a^4 * 3a = 3 * a * a * a * a * a"
+                    },
+                    {
+                        "type": "button_exercise",
+                        "text": ["4", "5", "8", "3"]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "¿Cuantas veces se multiplica la \"x\" en la expresión?"
+                    },
+                    {
+                        "type": "body",
+                        "text": "x^2 * x(x^2) * x = x^2 * x^3"
+                    },
+                    {
+                        "type": "button_exercise",
+                        "text": ["3", "6", "8", "5"]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Multiplicación de potencias"
+                    },
+                    {
+                        "type": "card_example",
+                        "content": [
+                            {
+                                "type": "short_example",
+                                "text": "1) (-ab)^2 = (-ab)(-ab) = a^2b^2"
+                            },
+                            {
+                                "type": "short_example",
+                                "text": "1) (-ab)^3=(-ab)(-ab)(-ab)= -a^3b^3"
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "(-ab)^2 = (-ab)(-ab) = a^2b^2"
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "Pasos:"
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "- Multiplicar dos veces (-ab) es:"
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "ab * ab = a^2b^2"
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "- * - = +"
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "... (-ab)(-ab) = +a^2b^2"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "title",
+                        "text": "Verdadero o falso"
+                    },
+                    {
+                        "type": "body",
+                        "text": "(-3a)^3 = (-3a)(-3a)(-3a) = 27a^3"
+                    },
+                    {
+                        "type": "button_exercise",
+                        "text": ["Verdadero", "Falso"]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "card_example",
+                        "content": [
+                            {
+                                "type": "short_example",
+                                "text": "1) (-ab)^2 = (-ab)(-ab) = a^2b^2"
+                            },
+                            {
+                                "type": "short_example",
+                                "text": "1) (-ab)^3=(-ab)(-ab)(-ab)= -a^3b^3"
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "(-ab)^2 = (-ab)(-ab) = a^2b^2"
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "Pasos:"
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "- Multiplicar dos veces (-ab) es:"
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "ab * ab = a^2b^2"
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "- * - = +"
+                            },
+                            {
+                                "type": "large_example",
+                                "text": "... (-ab)(-ab) = +a^2b^2"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "title",
+                        "text": "Contesta correctamente"
+                    },
+                    {
+                        "type": "input_exercise",
+                        "text": "(-2ab)^2 = "
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "El resultado del ejercicio tiene como signo"
+                    },
+                    {
+                        "type": "body",
+                        "text": "(-a)^3 = (-a)(-a)(-a) = "
+                    },
+                    {
+                        "type": "button_exercise",
+                        "text": ["positivo", "negativo"]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "El resultado del ejercicio tiene como signo"
+                    },
+                    {
+                        "type": "body",
+                        "text": "(-a)^4 = (-a)(-a)(-a)(-a) = "
+                    },
+                    {
+                        "type": "button_exercise",
+                        "text": ["positivo", "negativo"]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "El resultado del ejercicio tiene como signo"
+                    },
+                    {
+                        "type": "body",
+                        "text": "(-a)^5 = (-a)(-a)(-a) = "
+                    },
+                    {
+                        "type": "button_exercise",
+                        "text": ["positivo", "negativo"]
+                    }
+                ]
+            },
+            {
+                "blocks": [
+                    {
+                        "type": "title",
+                        "text": "Contesta correctamente"
+                    },
+                    {
+                        "type": "input_exercise",
+                        "text": "(xyz)^3 = "
+                    }
+                ]
+            }
+        ]
+    }
