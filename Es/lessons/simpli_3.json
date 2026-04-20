@@ -1,0 +1,202 @@
+{
+    "id_lesson": "simpli_3",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Multiplicación de potencias"
+                },
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "1) (2a)(2ab) = 4a^2b"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "2) (2b^2)(ab) = 2ab^3"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "1) (2a)(2ab) = 4a^2b"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Pasos:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Multiplicar los números:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "2 * 2 = 4"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Multiplica las letras con la misma base:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "a * a = a^2"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Al final, multiplica b:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "4a^2b"
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "2(ab)(b)(abc) = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Ordena verticalmente los pasos que resuelven la ecuación"
+                },
+                {
+                    "type": "body",
+                    "text": "2(a * a) * 2(a^2)^2 ="
+                },
+                {
+                    "type": "card_drag_dynamic",
+                    "list_cards": ["= 4a^6", "= 4(a * a * a * a * a * a)", "= 2(a * a) * 2(a * a * a * a)",
+                                   "= 2(a * a) * 2(a^4)"],
+                    "list_questions": [""]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Cuál de las opciones es equivalente a:"
+                },
+                {
+                    "type": "card_dynamic",
+                    "list": ["(a^2)^2 =", "a^2", "a^3", "a*a*a*a", "4a", "-a^4", "a*a"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Ordena verticalmente los pasos que resuelven la ecuación"
+                },
+                {
+                    "type": "body",
+                    "text": "x^2(x * x)(xy) ="
+                },
+                {
+                    "type": "card_drag_dynamic",
+                    "list_cards": ["= x * x * x * x * x * y", "= x^5y", "= (x * x)(x * x)(xy)"],
+                    "list_questions": [""]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Cuál de las opciones es equivalente a:"
+                },
+                {
+                    "type": "card_dynamic",
+                    "list": ["(x^3)^3 =", "x^7", "x^3", "x^9", "x^6"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Ordena verticalmente los pasos que resuelven la ecuación"
+                },
+                {
+                    "type": "body",
+                    "text": "(a) * (a * a)^2"
+                },
+                {
+                    "type": "card_drag_dynamic",
+                    "list_cards": ["= a^5", "= a * (a^2 * a^2)", "= a * a * a * a * a"],
+                    "list_questions": [""]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "a(x)(xy)^2(ax) = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "m^2 * m^2 * m^3 = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "(3a^2b)^3 = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "[(ab)^3]^2 = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Cuál de las opciones es equivalente a:"
+                },
+                {
+                    "type": "card_dynamic",
+                    "list": ["3[(xyz)^2]^2 =", "3x^2y^2z^2", "3x^4y^4z^4", "3x^8y^8z^8", "3x^3y^3z^3", "3x^43y^4z^4"]
+                }
+            ]
+        }
+    ]
+}
