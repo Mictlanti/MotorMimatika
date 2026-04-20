@@ -66,7 +66,8 @@
                 },
                 {
                     "type": "body",
-                    "text": "(b - 1)(a - 1) ="
+                    "text": "(b - 1)(a - 1) =",
+                    "isMathText": true
                 },
                 {
                     "type": "input_list",
@@ -115,7 +116,8 @@
                 },
                 {
                     "type": "body",
-                    "text": "(2a + b)(x + 2y) ="
+                    "text": "(2a + b)(x + 2y) =",
+                    "isMathText": true
                 },
                 {
                     "type": "input_list",
@@ -164,7 +166,8 @@
                 },
                 {
                     "type": "body",
-                    "text": "(x - 2y)(a - 3b) ="
+                    "text": "(x - 2y)(a - 3b) =",
+                    "isMathText": true
                 },
                 {
                     "type": "input_list",
@@ -180,7 +183,8 @@
                 },
                 {
                     "type": "body",
-                    "text": "(a - b)(5x - 3y) ="
+                    "text": "(a - b)(5x - 3y) =",
+                    "isMathText": true
                 },
                 {
                     "type": "input_list",
