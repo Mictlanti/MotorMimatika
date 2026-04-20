@@ -13,7 +13,7 @@
                         },
                         {
                             "type": "large_example",
-                            "text": "Al dividir, se \"cancela\" la cantidad de x de arriba con la cantidad de x de abajo."
+                            "text": "Al dividir, se \"cancela\" la cantidad de x del numerador con la cantidad de x del denominador."
                         }
                     ]
                 },
