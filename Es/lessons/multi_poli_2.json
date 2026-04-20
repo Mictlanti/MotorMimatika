@@ -1,0 +1,192 @@
+{
+    "id_lesson": "multi_poli_2",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Resuelve lo siguiente"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "(2a - b)(c + d) = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Resuelve lo siguiente"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "(5x - y)(5a - b) = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(a + b)(x + y) = a(x + y) + b(x + y)"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "= ax + ay + bx + by"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Se aplica la propiedad distributiva:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "a(x + y) = ax + ay"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "b(x + y) = bx + by"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Se suman los resultados:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "ax + ay + bx + by"
+                        }
+                    ]
+                },
+                {
+                    "type": "body",
+                    "text": "Encuentra y corrige el paso incorrecto dentro de la solución de la expresión:"
+                },
+                {
+                    "type": "body",
+                    "text": "(b - 1)(a - 1) ="
+                },
+                {
+                    "type": "input_list",
+                    "text": ["b(a - 1) - (a - 1) =", "ba - b - a + 1 =", "ab + ab + 1 = 2ab + 1"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(a + b)(x + y) = a(x + y) + b(x + y)"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "= ax + ay + bx + by"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Se aplica la propiedad distributiva:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "a(x + y) = ax + ay"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "b(x + y) = bx + by"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Se suman los resultados:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "ax + ay + bx + by"
+                        }
+                    ]
+                },
+                {
+                    "type": "body",
+                    "text": "Encuentra y corrige el paso incorrecto dentro de la solución de la expresión:"
+                },
+                {
+                    "type": "body",
+                    "text": "(2a + b)(x + 2y) ="
+                },
+                {
+                    "type": "input_list",
+                    "text": ["2a(x + 2y) - b(x + 2y)", "2ax + 4ay - bx - 2by"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(a + b)(x + y) = a(x + y) + b(x + y)"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "= ax + ay + bx + by"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Se aplica la propiedad distributiva:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "a(x + y) = ax + ay"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "b(x + y) = bx + by"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Se suman los resultados:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "ax + ay + bx + by"
+                        }
+                    ]
+                },
+                {
+                    "type": "body",
+                    "text": "Encuentra y corrige el paso incorrecto dentro de la solución de la expresión:"
+                },
+                {
+                    "type": "body",
+                    "text": "(x - 2y)(a - 3b) ="
+                },
+                {
+                    "type": "input_list",
+                    "text": ["a(x - 2y) - 3b(x - 2y)", "ax + 2ax - 2bx - 6by"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Encuentra y corrige el paso incorrecto dentro de la solución de la expresión:"
+                },
+                {
+                    "type": "body",
+                    "text": "(a - b)(5x - 3y) ="
+                },
+                {
+                    "type": "input_list",
+                    "text": ["a(5x + 3y) + b(5x + 3y)", "5ax - 3ay - 5bx + 3by"]
+                }
+            ]
+        }
+    ]
+}
