@@ -1,0 +1,185 @@
+{
+    "id_lesson": "simpli_4",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "image_url",
+                            "dark_url": "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/dark/ejem_simplimonopoli_four_dark.png",
+                            "light_url": "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/light/ejem_simplimonopoli_four_light.png"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Al dividir, se \"cancela\" la cantidad de x de arriba con la cantidad de x de abajo."
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Cuál es el resultado de:"
+                },
+                {
+                    "type": "image_exercise",
+                    "urlDark": "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/dark/ejer_simplitwo_three_one_dark.png",
+                    "urlLight": "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/light/ejer_simplitwo_three_one_light.png"
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["a^2", "a^4", "a", "a^9"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "image_url",
+                            "dark_url": "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/dark/ejem_simplimonopoli_four_dark.png",
+                            "light_url": "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/light/ejem_simplimonopoli_four_light.png"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Al dividir, se \"cancela\" la cantidad de x de arriba con la cantidad de x de abajo."
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "body",
+                    "text": "a^4 / a^3 =",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["a^5", "a^7", "a", "a^2"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "image_url",
+                            "dark_url": "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/dark/ejem_simplimonopoli_four_dark.png",
+                            "light_url": "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/light/ejem_simplimonopoli_four_light.png"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Al dividir, se \"cancela\" la cantidad de x de arriba con la cantidad de x de abajo."
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "body",
+                    "text": "a^6 / a =",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["a^5", "a^4", "a^2", "a^6"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "body",
+                    "text": "a^2 / a =",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["a^5", "a^3", "a", "a^2"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "body",
+                    "text": "a^9 / a^4 =",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["a^5", "a^3", "a", "a^2"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "body",
+                    "text": "a^5 / a^2 =",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["a^2", "a^3", "a^4", "a"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "(x^2)^2 / x^3 = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "(a^3 * a^2)/ a^2 = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "(x^6 / x^2) * (x^2 / x) = "
+                }
+            ]
+        }
+    ]
+}
