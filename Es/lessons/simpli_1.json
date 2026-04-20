@@ -1,71 +1,243 @@
 {
-        "id_lesson": "simpli_1",
-        "pages": [
-            {
-                "blocks": [
-                    {
-                        "type": "card_example",
-                        "content": [
-                            {
-                                "type": "image_url",
-                                "dark_url": "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/dark/ejem_simplitwo_one_one_dark.png",
-                                "light_url": "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/light/ejem_simplitwo_one_one_light.png"
-                            }
-                        ]
-                    },
-                    {
-                        "type": "title",
-                        "text": "Resuelve lo siguiente"
-                    },
-                    {
-                        "type": "body",
-                        "text": "y^2 * y * y^2 =",
-                        "isMathText": true
-                    },
-                    {
-                        "type": "image_exercise",
-                        "urlDark": "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/dark/ejer_simplitwo_one_one_dark.png",
-                        "urlLight": "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/light/ejer_simplitwo_one_one_light.png"
-                    },
-                    {
-                        "type": "button_exercise",
-                        "list": ["y", "0", "y^5", "x^5"]
-                    }
-                ]
-            },
-            {
-                "blocks": [
-                    {
-                        "type": "title",
-                        "text": "Verdadero o falso"
-                    },
-                    {
-                        "type": "body",
-                        "text": "z^2 * z^3 * z^3 = z^8",
-                        "isMathText": true
-                    },
-                    {
-                        "type": "button_exercise",
-                        "list": ["Verdadero", "Falso"]
-                    }
-                ]
-            },
-            {
-                "blocks": [
-                    {
-                        "type": "title",
-                        "text": "Verdadero o falso"
-                    },
-                    {
-                        "type": "body",
-                        "text": "a^5 * a * a^3 = a^7",
-                        "isMathText": true
-                    },
-                    {
-                        "type": "button_exercise",
-                        "list": ["Verdadero", "Falso"]
-                    }
-                ]
-            }
-        ]
-    }
+    "id_lesson": "simpli_1",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "image_url",
+                            "dark_url": "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/dark/ejem_simplitwo_one_one_dark.png",
+                            "light_url": "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/light/ejem_simplitwo_one_one_light.png"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- x^3 significa multiplicar x tres veces: x * x * x"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- x^4 significa multiplicar x cuatro veces: x * x * x * x"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Al multiplicar ambos: x^3 * x^4 = x^7"
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Resuelve lo siguiente"
+                },
+                {
+                    "type": "body",
+                    "text": "y^2 * y * y^2 =",
+                    "isMathText": true
+                },
+                {
+                    "type": "image_exercise",
+                    "urlDark": "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/dark/ejer_simplitwo_one_one_dark.png",
+                    "urlLight": "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/light/ejer_simplitwo_one_one_light.png"
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["y", "0", "y^5", "x^5"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Verdadero o falso"
+                },
+                {
+                    "type": "body",
+                    "text": "z^2 * z^3 * z^3 = z^8",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["Verdadero", "Falso"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Verdadero o falso"
+                },
+                {
+                    "type": "body",
+                    "text": "a^5 * a * a^3 = a^7",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["Verdadero", "Falso"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "image_url",
+                            "dark_url": "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/dark/ejem_simplitwo_one_one_dark.png",
+                            "light_url": "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/light/ejem_simplitwo_one_one_light.png"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- x^3 significa multiplicar x tres veces: x * x * x"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- x^4 significa multiplicar x cuatro veces: x * x * x * x"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Al multiplicar ambos: x^3 * x^4 = x^7"
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "¿Cuántas veces se multiplica la \"x\"?"
+                },
+                {
+                    "type": "body",
+                    "text": "x^2 * x^4 * x =",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["4", "7", "8", "6"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "¿Cuántas veces se multiplica la \"b\"?"
+                },
+                {
+                    "type": "body",
+                    "text": "b^3 * b^2 * b^3 =",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["7", "5", "8", "6"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "¿Cuántas veces se multiplica la \"a\"?"
+                },
+                {
+                    "type": "body",
+                    "text": "a^3 * a * b =",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["3", "5", "3", "0"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "¿Cuántas veces se multiplica la \"x\"?"
+                },
+                {
+                    "type": "body",
+                    "text": "x^2 * x(x) =",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["3", "2", "4", "0"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "¿Cuántas veces se multiplica la \"a\"?"
+                },
+                {
+                    "type": "body",
+                    "text": "a^2 * 2a =",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["3", "5", "3", "0"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "¿Cuántas veces se multiplica la \"a\"?"
+                },
+                {
+                    "type": "body",
+                    "text": "a(a^3) * 3a =",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["3", "4", "2", "5"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Selecciona la opción correcta"
+                },
+                {
+                    "type": "card_dynamic",
+                    "list": ["(2a)(2a) = 4", "a^2", "a", "a + a", "a^3", "a^5", "a(a^3)"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Completa la operación"
+                },
+                {
+                    "type": "card_dynamic",
+                    "list": ["-2a^4 * a^2 =", "-2", "2 + a^2", "a^9", "a^6", "-2a + 1"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Completa la operación"
+                },
+                {
+                    "type": "card_dynamic",
+                    "list": ["-3a^4 * 2a^2 =", "-2a^6", "5 + a^3", "a^6", "-6a^6", "0", "-6a + 1"]
+                }
+            ]
+        }
+    ]
+}
