@@ -97,7 +97,7 @@
                 },
                 {
                     "type": "button_exercise",
-                    "labelText": ["x^2 + ax + xy + ay", "x^2 + ax - xy - ay"]
+                    "list": ["x^2 + ax + xy + ay", "x^2 + ax - xy - ay"]
                 }
             ]
         },
