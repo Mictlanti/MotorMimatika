@@ -1,0 +1,291 @@
+{
+    "id_lesson": "sistem_equa_1_1",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Completa la operación"
+                },
+                {
+                    "type": "body",
+                    "text": "Un sistema de ecuaciones lineales con dos variables \"(x, y)\", puede expresarse como:",
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "ax + by = c",
+                    "equationTwo": "dx + ey = f"
+                },
+                {
+                    "type": "body",
+                    "text": "Consiste en hallar el punto en el que dos rectas se cruzan en un gráfico.",
+                },
+                {
+                    "type": "body",
+                    "text": "Durante las sesiones veremos distintas maneras de resolver un sistema de ecuaciones.",
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Método por eliminación"
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "3x + y = 5    ...1",
+                    "equationTwo": "5x + 2y = 11   ...2"
+                },
+                {
+                    "type": "body",
+                    "text": "De 1 - 2",
+                },
+                {
+                    "type": "body",
+                    "text": "(3x + 2y) - (5x + 2y) = 5 - 11",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "-2x = -6",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "x = -6/-2",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "x = 3",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Sustituyendo x = 3 en 1",
+                },
+                {
+                    "type": "body",
+                    "text": "3(3) + y = 5",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "y = -2",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "...(x, y) = (3, -2)",
+                    "isMathText": true
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Paso 1. Enumera las ecuaciones"
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "ax + by = c (1ra ecuación)",
+                    "equationTwo": "dx + ey = f (2da ecuación)"
+                },
+                {
+                    "type": "body",
+                    "text": "Del siguiente sistema, ¿a qué ecuación le corresponde ser la 2da ecuación?",
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "5x + 3y = 11",
+                    "equationTwo": "2x - 3y = -4"
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["5x+3y=11", "2x-3y=-4"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Paso 2. Resta las ecuaciones"
+                },
+                {
+                    "type": "body",
+                    "text": "Observa que ambas ecuaciones tienen el mismo coeficiente para \"y\" (3y). Por ello, sumamos las ecuaciones para eliminar esa variable.",
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "5x + 3y = 11   ...1",
+                    "equationTwo": "2x - 3y = -4   ...2"
+                },
+                {
+                    "type": "title",
+                    "text": "De 1 + 2",
+                },
+                {
+                    "type": "title",
+                    "text": "(5x + 3y) + (2x - 3y) = 11 - 4",
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["3x = -3", "7x = 7"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Continuación del paso 2. Despeja la variable"
+                },
+                {
+                    "type": "body",
+                    "text": "Ya que eliminamos una variable, podemos obtener el valor de la variable resultante.",
+                },
+                {
+                    "type": "title",
+                    "text": "7x = 7",
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["x = 1", "x = 2"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Paso 3. Sustituye el valor obtenido"
+                },
+                {
+                    "type": "body",
+                    "text": "Sustituye el valor obtenido en la ecuación 1 o 2.",
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "5x + 3y = 11   ...1",
+                    "equationTwo": "2x - 3y = -4   ...2"
+                },
+                {
+                    "type": "title",
+                    "text": "Sustituyendo x = 1 en 1 o 2",
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["y = 2", "y = 6"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Paso 4. Expresando resultados"
+                },
+                {
+                    "type": "body",
+                    "text": "Finalmente, expresa el valor obtenido de x, y, como par ordenado",
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "5x + 3y = 11   ...1",
+                    "equationTwo": "2x - 3y = -4   ...2"
+                },
+                {
+                    "type": "body",
+                    "text": "(5x + 3y) + (2x - 3y) = 11 - 4",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "7x = 7",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "x = 1",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Sustituyendo x = 1 en 1 o 2",
+                },
+                {
+                    "type": "body",
+                    "text": "5(1) + 3y = 11",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "y = 2",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["(x, y) = (2, 3)", "(x, y) = (1, 2)"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Verdadero o falso"
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "-2x - y = 6   ...1",
+                    "equationTwo": "-2x - 2y = 2   ...2"
+                },
+                {
+                    "type": "body",
+                    "text": "De 1 - 2"
+                },
+                {
+                    "type": "body",
+                    "text": "(-2x - y) - (-2x - 2y) = 6 - 2",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "y = 4",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Sustituyendo y = 4 en 1",
+                },
+                {
+                    "type": "body",
+                    "text": "-2x - (4) = 6",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "-2x = 10",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "x = 5",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "...(x, y) = (5, 4)",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["verdadero", "falso"]
+                }
+            ]
+        }
+    ]
+}
