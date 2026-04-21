@@ -1,0 +1,112 @@
+{
+    "id_lesson": "sistem_equa_1_3",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Contesta correctamente."
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "-x + 3y = 5    ...1",
+                    "equationTwo": "x + 5y = 11    ...2"
+                },
+                {
+                    "type": "process_free"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "",
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Contesta correctamente."
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "2x - y = 7   ...1",
+                    "equationTwo": "2x + 3y = 13   ...2"
+                },
+                {
+                    "type": "process_free"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "",
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "Title",
+                    "text": "Verdadero o falso"
+                },
+
+                {
+                    "type": "body",
+                    "text": "Del sistema de ecuaciones comprueba que:"
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "-2x - y = 6    ...1",
+                    "equationTwo": "-2x - 2y = 2   ...2"
+                },
+                {
+                    "type": "body",
+                    "text": "(x, y) = (1, 6)",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["(x, y) = (1, 6)"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Contesta correctamente."
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "4x + 2y = 10   ...1",
+                    "equationTwo": "4x + 3y = 23   ...2"
+                },
+                {
+                    "type": "process_free"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "",
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Contesta correctamente."
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "3x + 2y = 8   ...1",
+                    "equationTwo": "3x - 3y = -7   ...2"
+                },
+                {
+                    "type": "process_free"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "",
+                }
+            ]
+        }
+    ]
+}
