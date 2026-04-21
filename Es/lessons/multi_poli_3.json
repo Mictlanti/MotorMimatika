@@ -47,7 +47,7 @@
                 },
                 {
                     "type": "button_exercise",
-                    "list": ["x^2 + ax + xy + ay", "x^2 + ax - xy - ay"]
+                    "list": ["x^2+ax+xy+ay", "x^2+ax-xy-ay"]
                 }
             ]
         },
@@ -97,7 +97,7 @@
                 },
                 {
                     "type": "button_exercise",
-                    "list": ["x^2 + ax + xy + ay", "x^2 + ax - xy - ay"]
+                    "list": ["x^2+ax+xy+ay", "x^2+ax-xy-ay"]
                 }
             ]
         },
@@ -166,7 +166,7 @@
                 },
                 {
                     "type": "body",
-                    "text": "x^3 + 4x^2 + 6x + 4 =",
+                    "text": "x^3 + 4x^2 + 6x + 4",
                     "isMathText": true
                 },
                 {
@@ -193,7 +193,7 @@
                 },
                 {
                     "type": "body",
-                    "text": "= x^2-4x+12x-2x+8y-24",
+                    "text": "= x^2 - 4x + 12x - 2x + 8y - 24",
                     "isMathText": true
                 },
                 {
@@ -203,7 +203,7 @@
                 },
                 {
                     "type": "input_exercise",
-                    "text": "Respusta: "
+                    "text": "Respuesta: "
                 }
             ]
         }
