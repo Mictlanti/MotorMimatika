@@ -1,0 +1,78 @@
+{
+    "id_lesson": "multi_poli_5",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Completa la operación"
+                },
+                {
+                    "type": "body",
+                    "text": "(x^2 - 2x)(2x^2 + 2x - 1)",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "=2x^4 + 2x^3 - x^2 - 4x^3 - 4x^2 + 2x",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "= "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Selecciona la(s) opción con el error y corrige."
+                },
+                {
+                    "type": "body",
+                    "text": "(x + 1)(x + 1)(x + 1) =",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_list",
+                    "labelText": ["(x + 1)(x^2 + 2x + 1)", "x(x^2+2x+1) + (x^2+2x+1)", "x^3 + x^2 + x + x^2 + 2x + 1", "x^3 + 3x^2 + 3x + 1"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Selecciona la(s) opción con el error y corrige."
+                },
+                {
+                    "type": "body",
+                    "text": "(x + 3)(x + 3)(x + 3) =",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_list",
+                    "labelText": ["x(x + 3)(x + 9 + 6)", "x(x^2+6x+9) + 3(x^2+6x+9)", "x^3 + 6x^2 + 9x + 3x^2 + 18x + 27", "x^3 + 9x^2 + 27x + 27"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Selecciona la(s) opción con el error y corrige."
+                },
+                {
+                    "type": "body",
+                    "text": "(x + 1)(x + 2)(x + 3) =",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_list",
+                    "labelText": ["(x^2 + 3x + 2)(x + 3)", "x(x^2 + 3x + 2) + 3((x^2 + 3x + 2)", "x^3 + 2x + x^2 + 9x + 6", "x^3 + 6x^2 + 11x + 6"]
+                }
+            ]
+        }
+    ]
+}
