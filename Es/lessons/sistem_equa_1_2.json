@@ -1,0 +1,190 @@
+{
+    "id_lesson": "sistem_equa_1_2",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Con lo aprendido, resuelve lo siguiente"
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "x - 5y = -11   ...1",
+                    "equationTwo": "3x + 5y = 7    ...2"
+                },
+                {
+                    "type": "body",
+                    "text": "De 1 + 2, ¿Cuál es el valor de la variable x?",
+                },
+                {
+                    "type": "body",
+                    "text": "(x - 5y) + (3x + 5y) = -11 + 7",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "x = ",
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Sustituye el valor obtenido y obtén \"y\""
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "x - 5y = -11   ...1",
+                    "equationTwo": "3x + 5y = 7    ...2"
+                },
+                {
+                    "type": "body",
+                    "text": "x - 5y + 3x + 5y = 7 - 11",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "x = 1",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Sustituyendo:"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "y = ",
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Expresa los valores obtenidos"
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "x - 5y = -11   ...1",
+                    "equationTwo": "3x + 5y = 7    ...2"
+                },
+                {
+                    "type": "body",
+                    "text": "x - 5y + 3x + 5y = 7 - 11",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "x = 1",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Sustituyendo en 1"
+                },
+                {
+                    "type": "body",
+                    "text": "(1) - 5y = -11",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "y = 2",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "(x, y) = ",
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Resuelve lo siguiente"
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "-2x - 7y = 25   ...1",
+                    "equationTwo": "-2x - 5y = 19    ...2"
+                },
+                {
+                    "type": "body",
+                    "text": "De 1 - 2, ¿Cuál es el valor de la variable y?",
+                },
+                {
+                    "type": "body",
+                    "text": "(-2x - 7y) - (-2x - 5y) = 25 + 19",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["y = -2", "y = -3"],
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Sustituye el valor obtenido"
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "-2x - 7y = 25   ...1",
+                    "equationTwo": "-2x - 5y = 19    ...2"
+                },
+                {
+                    "type": "body",
+                    "text": "y = -3",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Obtén x:",
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["x = -2", "x = -3", "x = 1", "x = -4"],
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Expresa los valores obtenidos"
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "-2x - 7y = 25   ...1",
+                    "equationTwo": "-2x - 5y = 19    ...2"
+                },
+                {
+                    "type": "body",
+                    "text": "De 1 - 2"
+                },
+                {
+                    "type": "body",
+                    "text": "y = -3",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Sustituyendo y = -3"
+                },
+                {
+                    "type": "body",
+                    "text": "x = -2",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "(x, y) = ",
+                }
+            ]
+        }
+    ]
+}
