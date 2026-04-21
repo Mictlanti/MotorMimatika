@@ -206,6 +206,65 @@
                     "text": "Respuesta: "
                 }
             ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Completa el proceso"
+                },
+                {
+                    "type": "body",
+                    "text": "(x^2 - 4x + 12)(x - 2) =",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "x(x^2-4x+12) - 2(x^2-4x+12) =",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "¿?",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "x^3 - 6x^2 + 20x - 24",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "Respuesta: "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Completa el proceso"
+                },
+                {
+                    "type": "body",
+                    "text": "(m - 7)(2m - n + 5) =",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "m(2m - n + 5) - 7(2m - n + 5) =",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "2m^2 - mn + 5m - 14m + 7n + 35 =",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "Respuesta: "
+                }
+            ]
         }
     ]
 }
