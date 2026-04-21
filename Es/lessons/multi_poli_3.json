@@ -97,7 +97,7 @@
                 },
                 {
                     "type": "button_exercise",
-                    "list": ["x^2 + ax + xy + ay", "x^2 + ax - xy - ay"]
+                    "labelText": ["x^2 + ax + xy + ay", "x^2 + ax - xy - ay"]
                 }
             ]
         },
@@ -118,7 +118,7 @@
                 },
                 {
                     "type": "input_list",
-                    "text": ["Ej. x(x + b) + x(y + b)", "Ej. x^2 + bx + xy + bx", "Ej. x^2 + 2bx + xy"]
+                    "labelText": ["Ej. x(x + b) + x(y + b)", "Ej. x^2 + bx + xy + bx", "Ej. x^2 + 2bx + xy"]
                 }
             ]
         },
@@ -139,7 +139,7 @@
                 },
                 {
                     "type": "input_list",
-                    "text": ["Ej. x(x + b) + x(y + b)", "Ej. x^2 + bx + xy + bx", "Ej. x^2 + 2bx + xy"]
+                    "labelText": ["Ej. x(x + b) + x(y + b)", "Ej. x^2 + bx + xy + bx", "Ej. x^2 + 2bx + xy"]
                 }
             ]
         },
