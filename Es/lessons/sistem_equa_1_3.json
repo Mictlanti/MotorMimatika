@@ -44,7 +44,7 @@
         {
             "blocks": [
                 {
-                    "type": "Title",
+                    "type": "title",
                     "text": "Verdadero o falso"
                 },
 
