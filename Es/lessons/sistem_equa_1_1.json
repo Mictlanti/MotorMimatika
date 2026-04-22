@@ -116,7 +116,7 @@
                 },
                 {
                     "type": "body",
-                    "text": "Observa que ambas ecuaciones tienen el mismo coeficiente para \"y\" (3y). Por ello, sumamos las ecuaciones para eliminar esa variable.",
+                    "text": "Observa que ambas ecuaciones tienen el mismo coeficiente para \"y\" (3y). Por ello, sumamos las ecuaciones para eliminar esa variable."
                 },
                 {
                     "type": "linear_system",
@@ -125,11 +125,12 @@
                 },
                 {
                     "type": "title",
-                    "text": "De 1 + 2",
+                    "text": "De 1 + 2"
                 },
                 {
-                    "type": "title",
+                    "type": "body",
                     "text": "(5x + 3y) + (2x - 3y) = 11 - 4",
+                    "isMathText": true
                 },
                 {
                     "type": "button_exercise",
@@ -145,11 +146,12 @@
                 },
                 {
                     "type": "body",
-                    "text": "Ya que eliminamos una variable, podemos obtener el valor de la variable resultante.",
+                    "text": "Ya que eliminamos una variable, podemos obtener el valor de la variable resultante."
                 },
                 {
-                    "type": "title",
+                    "type": "body",
                     "text": "7x = 7",
+                    "isMathText": true
                 },
                 {
                     "type": "button_exercise",
