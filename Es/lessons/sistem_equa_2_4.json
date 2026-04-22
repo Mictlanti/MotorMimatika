@@ -75,7 +75,8 @@
                     "list": [
                         "x, porque su MCM es 5: MCM(5, 1) = 5",
                         "y, porque su MCM es 12: MCM(3, 4) = 12"
-                    ]
+                    ],
+                    "isColumnExercise": true
                 }
             ]
         }
