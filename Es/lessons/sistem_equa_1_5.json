@@ -99,7 +99,7 @@
                 { "type": "process_free" },
                 {
                     "type": "input_exercise",
-                    "text": "(x, y) ",
+                    "text": "",
                 }
             ]
         }
