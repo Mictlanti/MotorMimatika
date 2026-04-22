@@ -8,7 +8,7 @@
                     "text": "¿Cuándo un sistema de ecuaciones no tiene solución?"
                 },
                 {
-                    "type": "Title",
+                    "type": "title",
                     "text": "Parte 1. Sistema de ecuaciones",
                 },
                 {
@@ -34,7 +34,7 @@
                     "text": "Donde \"m\" es la pendiente y b es el punto donde cruza en el eje vertical."
                 },
                 {
-                    "type": "Title",
+                    "type": "title",
                     "text": "Parte 2. Transformamos a ecuación de la recta",
                 },
                 {
@@ -88,7 +88,7 @@
                     "text": "Ambas rectas tiene la misma pendiente mx."
                 },
                 {
-                    "type": "Title",
+                    "type": "title",
                     "text": "Parte 3. ¿Qué significa que tengan la misma pendiente?"
                 },
                 {
