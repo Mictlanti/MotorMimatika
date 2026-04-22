@@ -1,0 +1,160 @@
+{
+    "id_lesson": "sistem_equa_2_2",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Del sistema de ecuaciones:"
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "2x + y = 1    ...1",
+                    "equationTwo": "5x + 3y = 2   ...2"
+                },
+                {
+                    "type": "body",
+                    "text": "¿Cuál ecuación elegirías por ser más fácil de despejar?"
+                },
+                {
+                    "type": "button_exercise",
+                    "list": [
+                        "1, porque la variable \"y\" tiene coeficiente 1",
+                        "2, porque tiene números más grandes"
+                    ] ,
+                    "isColumnExercise": true
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Método por sustitución"
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "2x + y = 1    ...1",
+                    "equationTwo": "5x + 3y = 2   ...2"
+                },
+                {
+                    "type": "body",
+                    "text": "Despejando la variable \"y\" de 1:",
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "y = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Paso 2. Sustituyendo el valor obtenido y obtén x."
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "2x + y = 1    ...1",
+                    "equationTwo": "5x + 3y = 2   ...2"
+                },
+                {
+                    "type": "body",
+                    "text": "Despejando la variable \"y\" de 1:"
+                },
+                {
+                    "type": "body",
+                    "text": "y = -2x + 1",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Sustituyendo en 2:"
+                },
+                {
+                    "type": "body",
+                    "text": "5x + 3(-2x + 1) = 1",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "x = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Paso 3. Encontrando \"y\" y expresando los valores."
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "2x + y = 1    ...1",
+                    "equationTwo": "5x + 3y = 2   ...2"
+                },
+                {
+                    "type": "body",
+                    "text": "Despejando la variable \"y\" de 1:"
+                },
+                {
+                    "type": "body",
+                    "text": "y = -2x + 1",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Sustituyendo en 2:"
+                },
+                {
+                    "type": "body",
+                    "text": "5x + 3(-2x + 1) = 1",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "x = 1",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Sustituyendo en 1:"
+                },
+                {
+                    "type": "body",
+                    "text": "2(1) + y = 1",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "y = -1",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "(x, y) = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Contesta correctamente."
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "2x + y = 5     ...1",
+                    "equationTwo": "-2x + 3y = 7    ...2"
+                },
+                {
+                    "type": "process_free"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "",
+                }
+            ]
+        }
+    ]
+}
