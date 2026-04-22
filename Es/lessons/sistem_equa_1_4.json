@@ -1,0 +1,226 @@
+{
+    "id_lesson": "sistem_equa_1_4",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Método por igualación"
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "-2x - y = 6    ...1",
+                    "equationTwo": "-2x - 2y = 2   ...2"
+                },
+                {
+                    "type": "body",
+                    "text": "Despejando \"y\" de 1:",
+                },
+                {
+                    "type": "body",
+                    "text": "-y = 2x + 6",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "y = -2x - 6",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Despejando \"y\" de 2:",
+                },
+                {
+                    "type": "body",
+                    "text": "y = - (2x + 2) / 2",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "y = x - 1",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Igualando los resultados:",
+                },
+                {
+                    "type": "body",
+                    "text": "-2x - 6 = x - 1",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "-2x - x = 6 - 1",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "x = -5",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Sustituyendo x = -5 en 1:",
+                },
+                {
+                    "type": "body",
+                    "text": "y = 4",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "...(x, y) = (-5, 4)",
+                    "isMathText": true
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Paso 1. Despejan \"y\" de la ecuación 1."
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "-2x - y = 6   ...1",
+                    "equationTwo": "-2x - 2y = 2   ...2"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "y = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Paso 2. Despeja \"y\" la segunda ecuación."
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "-2x - y = 6   ...1",
+                    "equationTwo": "-2x - 2y = 2   ...2"
+                },
+                {
+                    "type": "title",
+                    "text": "Despejando y de 1:"
+                },
+                {
+                    "type": "body",
+                    "text": "y = -2x - 6",
+                    "isMathText": true
+                },
+                {
+                    "type": "title",
+                    "text": "Despejando y de 2:"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "y = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Paso 3. Igualando los valores"
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "-2x - y = 6   ...1",
+                    "equationTwo": "-2x - 2y = 2   ...2"
+                },
+                {
+                    "type": "title",
+                    "text": "Despejando y de 1:"
+                },
+                {
+                    "type": "body",
+                    "text": "y = -2x - 6",
+                    "isMathText": true
+                },
+                {
+                    "type": "title",
+                    "text": "Despejando y de 2:"
+                },
+                {
+                    "type": "body",
+                    "text": "y = -x - 1",
+                    "isMathText": true
+                },
+                {
+                    "type": "title",
+                    "text": "Igualando ambos términos de \"y\" para hallar \"x\":"
+                },{
+                    "type": "body",
+                    "text": "-2x - 6 = -x - 1",
+                    "isMathText": true
+                },
+                {
+                    "type": "title",
+                    "text": "¿Cuál es el valor de x?"
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["x = -2", "x = -5"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Paso 4. Halla la variable restante y expresa el resultado"
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "-2x - y = 6   ...1",
+                    "equationTwo": "-2x - 2y = 2   ...2"
+                },
+                {
+                    "type": "title",
+                    "text": "Despejando y de 1:"
+                },
+                {
+                    "type": "body",
+                    "text": "y = -2x - 6",
+                    "isMathText": true
+                },
+                {
+                    "type": "title",
+                    "text": "Despejando y de 2:"
+                },
+                {
+                    "type": "body",
+                    "text": "y = -x - 1",
+                    "isMathText": true
+                },
+                {
+                    "type": "title",
+                    "text": "Igualando ambos términos de \"y\" para hallar \"x\":"
+                },
+                {
+                    "type": "body",
+                    "text": "-2x - 6 = -x - 1",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "x = -5",
+                    "isMathText": true
+                },
+                {
+                    "type": "title",
+                    "text": "Sustituyendo x = 5 en 1 o 2 y expresando el resultado:"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "(x, y) = "
+                }
+            ]
+        }
+    ]
+}
