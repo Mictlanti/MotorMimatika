@@ -110,7 +110,6 @@
                 },
                 {
                     "type": "linear_graphic",
-                    "repeat": 1,
                     "firstPointX": [-2.0, -1.0],
                     "firstPointY": [-5.0, -6.0],
                     "secondPointX": [3.0, 5.0],
