@@ -1,0 +1,114 @@
+{
+    "id_lesson": "sistem_equa_2_1",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "¿Cuándo un sistema de ecuaciones no tiene solución?"
+                },
+                {
+                    "type": "Title",
+                    "text": "Parte 1. Sistema de ecuaciones",
+                },
+                {
+                    "type": "body",
+                    "text": "Un sistema de ecuaciones lineales representa dos (o más) rectas. Como:",
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "6x - 3y = 3   ...1",
+                    "equationTwo": "2x - y = 4   ...2"
+                },
+                {
+                    "type": "body",
+                    "text": "Cada ecuación podemos expresarlos en la forma de la recta:"
+                },
+                {
+                    "type": "body",
+                    "text": "y = mx + b",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Donde \"m\" es la pendiente y b es el punto donde cruza en el eje vertical."
+                },
+                {
+                    "type": "Title",
+                    "text": "Parte 2. Transformamos a ecuación de la recta",
+                },
+                {
+                    "type": "body",
+                    "text": "De 1: ",
+                },
+                {
+                    "type": "body",
+                    "text": "6x - 3y = 3",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "y = 2x - 1",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "¿Qué implica lo anterior?"
+                },
+                {
+                    "type": "button_exercise",
+                    "list": [
+                        "Una recta con pendiente -1 que corta el eje X en 2",
+                        "Una recta con pendiente 2 que corta el eje X en -1",
+                        "Una recta con pendiente 2 que corta el eje Y en -1",
+                        "Una recta con pendiente -1 que corta el eje Y en 2"
+                    ],
+                    "isColumnExercise": true
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Transformando la ecuación 1 y 2:"
+                },
+                {
+                    "type": "body",
+                    "text": "y = 2x - 1",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "y = 2x - 4",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Ambas rectas tiene la misma pendiente mx."
+                },
+                {
+                    "type": "Title",
+                    "text": "Parte 3. ¿Qué significa que tengan la misma pendiente?"
+                },
+                {
+                    "type": "body",
+                    "text": "Dos rectas con igual pendiente van EXACTAMENTE en la misma dirección: son paralelas.\nSignifica que no hay ningún punto (x, y) que satisfaga ambas ecuaciones."
+                },
+                {
+                    "type": "body",
+                    "text": "Matemáticamente decimos:"
+                },
+                {
+                    "type": "body",
+                    "text": "(x, y) = N",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Gráficamente:"
+                }
+            ]
+        }
+    ]
+}
