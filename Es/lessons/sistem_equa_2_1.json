@@ -293,8 +293,9 @@
                     "text": "Obteniendo x:"
                 },
                 {
-                    "type": "input_exercise",
-                    "text": "x = 2"
+                    "type": "body",
+                    "text": "x = 2",
+                    "isMathText": true
                 },
                 {
                     "type": "body",
