@@ -116,6 +116,264 @@
                     "secondPointY": [5.0, 6.0]
                 }
             ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Método por sustitución"
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "2x + y = 3    ...1",
+                    "equationTwo": "5x + 3y = 10   ...2"
+                },
+                {
+                    "type": "body",
+                    "text": "Despejando \"y\" de 1:"
+                },
+                {
+                    "type": "body",
+                    "text": "y = -2x + 3",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Sustituyendo en 2:"
+                },
+                {
+                    "type": "body",
+                    "text": "5x + 3(-2x + 3) = 10",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Obteniendo x:"
+                },
+                {
+                    "type": "body",
+                    "text": "x = -1",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Sustituyendo x = -1 en 1 o 2"
+                },
+                {
+                    "type": "body",
+                    "text": "y = 5",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Expresa como par ordenado:"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "...(x, y) = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Paso 1. Despeja la variable más fácil."
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "3x + y = 7    ...1",
+                    "equationTwo": "5x - 2y = 8   ...2"
+                },
+                {
+                    "type": "body",
+                    "text": "Despejando la variable \"y\" de 1:",
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "y = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Paso 2. Sustituyendo el valor obtenido en la ecuación"
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "3x + y = 7    ...1",
+                    "equationTwo": "5x - 2y = 8   ...2"
+                },
+                {
+                    "type": "body",
+                    "text": "Despejando la variable \"y\" de 1:"
+                },
+                {
+                    "type": "body",
+                    "text": "y = -3x + 7",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Sustituyendo en 2:"
+                },
+                {
+                    "type": "title",
+                    "text": "¿Cuál de las opciones es correcta?"
+                },
+                {
+                    "type": "button_exercise",
+                    "list": [
+                        "5x - 2(-3x + 7) = 8",
+                        "5(-3x + 7) - 2y = 8",
+                    ],
+                    "isColumnExercise": true
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Paso 3. Encuentra \"x\"."
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "3x + y = 7    ...1",
+                    "equationTwo": "5x - 2y = 8   ...2"
+                },
+                {
+                    "type": "body",
+                    "text": "Despejando la variable \"y\" de 1:"
+                },
+                {
+                    "type": "body",
+                    "text": "y = -3x + 7",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Sustituyendo en 2:"
+                },
+                {
+                    "type": "body",
+                    "text": "5x - 2(-3x + 7) = 8",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Obteniendo x:"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "x = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Paso 4. Encuentra \"y\" y expresa el resultado."
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "3x + y = 7    ...1",
+                    "equationTwo": "5x - 2y = 8   ...2"
+                },
+                {
+                    "type": "body",
+                    "text": "5x - 2(-3x + 7) = 8",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Obteniendo x:"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "x = 2"
+                },
+                {
+                    "type": "body",
+                    "text": "Obteniendo y:"
+                },
+                {
+                    "type": "body",
+                    "text": "3(2) + y = 7",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "y = 1",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "...(x, y) = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Verdadero o falso"
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "6x - 3y = 3",
+                    "equationTwo": "2x - y = 4"
+                },
+                {
+                    "type": "body",
+                    "text": "Despejando \"y\" de 2:"
+                },
+                {
+                    "type": "body",
+                    "text": "2x - y = 4",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "y = 2x - 4",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Sustituyendo en 1:"
+                },
+                {
+                    "type": "body",
+                    "text": "6x - 3(2x - 4) = 3",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Obteniendo x:"
+                },
+                {
+                    "type": "body",
+                    "text": "6x - 6x + 12 = 3",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "12 = 3",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "...(x, y) = N",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["verdadero", "falso"]
+                }
+            ]
         }
     ]
 }
