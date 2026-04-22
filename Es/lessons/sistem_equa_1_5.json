@@ -1,0 +1,107 @@
+{
+    "id_lesson": "sistem_equa_1_5",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Con lo aprendido, resuelve lo siguiente"
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "y = 2x + 3   ...1",
+                    "equationTwo": "y = -x + 6    ...2"
+                },
+                {
+                    "type": "body",
+                    "text": "¿Cuál es el resultado de igualar los términos de \"y\" en ambos lados?",
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["x + 6 = x + 2/3", "2x + 3 = -x + 6", "x - 6 = 2x + 3", "ninguna"],
+                    "isColumnExercise": true
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Encuentra el valor de \"x\""
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "y = 2x + 3   ...1",
+                    "equationTwo": "y = -x + 6    ...2"
+                },
+                {
+                    "type": "body",
+                    "text": "2x + 3 = -x + 6",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "",
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Encuentra el valor de \"y\" y expresa el resultado como par ordenado."
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "y = 2x + 3   ...1",
+                    "equationTwo": "y = -x + 6    ...2"
+                },
+                {
+                    "type": "body",
+                    "text": "2x + 3 = -x + 6",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "x = 1",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Sustituyendo en 1 o 2"
+                },
+                {
+                    "type": "body",
+                    "text": "y = 5",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Expresa los valores obtenidos:"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "(x, y) = ",
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Resuelve lo siguiente"
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "3x + y = 6   ...1",
+                    "equationTwo": "2x - y = 4    ...2"
+                },
+                { "type": "process_free" },
+                {
+                    "type": "input_exercise",
+                    "text": "(x, y) ",
+                }
+            ]
+        }
+    ]
+}
