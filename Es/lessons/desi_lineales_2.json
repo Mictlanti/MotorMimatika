@@ -1,0 +1,162 @@
+{
+    "id_lesson": "desi_lineales_2",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "-x > 2"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "x < -2"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "-x > 2"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "x < -2"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Despeja la variable x como cualquier ecuación"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Si se multiplica o se divide una desigualdad por un número real negativo, el símbolo de desigualdad se invierte"
+                        }
+                    ]
+                },
+                {
+                    "type": "body",
+                    "text": "Contesta lo siguiente."
+                },
+                {
+                    "type": "body",
+                    "text": "-2x > 12",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["x > -6", "x < -6"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "body",
+                    "text": "3x + 4 > 5x + 8",
+                    "isMathText": true
+                },
+                {
+                    "type": "process_free"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "",
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "body",
+                    "text": "-3x + 7 > 1",
+                    "isMathText": true
+                },
+                {
+                    "type": "process_free"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "",
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "body",
+                    "text": "-3x + 7 > 2x + 1",
+                    "isMathText": true
+                },
+                {
+                    "type": "process_free"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "",
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Selecciones la(s) opción con el error y corrígelo."
+                },
+                {
+                    "type": "body",
+                    "text": "-3x - (2x + 5) > 4",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_list",
+                    "labelText": ["3x - 2x - 5 > 4", "x - 5 > 4", "x < 4"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Selecciones la(s) opción con el error y corrígelo."
+                },
+                {
+                    "type": "body",
+                    "text": "4x - (x - 1) <= 10",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_list",
+                    "labelText": ["4x - x + 1 <= 10", "3x <= 9", "x >= 3"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Selecciones la(s) opción con el error y corrígelo."
+                },
+                {
+                    "type": "body",
+                    "text": "6x - (4x - 2x - 3) < 11",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_list",
+                    "labelText": ["6x - 4x - 2x - 3 < 11", "0x < 11 + 3", "4x < 8", "x < 2"]
+                }
+            ]
+        }
+    ]
+}
