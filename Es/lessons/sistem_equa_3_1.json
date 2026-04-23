@@ -1,0 +1,113 @@
+{
+    "id_lesson": "sistem_equa_3_1",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Sistema de ecuaciones lineales con 3 variables."
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "x + y + z = 6",
+                    "equationTwo": "x + 2y + 3z - 14 = 0",
+                    "equationThree": "x + 3y + 7z -28 = 0"
+                },
+                {
+                    "type": "body",
+                    "text": "De 2 - 1:"
+                },
+                {
+                    "type": "body",
+                    "text": "y + 2z = 8   ...4",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "De 3 - 2:"
+                },
+                {
+                    "type": "body",
+                    "text": "y + 4z = 14   ...5",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Obtenemos un sistema equivalente:"
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "y + 2z = 8   ...4",
+                    "equationTwo": "y + 4z = 14   ...5"
+                },
+                {
+                    "type": "body",
+                    "text": "De 5 - 4:"
+                },
+                {
+                    "type": "body",
+                    "text": "2x = 6",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "z = 3",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Sustituimos z = 3 en 4:"
+                },
+                {
+                    "type": "body",
+                    "text": "y + 2(3) = 8",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "y = 2",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Sustituyendo z = 3, y = 2 en 1:"
+                },
+                {
+                    "type": "body",
+                    "text": "x + 2 + 3 = 6",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "x = 1",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "...(x, y, z) = (1, 2, 3)",
+                    "isMathText": true
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Contesta correctamente."
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "5x - 2y = 0",
+                    "equationTwo": "3x + y = 0"
+                },
+                {
+                    "type": "process_free"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "",
+                }
+            ]
+        }
+    ]
+}
