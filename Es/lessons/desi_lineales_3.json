@@ -37,7 +37,7 @@
                 },
                 {
                     "type": "body",
-                    "text": "(-@, -2)",
+                    "text": "(-Inf, -2)",
                     "isMathText": true
                 },
                 {
@@ -69,7 +69,7 @@
                 {
                     "type": "body",
                     "text": "Puedes guiarte de la recta numérica",
-                    "fontSize": 14
+                    "fontSize": 12
                 },
                 {
                     "type": "rect_number",
@@ -77,8 +77,151 @@
                     "isFill": false
                 },
                 {
-                    "type": "input_exercise",
-                    "text": "",
+                    "type": "button_exercise",
+                    "list": ["-@", "@", "2", "-2"],
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "body",
+                    "text": "Cuando x > -3, significa que x tiende hacia:"
+                },
+                {
+                    "type": "body",
+                    "text": "Puedes guiarte de la recta numérica",
+                    "fontSize": 12
+                },
+                {
+                    "type": "rect_number",
+                    "conjuntoSol": -3,
+                    "isFill": false,
+                    "isLeftTriangle": false
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["-@", "-3", "3", "@"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Verdadero o falso"
+                },
+                {
+                    "type": "body",
+                    "text": "2(x - 1) > 4",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "2x - 2 > 4",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "x > 3",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Significa que x puede ser cualquier número real mayor a 3, incluido el 3."
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["verdadero", "falso"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "body",
+                    "text": "¿Qué notación hace la relación verdadera?"
+                },
+                {
+                    "type": "body",
+                    "text": "-9x < 81",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "x > -9",
+                    "isMathText": true
+                },
+                {
+                    "type": "rect_number",
+                    "range": 10,
+                    "conjuntoSol": -9,
+                    "isFill": false,
+                    "isLeftTriangle": false
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["(-9, 0)", "[0, -9)", "{x|x<-9}", "{x|x>-9}"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "body",
+                    "text": "¿Qué notación hace la relación verdadera?"
+                },
+                {
+                    "type": "body",
+                    "text": "-x > -2",
+                    "isMathText": true
+                },
+                {
+                    "type": "rect_number",
+                    "conjuntoSol": 2,
+                    "isFill": false
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["(-2, @)", "(@, 2)", "{x|x>2}", "{x|x>-2}"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "body",
+                    "text": "¿Qué notación hace la relación verdadera?"
+                },
+                {
+                    "type": "body",
+                    "text": "4x +7 < 15",
+                    "isMathText": true
+                },
+                {
+                    "type": "rect_number",
+                    "conjuntoSol": 2,
+                    "isFill": false
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["(-2, @)", "(2, @)", "{x|x<2}", "{x|x>-2}"]
                 }
             ]
         }
