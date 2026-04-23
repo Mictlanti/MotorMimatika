@@ -1,0 +1,105 @@
+{
+    "id_lesson": "sistem_equa_2_5",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Contesta correctamente."
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "5x + 2y = 19",
+                    "equationTwo": "2x + 3y = 12"
+                },
+                {
+                    "type": "process_free"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "",
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Contesta correctamente."
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "5x - 2y = 0",
+                    "equationTwo": "3x + y = 0"
+                },
+                {
+                    "type": "process_free"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "",
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Contesta correctamente."
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "2x + 3y = 12",
+                    "equationTwo": "4x - 5y = -9"
+                },
+                {
+                    "type": "process_free"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "",
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Contesta correctamente."
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "6x + 3y = 18",
+                    "equationTwo": "x - y = 3"
+                },
+                {
+                    "type": "process_free"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "",
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Contesta correctamente."
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "7x + 4y = 16",
+                    "equationTwo": "5x - 4y = 8"
+                },
+                {
+                    "type": "process_free"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "",
+                }
+            ]
+        }
+    ]
+}
