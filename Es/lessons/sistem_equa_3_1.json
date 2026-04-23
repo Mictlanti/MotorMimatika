@@ -19,7 +19,7 @@
                 },
                 {
                     "type": "body",
-                    "text": "y + 2z = 8   ...4",
+                    "text": "y + 2z = 8   ..4",
                     "isMathText": true
                 },
                 {
@@ -28,7 +28,7 @@
                 },
                 {
                     "type": "body",
-                    "text": "y + 4z = 14   ...5",
+                    "text": "y + 4z = 14   ..5",
                     "isMathText": true
                 },
                 {
