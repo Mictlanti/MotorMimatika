@@ -138,24 +138,6 @@
         ]
       },
       {
-        "id": "sistem_equa_3",
-        "title": "Sistema de ecuaciones 3",
-        "lessons": [
-          {
-            "id": "sistem_equa_3_1",
-            "title": "Sistema de ecuaciones 13"
-          },
-          {
-            "id": "sistem_equa_3_2",
-            "title": "Sistema de ecuaciones 14"
-          },
-          {
-            "id": "sistem_equa_3_3",
-            "title": "Sistema de ecuaciones 15"
-          }
-        ]
-      },
-      {
         "id": "desi_lineales",
         "title": "Desigualdades lineales",
         "lessons": [
