@@ -179,7 +179,8 @@
                 },
                 {
                     "type": "body",
-                    "text": "5x - 4 > 3x"
+                    "text": "5x - 4 > 3x",
+                    "isMathText": true
                 },
                 {
                     "type": "process_free"
@@ -198,7 +199,8 @@
                 },
                 {
                     "type": "body",
-                    "text": "7x + 12 <= x"
+                    "text": "7x + 12 <= x",
+                    "isMathText": true
                 },
                 {
                     "type": "process_free"
@@ -217,7 +219,8 @@
                 },
                 {
                     "type": "body",
-                    "text": "3x - 8 > x - 4"
+                    "text": "3x - 8 > x - 4",
+                    "isMathText": true
                 },
                 {
                     "type": "button_exercise",
@@ -233,7 +236,8 @@
                 },
                 {
                     "type": "body",
-                    "text": "2x - 5 <= 9"
+                    "text": "2x - 5 <= 9",
+                    "isMathText": true
                 },
                 {
                     "type": "button_exercise",
