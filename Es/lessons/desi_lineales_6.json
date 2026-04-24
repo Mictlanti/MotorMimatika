@@ -19,7 +19,7 @@
                 {
                     "type": "linear_system",
                     "equationOne": "3 < 4x + 7",
-                    "equationTwo": "4x ´7 <= 15",
+                    "equationTwo": "4x + 7 <= 15",
                     "modeMath": true
                 },
                 {
