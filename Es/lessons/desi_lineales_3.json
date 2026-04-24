@@ -37,7 +37,7 @@
                 },
                 {
                     "type": "body",
-                    "text": "(-Inf, -2)",
+                    "text": "(-@, -2)",
                     "isMathText": true
                 },
                 {
