@@ -8,19 +8,22 @@
                     "text": "Plano cartesiano"
                 },
                 {
-                    "type": "cartesian_plane"
-                },
-                {
-                    "type": "body",
-                    "text": "El plano cartesiano consta de dos rectas numéricas perpendiculares:"
-                },
-                {
-                    "type": "body",
-                    "text": "El eje \"x\", designado en una recta horizontal."
-                },
-                {
-                    "type": "body",
-                    "text": "El eje \"y\", designado por una recta vertical."
+                    "type": "card_example",
+                    "content": [
+                        {"type": "cartesian_plane"},
+                        {
+                            "type": "large_example",
+                            "text": "El plano cartesiano consta de dos rectas numéricas perpendiculares:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "El eje \"x\", designado en una recta horizontal."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "El eje \"y\", designado por una recta vertical."
+                        }
+                    ]
                 },
                 {
                     "type": "body",
