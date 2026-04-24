@@ -121,7 +121,7 @@
                         "- x avanza 4 pasos a la derecha\n- y avanza 1 pasos hacia arriba",
                         "- x avanza 1 pasos hacia arriba\n- y avanza 4 pasos a la derecha"
                     ],
-                    "isVerticalExercise": true
+                    "isColumnExercise": true
                 }
             ]
         },
@@ -146,7 +146,7 @@
                         "- x avanza 1 pasos a la izquierda\n- y avanza 1 pasos hacia arriba",
                         "- x avanza 1 pasos hacia arriba\n- y avanza 1 pasos a la derecha"
                     ],
-                    "isVerticalExercise": true
+                    "isColumnExercise": true
                 }
             ]
         },
@@ -171,7 +171,7 @@
                         "- x avanza 4 pasos a la izquierda\n- y avanza 1 pasos hacia arriba",
                         "- x avanza 1 pasos a la izquierda\n- y avanza 4 hacia abajo"
                     ],
-                    "isVerticalExercise": true
+                    "isColumnExercise": true
                 }
             ]
         },
