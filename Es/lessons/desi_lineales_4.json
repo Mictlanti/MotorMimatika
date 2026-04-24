@@ -186,7 +186,8 @@
                 },
                 {
                     "type": "rect_number_dynamic",
-                    "isFill": false
+                    "isFill": false,
+                    "isLeftTriangle": false
                 }
             ]
         },
