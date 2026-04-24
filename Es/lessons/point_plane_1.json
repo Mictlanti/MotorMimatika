@@ -5,6 +5,66 @@
             "blocks": [
                 {
                     "type": "title",
+                    "text": "Par ordenado"
+                },
+                {
+                    "type": "body",
+                    "text": "Es un conjunto de dos números que representan un orden:"
+                },
+                {
+                    "type": "body",
+                    "text": "(a ,b)",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "- El primero \"a\", indica la posición en el eje horizontal (x) en un plano."
+                },
+                {
+                    "type": "body",
+                    "text": "- El segundo \"b\", indica la posición en el eje vertical (y) en un plano."
+                },
+                {
+                    "type": "body",
+                    "text": "¿Cuál de los siguiente representa un par ordenado?"
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["ac, bd", "(a + b)", "(32)b", "(3, 2)"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "El par ordenado "
+                },
+                {
+                    "type": "body",
+                    "text": "(2, 3)",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "significa:"
+                },
+                {
+                    "type": "body",
+                    "text": "- Avanza dos pasos a la derecha (en x).",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "- Luego subre 3 pasos hacia arriba (en y)",
+                    "isMathText": true
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
                     "text": "Plano cartesiano"
                 },
                 {
