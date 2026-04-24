@@ -1,0 +1,36 @@
+{
+    "id_lesson": "point_plane_1",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Plano cartesiano"
+                },
+                {
+                    "type": "cartesian_plane"
+                },
+                {
+                    "type": "body",
+                    "text": "El plano cartesiano consta de dos rectas numéricas perpendiculares:"
+                },
+                {
+                    "type": "body",
+                    "text": "El eje \"x\", designado en una recta horizontal."
+                },
+                {
+                    "type": "body",
+                    "text": "El eje \"y\", designado por una recta vertical."
+                },
+                {
+                    "type": "body",
+                    "text": "El eje x en el plano se representa de forma:"
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["horizontal", "vertical", "inclinada", "ninguna"],
+                }
+            ]
+        }
+    ]
+}
