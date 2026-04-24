@@ -37,6 +37,36 @@
         {
             "blocks": [
                 {
+                    "type": "title",
+                    "text": "Punto de origen"
+                },
+                {
+                    "type": "body",
+                    "text": "Representado por el par ordenado:"
+                },
+                {
+                    "type": "body",
+                    "text": "(0, 0)",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Es la intersección de los ejes \"x\" y \"y\""
+                },
+                {
+                    "type": "body",
+                    "text": "Gráficamente:"
+                },
+                {
+                    "type": "cartesian_plane",
+                    "pointX": [0.0],
+                    "pointY": [0.0]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
                     "type": "body",
                     "text": "El par ordenado "
                 },
@@ -47,7 +77,7 @@
                 },
                 {
                     "type": "body",
-                    "text": "significa:"
+                    "text": "significa que, con respecto al punto de origen:"
                 },
                 {
                     "type": "body",
@@ -56,7 +86,7 @@
                 },
                 {
                     "type": "body",
-                    "text": "- Luego subre 3 pasos hacia arriba (en y)",
+                    "text": "- Luego sube 3 pasos hacia arriba (en y)",
                     "isMathText": true
                 },
                 {
@@ -67,6 +97,27 @@
                     "type": "cartesian_plane",
                     "pointX": [2.0],
                     "pointY": [3.0]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "¿Qué implica el siguiente par ordenado?"
+                },
+                {
+                    "type": "body",
+                    "text": "(4, 1)",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": [
+                        "- x avanza 4 pasos a la derecha\n- y avanza 1 paso hacia arriba",
+                        "- x avanza 1 paso hacia arriba\n- y avanza 4 pasos a la derecha"
+                    ],
+                    "isVerticalExercise": true
                 }
             ]
         },
