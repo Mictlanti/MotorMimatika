@@ -1,0 +1,95 @@
+{
+    "id_lesson": "desi_lineales_4",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Completa la notación de conjunto."
+                },
+                {
+                    "type": "body",
+                    "text": "2.4 + x <= 2.2x",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "10 * (2.4 + x <= 2.2x)",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "24 + 10x <= 22x",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "-12x <= -24",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "x >= 2",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "...{x | "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Completa la notación de conjunto."
+                },
+                {
+                    "type": "body",
+                    "text": "4x - 5 <= 7",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "4x <= 12",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "x <= 3",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "...{x | "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Completa la notación de conjunto."
+                },
+                {
+                    "type": "body",
+                    "text": "4x - 5 <= 7",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "4x <= 12",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "x <= 3",
+                    "isMathText": true
+                },
+                {
+                    "type": "rect_number_dynamic"
+                }
+            ]
+        }
+    ]
+}
