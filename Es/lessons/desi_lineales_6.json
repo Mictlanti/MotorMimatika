@@ -1,0 +1,92 @@
+{
+    "id_lesson": "desi_lineales_6",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Verdadero o falso"
+                },
+                {
+                    "type": "body",
+                    "text": "3 < 4x + 7 <= 15",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Separando las desigualdades:"
+                },
+                {
+                    "type": "linear_system",
+                    "equationOne": "3 < 4x + 7",
+                    "equationTwo": "4x ´7 <= 15",
+                    "modeMath": true
+                },
+                {
+                    "type": "body",
+                    "text": "Resolviendo 1:"
+                },
+                {
+                    "type": "body",
+                    "text": "3 < 4x + 7",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "-4 < 4x",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "x > -1",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Resolviendo 2:"
+                },
+                {
+                    "type": "body",
+                    "text": "4x + 7 <= 15",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "x <= 2",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "... -1 < x <= 2",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Representando el resultado:"
+                },
+                {
+                    "type": "body",
+                    "text": "{ x | -1 < x <= 2 }",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "(-1, 2]",
+                    "isMathText": true
+                },
+                {
+                    "type": "rect_number",
+                    "conjuntoSol": -1,
+                    "isFill": false,
+                    "sndConjunto": true,
+                    "conjuntoSolSnd": 2,
+                    "isFillSnd": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["verdadero", "falso"],
+                }
+            ]
+        }
+    ]
+}
