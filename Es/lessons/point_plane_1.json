@@ -112,12 +112,100 @@
                     "isMathText": true
                 },
                 {
+                    "type": "body",
+                    "text": "Con respecto al punto de origen:"
+                },
+                {
                     "type": "button_exercise",
                     "list": [
-                        "- x avanza 4 pasos a la derecha\n- y avanza 1 paso hacia arriba",
-                        "- x avanza 1 paso hacia arriba\n- y avanza 4 pasos a la derecha"
+                        "- x avanza 4 pasos a la derecha\n- y avanza 1 pasos hacia arriba",
+                        "- x avanza 1 pasos hacia arriba\n- y avanza 4 pasos a la derecha"
                     ],
                     "isVerticalExercise": true
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "¿Qué implica el siguiente par ordenado?"
+                },
+                {
+                    "type": "body",
+                    "text": "(-1, 1)",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Con respecto al punto de origen:"
+                },
+                {
+                    "type": "button_exercise",
+                    "list": [
+                        "- x avanza 1 pasos a la izquierda\n- y avanza 1 pasos hacia arriba",
+                        "- x avanza 1 pasos hacia arriba\n- y avanza 1 pasos a la derecha"
+                    ],
+                    "isVerticalExercise": true
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "¿Qué implica el siguiente par ordenado?"
+                },
+                {
+                    "type": "body",
+                    "text": "(-1, -4)",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Con respecto al punto de origen:"
+                },
+                {
+                    "type": "button_exercise",
+                    "list": [
+                        "- x avanza 4 pasos a la izquierda\n- y avanza 1 pasos hacia arriba",
+                        "- x avanza 1 pasos a la izquierda\n- y avanza 4 hacia abajo"
+                    ],
+                    "isVerticalExercise": true
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Verdadero o falso"
+                },
+                {
+                    "type": "body",
+                    "text": "Del par ordenad:"
+                },
+                {
+                    "type": "body",
+                    "text": "(-3, 4)",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Gráficamente:"
+                },
+                {
+                    "type": "cartesian_plane",
+                    "pointX": [3.0],
+                    "pointY": [-4.0]
+                },
+                {
+                    "type": "body",
+                    "text": "¿El par ordenado y la gráfica son verdaderas?:"
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["verdadero", "falso"]
                 }
             ]
         },
