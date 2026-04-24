@@ -69,7 +69,7 @@
             "blocks": [
                 {
                     "type": "title",
-                    "text": "Completa la notación de conjunto."
+                    "text": "Representa en la recta la relación."
                 },
                 {
                     "type": "body",
@@ -87,7 +87,170 @@
                     "isMathText": true
                 },
                 {
+                    "type": "body",
+                    "text": "{ x | x <= 3 }",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "(-@, 3]",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Arrastra el punto en la recta en la posición correcta.",
+                    "fontSize": 15
+                },
+                {
                     "type": "rect_number_dynamic"
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Representa en la recta la relación."
+                },
+                {
+                    "type": "body",
+                    "text": "-2x + 3 > 5",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "-2x > 2",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "x < -1",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "{ x | x < -1 }",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "(-@, -1)",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Arrastra el punto en la recta en la posición correcta.",
+                    "fontSize": 15
+                },
+                {
+                    "type": "rect_number_dynamic",
+                    "isFill": false
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Representa en la recta la relación."
+                },
+                {
+                    "type": "body",
+                    "text": "3x + 4 > -5",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "3x > -9",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "x > -3",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "{ x | x > -3 }",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "(-3, @)",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Arrastra el punto en la recta en la posición correcta.",
+                    "fontSize": 15
+                },
+                {
+                    "type": "rect_number_dynamic",
+                    "isFill": false
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Representa en la recta la relación."
+                },
+                {
+                    "type": "body",
+                    "text": "-3x - 7 <= 2",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "3x <= 9",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "x <= 3",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "{ x | x <= 3 }",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "(-@, 3]",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Arrastra el punto en la recta en la posición correcta.",
+                    "fontSize": 15
+                },
+                {
+                    "type": "rect_number_dynamic",
+                    "isFill": false
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Representa en la recta la relación."
+                },
+                {
+                    "type": "body",
+                    "text": "2x - 1 < x + 3",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Arrastra el punto en la recta en la posición correcta.",
+                    "fontSize": 15
+                },
+                {
+                    "type": "rect_number_dynamic",
+                    "isFill": false
                 }
             ]
         }
