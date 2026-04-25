@@ -184,20 +184,6 @@
             "title": "Puntos de un plano 3"
           }
         ]
-      },
-      {
-        "id": "graph_rect",
-        "title": "Grafica de la recta",
-        "lessons": [
-          {
-            "id": "graph_rect_1",
-            "title": "Grafica de la recta 1"
-          },
-          {
-            "id": "graph_rect_2",
-            "title": "Grafica de la recta 2"
-          }
-        ]
       }
     ]
   },
