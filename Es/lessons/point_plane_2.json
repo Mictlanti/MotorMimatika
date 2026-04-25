@@ -60,7 +60,8 @@
                 },
                 {
                     "type": "body",
-                    "text": "A(-1, -2)"
+                    "text": "A(-1, -2)",
+                    "isMathText": true
                 },
                 {
                     "type": "cartesian_plane_dynamic",
