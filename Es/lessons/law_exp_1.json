@@ -20,7 +20,7 @@
                     "content": [
                         {
                             "type": "large_exponent",
-                            "base": ["a", "* a", "= "],
+                            "base": ["a", "* a", "= a"],
                             "power": ["m", "n", "m + n"]
                         },
                         {
@@ -28,6 +28,172 @@
                             "text": "Cuando tenemos dos exponentes con la misma base, el exponente resultante es la suma de los exponentes de los factores dados."
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Ejemplo de desarrollo"
+                },
+                {
+                    "type": "large_exponent",
+                    "base": ["a", "* a", "= a", "= a"],
+                    "power": ["2", "3", "2 + 3", "5"]
+                },
+                {
+                    "type": "title",
+                    "text": "Simplifica las siguientes expresiones"
+                },
+                {
+                    "type": "card_dynamic",
+                    "list": ["a * a^4 =", "a^6", "a^5", "a^4", "a", "a^3"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "large_exponent",
+                            "base": ["a", "* a", "= a"],
+                            "power": ["m", "n", "m + n"]
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Cuando tenemos dos exponentes con la misma base, el exponente resultante es la suma de los exponentes de los factores dados."
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Simplifica las siguientes expresiones."
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "x^3 * x^4 = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Simplifica las siguientes expresiones."
+                },
+                {
+                    "type": "large_exponent",
+                    "base": ["s", "* s", "* s"],
+                    "power": ["-4", "3", "2"]
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "= "
+                }
+            ]
+        },
+        {
+            "blocks": [
+
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "large_exponent",
+                            "base": ["a", "* a", "= a"],
+                            "power": ["m", "n", "m + n"]
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Cuando tenemos dos exponentes con la misma base, el exponente resultante es la suma de los exponentes de los factores dados."
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Simplifica las siguientes expresiones."
+                },
+                {
+                    "type": "large_exponent",
+                    "base": ["s", "* s"],
+                    "power": ["-4", "2"]
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "= "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Simplifica las siguientes expresiones."
+                },
+                {
+                    "type": "large_exponent",
+                    "base": ["t", "* t"],
+                    "power": ["3", ""]
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "= "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Simplifica las siguientes expresiones."
+                },
+                {
+                    "type": "large_exponent",
+                    "base": ["x", "* x", "* x"],
+                    "power": ["5", "2", "-3"]
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "= "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Simplifica las siguientes expresiones."
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "x^3 * x^2 * y = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Simplifica las siguientes expresiones."
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "2a^3 * 6a^2 = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Simplifica las siguientes expresiones."
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "x^2y^2 * 3xy^3 = "
                 }
             ]
         }
