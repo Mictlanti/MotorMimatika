@@ -68,6 +68,118 @@
                     "listPoints": ["A"]
                 }
             ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Representa en la gráfica el par ordenado."
+                },
+                {
+                    "type": "body",
+                    "text": "A(0, 1)",
+                    "isMathText": true
+                },
+                {
+                    "type": "cartesian_plane_dynamic",
+                    "listPoints": ["A"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Representa en la gráfica el par ordenado."
+                },
+                {
+                    "type": "body",
+                    "text": "A(1, 4)",
+                    "isMathText": true
+                },
+                {
+                    "type": "cartesian_plane_dynamic",
+                    "listPoints": ["A"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Representa en la gráfica el par ordenado."
+                },
+                {
+                    "type": "body",
+                    "text": "A(0, -2), B(1, -1)",
+                    "isMathText": true
+                },
+                {
+                    "type": "cartesian_plane_dynamic",
+                    "listPoints": ["A", "B"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Representa en la gráfica el par ordenado."
+                },
+                {
+                    "type": "body",
+                    "text": "A(-1, -1), B(2, 2), C(-2, 2)",
+                    "isMathText": true
+                },
+                {
+                    "type": "cartesian_plane_dynamic",
+                    "listPoints": ["A", "B", "C"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Representa en la gráfica el par ordenado."
+                },
+                {
+                    "type": "body",
+                    "text": "A(-2, -4), B(-1, -2), C(0, 0)",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "D(1, 2), E(2, 4)",
+                    "isMathText": true
+                },
+                {
+                    "type": "cartesian_plane_dynamic",
+                    "listPoints": ["A", "B", "C", "D", "E"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Representa en la gráfica el par ordenado."
+                },
+                {
+                    "type": "body",
+                    "text": "A(-4, 3), B(-2, -3), C(0, 3)",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "D(2, -3), E(4, 3)",
+                    "isMathText": true
+                },
+                {
+                    "type": "cartesian_plane_dynamic",
+                    "listPoints": ["A", "B", "C", "D", "E"]
+                }
+            ]
         }
     ]
 }
