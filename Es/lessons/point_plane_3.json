@@ -26,12 +26,7 @@
                 },
                 {
                     "type": "body",
-                    "text": "Pista:",
-                    "fontSize": 15
-                },
-                {
-                    "type": "body",
-                    "text": "Reemplaza el valor de x (x = -3) en la ecuación."
+                    "text": "Pista: Reemplaza el valor de x (x = -3) en la ecuación."
                 }
             ]
         },
