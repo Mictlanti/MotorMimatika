@@ -1,0 +1,35 @@
+{
+    "id_lesson": "law_exp_1",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Productos de potencia de igual base"
+                },
+                {
+                    "type": "body",
+                    "text": "Un exponente o potencia no es más que una cantidad multiplicada por sí misma un número determinado de veces."
+                },
+                {
+                    "type": "body",
+                    "text": "Primera ley:"
+                },
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "large_exponent",
+                            "base": ["a", "* a", "= "],
+                            "power": ["m", "n", "m + n"]
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Cuando tenemos dos exponentes con la misma base, el exponente resultante es la suma de los exponentes de los factores dados."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
