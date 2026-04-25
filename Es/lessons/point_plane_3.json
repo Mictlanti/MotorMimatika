@@ -136,6 +136,27 @@
                     "list": ["verdadero", "falso"]
                 }
             ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "De la ecuación y = x + 2"
+                },
+                {
+                    "type": "body",
+                    "text": "¿Qué forma crees que tendría la línea si uniéramos todos los puntos que cumplen con esta ecuación?"
+                },
+                {
+                    "type": "cartesian_plane",
+                    "pointX": [-3.0, -1.0, 0.0, 1.0, 3.0],
+                    "pointY": [-1.0, 1.0, 2.0, 3.0, 5.0]
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["Una línea recta", "Una curva", "Puntos sin conexión", "Un círculo"]
+                }
+            ]
         }
     ]
 }
