@@ -23,6 +23,15 @@
                 {
                     "type": "button_exercise",
                     "list": ["y = 0", "y = -3", "y = 5", "y = 9"]
+                },
+                {
+                    "type": "body",
+                    "text": "Pista:",
+                    "fontSize": 15
+                },
+                {
+                    "type": "body",
+                    "text": "Reemplaza el valor de x (x = -3) en la ecuación."
                 }
             ]
         },
