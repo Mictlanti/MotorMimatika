@@ -1,0 +1,188 @@
+{
+    "id_lesson": "law_exp_2",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Cociente de potencias de igual base"
+                },
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "large_exponent",
+                            "base": ["a", "/ a", "= a"],
+                            "power": ["m", "n", "m - n"]
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Cuando tenemos dos exponentes con la misma base, el exponente resultante es la resta de los exponentes de los factores dados."
+                        }
+                    ]
+                },
+                {
+                    "type": "body",
+                    "text": "Simplifica la siguiente expresión."
+                },
+                {
+                    "type": "card_dynamic",
+                    "list": ["y^9 / y^3 =", "y^6", "y^8", "y^1", "y^3", "y^4"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Simplifica la siguiente expresión."
+                },
+                {
+                    "type": "card_dynamic",
+                    "list": ["(x^2 / x^3) * x =", "x^5", "x^2", "x", "x^3", "x^4"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "large_exponent",
+                            "base": ["a", "/ a", "= a"],
+                            "power": ["m", "n", "m - n"]
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Cuando tenemos dos exponentes con la misma base, el exponente resultante es la resta de los exponentes de los factores dados."
+                        }
+                    ]
+                },
+                {
+                    "type": "body",
+                    "text": "Simplifica la siguiente expresión."
+                },
+                {
+                    "type": "card_dynamic",
+                    "list": ["x^7 / x^3 =", "x^2", "x", "x^3", "x^9", "x^4"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "Exponente cero"
+                        },
+                        {
+                            "type": "large_exponent",
+                            "base": ["a", "= 1"],
+                            "power": ["0", ""]
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Todo número elevado a la potencia cero será uno."
+                        }
+                    ]
+                },
+                {
+                    "type": "body",
+                    "text": "Simplifica la siguiente expresión."
+                },
+                {
+                    "type": "large_exponent",
+                    "base": ["10", "="],
+                    "power": ["0", ""]
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["10", "0", "1", "ninguna"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Simplifica la siguiente expresión."
+                },
+                {
+                    "type": "large_exponent",
+                    "base": ["(x", ")x ="],
+                    "power": ["0", ""]
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["1", "x", "0", "ninguna"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Simplifica la siguiente expresión."
+                },
+                {
+                    "type": "large_exponent",
+                    "base": ["s", "* s", " ="],
+                    "power": ["0", "3", ""]
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["1", "x", "0", "ninguna"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Simplifica la siguiente expresión."
+                },
+                {
+                    "type": "large_exponent",
+                    "base": ["4m", "n", "/ mn"],
+                    "power": ["5", "-3", "-3"]
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "= "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Simplifica la siguiente expresión."
+                },
+                {
+                    "type": "large_exponent",
+                    "base": ["(x * x ^3 * x", ") / x"],
+                    "power": ["-2", ""]
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "= "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Simplifica la siguiente expresión."
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "(xy * 2xy^2) / x^2y = "
+                }
+            ]
+        }
+    ]
+}
