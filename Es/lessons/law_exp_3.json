@@ -1,0 +1,163 @@
+{
+    "id_lesson": "law_exp_3",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Potencia de una potencia"
+                },
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "large_exponent",
+                            "base": ["(a", ")", "= a"],
+                            "power": ["m", "n", "m * n"]
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Si tenemos una potencia elevada a otra potencia, podemos multiplicar los exponentes."
+                        }
+                    ]
+                },
+                {
+                    "type": "body",
+                    "text": "Simplifica la siguiente expresión."
+                },
+                {
+                    "type": "body",
+                    "text": "(x^2)^3 ="
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["x^8", "x^6"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Simplifica la siguiente expresión."
+                },
+                {
+                    "type": "card_dynamic",
+                    "list": ["(x^4)^2 =", "x^6", "x", "x^8", "x^5", "x^2"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "large_exponent",
+                            "base": ["(a", ")", "= a"],
+                            "power": ["m", "n", "m * n"]
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Si tenemos una potencia elevada a otra potencia, podemos multiplicar los exponentes."
+                        }
+                    ]
+                },
+                {
+                    "type": "body",
+                    "text": "Simplifica la siguiente expresión."
+                },
+                {
+                    "type": "card_dynamic",
+                    "list": ["(x^2y^3)^3 =", "x^6y^9", "x^5y^6", "x^8y", "x^2y^2", "xy^3"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "large_exponent",
+                            "base": ["(a", ")", "= a"],
+                            "power": ["m", "n", "m * n"]
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Si tenemos una potencia elevada a otra potencia, podemos multiplicar los exponentes."
+                        }
+                    ]
+                },
+                {
+                    "type": "body",
+                    "text": "Simplifica la siguiente expresión."
+                },
+                {
+                    "type": "card_dynamic",
+                    "list": ["(x^3 * x)^2 =", "x^6", "x^9", "x^8", "x^7", "x^5"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "large_exponent",
+                            "base": ["(a", ")", "= a"],
+                            "power": ["m", "n", "m * n"]
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Si tenemos una potencia elevada a otra potencia, podemos multiplicar los exponentes."
+                        }
+                    ]
+                },
+                {
+                    "type": "body",
+                    "text": "Simplifica la siguiente expresión."
+                },
+                {
+                    "type": "card_dynamic",
+                    "list": ["(t^2 * t^3)^2 / t^5 =", "t^6", "t^9", "t^8", "t^7", "t^5"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Simplifica la siguiente expresión."
+                },
+                {
+                    "type": "large_exponent",
+                    "base": ["a", "* a^4)", "* a^6"],
+                    "power": ["-2", "3", ""]
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "= "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Simplifica la siguiente expresión."
+                },
+                {
+                    "type": "large_exponent",
+                    "base": ["[(y^2 * y", ")^5 / y", "] * (y^3 * y", ")^2"],
+                    "power": ["-3", "-8", "-2", ""]
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "= "
+                }
+            ]
+        }
+    ]
+}
