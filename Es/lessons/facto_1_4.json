@@ -1,0 +1,157 @@
+{
+    "id_lesson": "facto_1_4",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "ax^2 - 4axy + 4ay^2"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "a(x^2 - 3xy + 4y^2)"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "= a(x - 2y)^2"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "ax^2 - 4axy + 4ay^2"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Observa la \"a\" es un término común:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "a(x^2 - 3xy + 4y^2)"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Ahora reconoce el trinomio cuadrado perfecto."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "x^2 - 3xy + 4y^2 = (x - 2y)^2"
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Factoriza"
+                },
+                {
+                    "type": "body",
+                    "text": "x^3 + 10x^2 + 25x =",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["(x - 5)^2", "x(x + 5)^2", "x(x + 5)", "x(x^2 - 1)"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "x^2(x - a) - x(x - a) = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "5x^2 - 40xy + 80y^2 = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "body",
+                    "text": "cx^2 + 6cxy + 9cy^2 =",
+                    "isMathText": true
+                },
+                {
+                    "type": "card_drag_dynamic",
+                    "list_cards": ["c(x^2 + 6xy + 9y^2)", "c(x + 3)^2"],
+                    "list_questions": [""]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "4dx^2 - 12dxy + 9dy^2 = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "a^3x^2 - 2a^3xy + a^3y^3 = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Completa la factorización"
+                },
+                { 
+                    "type": "body",
+                    "text": "36abx^2 + 48 abxy + 16aby^2"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "= "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Completa la factorización"
+                },
+                { 
+                    "type": "body",
+                    "text": "m^2n^3x^2 + 2m^2n^3xy + m^2n^3y^2"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "= "
+                }
+            ]
+        }
+    ]
+}
