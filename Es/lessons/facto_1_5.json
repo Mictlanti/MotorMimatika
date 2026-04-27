@@ -1,0 +1,53 @@
+{
+    "id_lesson": "facto_1_5",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "x - xa = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "9abc(x + y) - 9axy(x + y) = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "-x^2 + 2xy - y^2 = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "6a^2x - 12a2 - 4ax + 8a = "
+                }
+            ]
+        }
+    ]
+}
