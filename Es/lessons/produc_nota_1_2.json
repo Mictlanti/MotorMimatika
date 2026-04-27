@@ -1,0 +1,213 @@
+{
+    "id_lesson": "produc_nota_1_2",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "3(x - 5)^2"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "= 3(x^2 - 10x + 25)"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "= 3x^2 - 30x + 75"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Primero se aplica la fórmula del cuadrado de un binomio."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Luego se multiplica cada término por 3."
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "body",
+                    "text": "4(x + y)^2 = ",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["4x^2+8xy+4y^2", "4x^2-8y^2", "16x^2-12x+9", "4x^2-9"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "3(x - 5)^2"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "= 3(x^2 - 10x + 25)"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "= 3x^2 - 30x + 75"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Primero se aplica la fórmula del cuadrado de un binomio."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Luego se multiplica cada término por 3."
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Arrastra para contestar."
+                },
+                {
+                    "type": "body",
+                    "text": "2(-x - 5)^2 = ",
+                    "isMathText": true
+                },
+                {
+                    "type": "card_drag_dynamic",
+                    "list_cards": ["50", "+", "2x^2", "+ 20x"],
+                    "list_questions": [""]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "3(x - 5)^2"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "= 3(x^2 - 10x + 25)"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "= 3x^2 - 30x + 75"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Primero se aplica la fórmula del cuadrado de un binomio."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Luego se multiplica cada término por 3."
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Arrastra para contestar."
+                },
+                {
+                    "type": "body",
+                    "text": "x^2(x - x^2)^2 = ",
+                    "isMathText": true
+                },
+                {
+                    "type": "card_drag_dynamic",
+                    "list_cards": ["+", "x^4", "x^6", "2x^3", "-"],
+                    "list_questions": [""]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Desarrolla correctamente."
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "-3(x + 2y)^2 = "
+                },
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Desarrolla correctamente."
+                },
+                {
+                    "type": "body",
+                    "text": "(a + b)^2 + (a - b)^2",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "= "
+                },
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Desarrolla correctamente."
+                },
+                {
+                    "type": "body",
+                    "text": "(2x + 3y)^2 + (2x - 3y)^2",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "= "
+                },
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Desarrolla correctamente."
+                },
+                {
+                    "type": "body",
+                    "text": "(m + n)^2 - 2(m - n)^2",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "= "
+                },
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Desarrolla correctamente."
+                },
+                {
+                    "type": "body",
+                    "text": "4[(p + q)^2 - (p - q)^2]",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "= "
+                },
+            ]
+        }
+    ]
+}
