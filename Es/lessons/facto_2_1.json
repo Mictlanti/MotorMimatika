@@ -1,0 +1,283 @@
+{
+    "id_lesson": "facto_2_1",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(a + b)(a - b) = a^2 - b^2"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "El producto de una suma por su resta da como resultado la diferencia de los cuadrados de los términos."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Paso a paso:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Al multiplicar obtenemos:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "a^2 - ab + ab - b^2"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Restamos: ab - ab = 0"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "... (a + b)(a - b) = a^2 - b^2"
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "body",
+                    "text": "x^2 - 4 = ",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["2(x + 2)", "(x - 2)(x - 2)", "(x + 2)(x - 2)"],
+                    "isVerticalExercise": true
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "body",
+                    "text": "a^2b^2 - c^2 ="
+                },
+                {
+                    "type": "card_drag_dynamic",
+                    "list_cards": ["+ c)", "(ab -", "c)", "(ab"],
+                    "list_questions": [""]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(a + b)(a - b) = a^2 - b^2"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "El producto de una suma por su resta da como resultado la diferencia de los cuadrados de los términos."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Paso a paso:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Al multiplicar obtenemos:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "a^2 - ab + ab - b^2"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Restamos: ab - ab = 0"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "... (a + b)(a - b) = a^2 - b^2"
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "body",
+                    "text": "4a^2 - b^2c^2 ="
+                },
+                {
+                    "type": "card_drag_dynamic",
+                    "list_cards": ["(2a", "(2a +", "bc)", "- bc"],
+                    "list_questions": [""]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(a + b)(a - b) = a^2 - b^2"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "El producto de una suma por su resta da como resultado la diferencia de los cuadrados de los términos."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Paso a paso:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Al multiplicar obtenemos:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "a^2 - ab + ab - b^2"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Restamos: ab - ab = 0"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "... (a + b)(a - b) = a^2 - b^2"
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "body",
+                    "text": "a^2x^2 - 4y^2 ="
+                },
+                {
+                    "type": "card_drag_dynamic",
+                    "list_cards": ["- 2y)", "2y)", "(ax", "(ax +"],
+                    "list_questions": [""]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(a + b)(a - b) = a^2 - b^2"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "El producto de una suma por su resta da como resultado la diferencia de los cuadrados de los términos."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Paso a paso:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Al multiplicar obtenemos:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "a^2 - ab + ab - b^2"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Restamos: ab - ab = 0"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "... (a + b)(a - b) = a^2 - b^2"
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "body",
+                    "text": "a^4 - 4b^4 ="
+                },
+                {
+                    "type": "card_drag_dynamic",
+                    "list_cards": ["(a^2", "(a^2 +", "- 2b^2", "2b^2"],
+                    "list_questions": [""]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "a^6 - b^6 = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "1 - x^6 = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "m^8 - 4n^4 = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "ax^2 - ay^4 = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "4x^2y^2 - 9y^2 = "
+                }
+            ]
+        }
+    ]
+}
