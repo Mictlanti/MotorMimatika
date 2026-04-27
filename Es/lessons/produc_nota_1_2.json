@@ -138,7 +138,7 @@
                 {
                     "type": "input_exercise",
                     "text": "-3(x + 2y)^2 = "
-                },
+                }
             ]
         },
         {
@@ -155,7 +155,7 @@
                 {
                     "type": "input_exercise",
                     "text": "= "
-                },
+                }
             ]
         },
         {
@@ -172,7 +172,7 @@
                 {
                     "type": "input_exercise",
                     "text": "= "
-                },
+                }
             ]
         },
         {
@@ -189,7 +189,7 @@
                 {
                     "type": "input_exercise",
                     "text": "= "
-                },
+                }
             ]
         },
         {
@@ -206,7 +206,7 @@
                 {
                     "type": "input_exercise",
                     "text": "= "
-                },
+                }
             ]
         }
     ]
