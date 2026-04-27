@@ -27,7 +27,8 @@
                 },
                 {
                     "type": "body",
-                    "text": "(x^2)^3 ="
+                    "text": "(x^2)^3 =",
+                    "isMathText": true
                 },
                 {
                     "type": "button_exercise",
@@ -133,8 +134,8 @@
                 },
                 {
                     "type": "large_exponent",
-                    "base": ["a", "* a^4)", "* a^6"],
-                    "power": ["-2", "3", ""]
+                    "base": ["(a", "* a^4)^3", "* a^6"],
+                    "power": ["-2", ""]
                 },
                 {
                     "type": "input_exercise",
@@ -150,8 +151,8 @@
                 },
                 {
                     "type": "large_exponent",
-                    "base": ["[(y^2 * y", ")^5 / y", "] * (y^3 * y", ")^2"],
-                    "power": ["-3", "-8", "-2", ""]
+                    "base": ["[(y^2 * y", ")^5 / y", "] * (y^3 * y", ],
+                    "power": ["-3", "-8", "-2"]
                 },
                 {
                     "type": "input_exercise",
