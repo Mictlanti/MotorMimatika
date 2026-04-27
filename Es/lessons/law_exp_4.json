@@ -12,8 +12,8 @@
                     "content": [
                         {
                             "type": "fraction",
-                            "baseInitText": ["a"],
-                            "powerInitText": ["-n"],
+                            "baseInitText": ["a", "= "],
+                            "powerInitText": ["-n", ""],
                             "numerator": "1",
                             "baseDenominator": ["a"],
                             "powerDenominator": ["n"]
