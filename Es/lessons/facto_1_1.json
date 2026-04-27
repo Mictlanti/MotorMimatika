@@ -1,0 +1,279 @@
+{
+    "id_lesson": "facto_1_1",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Factorización por factor común"
+                },
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "3a(x + y) + 3b(x + y)"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "= (x + y)(3a + 3b)"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "= 3(x + y)(a + b)"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "3a(x + y) + 3b(x + y)"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Paso a paso:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Ambos términos tiene un factor común:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "(x + y)"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Extrae el factor común de la ecuación:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "(x + y)(3a + 3b)"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Simplifica la expresión"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "3(x + y)(a + b)"
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "1. Identifica el factor común:"
+                },
+                {
+                    "type": "body",
+                    "text": "9a(x + y) + 9b(x + y)",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["(x + y)", "a + b"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "3a(x + y) + 3b(x + y)"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "= (x + y)(3a + 3b)"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "= 3(x + y)(a + b)"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "3a(x + y) + 3b(x + y)"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Paso a paso:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Ambos términos tiene un factor común:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "(x + y)"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Extrae el factor común de la ecuación:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "(x + y)(3a + 3b)"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Simplifica la expresión"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "3(x + y)(a + b)"
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "2. Extrae el factor común."
+                },
+                {
+                    "type": "body",
+                    "text": "9a(x + y) + 9b(x + y)",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["(a + b)(9x + 9y)", "(x + y)(9a + 9b)"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "3a(x + y) + 3b(x + y)"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "= (x + y)(3a + 3b)"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "= 3(x + y)(a + b)"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "3a(x + y) + 3b(x + y)"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Paso a paso:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Ambos términos tiene un factor común:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "(x + y)"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Extrae el factor común de la ecuación:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "(x + y)(3a + 3b)"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Simplifica la expresión"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "3(x + y)(a + b)"
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "3. Simplifica la expresión."
+                },
+                {
+                    "type": "body",
+                    "text": "(x + y)(9a + 9b) =",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["9a(1 + b)(x + y)", "9(x + y)(a + b)"],
+                    "isVerticalExercise": true
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Ordena verticalmente los pasos:"
+                },
+                {
+                    "type": "body",
+                    "text": "4a(x + y) + 4b(x + y) =",
+                    "isMathText": true
+                },
+                {
+                    "type": "card_drag_dynamic",
+                    "list_cards": ["(x + y)(4a + 4b)", "4(x + y)(a + b)"],
+                    "list_questions": [""]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Ordena verticalmente los pasos:"
+                },
+                {
+                    "type": "body",
+                    "text": "x^2(x - y) - x(x - y) =",
+                    "isMathText": true
+                },
+                {
+                    "type": "card_drag_dynamic",
+                    "list_cards": ["x(x - y)(x - 1)", "(x - y)(x^2 - x)"],
+                    "list_questions": [""]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Ordena verticalmente los pasos:"
+                },
+                {
+                    "type": "body",
+                    "text": "x^3(x - y) - x^2(x - y) =",
+                    "isMathText": true
+                },
+                {
+                    "type": "card_drag_dynamic",
+                    "list_cards": ["(x - y)(x^3 - x^2)", "x^2(x - y)(x - 1)"],
+                    "list_questions": [""]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "body",
+                    "text": "9ax(x + y) + 12bx(x + y) =",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "= "
+                }
+            ]
+        }
+    ]
+}
