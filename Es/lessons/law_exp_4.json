@@ -1,0 +1,62 @@
+{
+    "id_lesson": "law_exp_4",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Potencia negativa"
+                },
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "fraction",
+                            "baseInitText": ["a"],
+                            "powerInitText": ["-n"],
+                            "numerator": "1",
+                            "baseDenominator": ["a"],
+                            "powerDenominator": ["n"]
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Toda cantidad elevada a una potencia negativa equivale a una fracción con numerador 1 y, el denominador, será la misma cantidad con exponente positivo."
+                        }
+                    ]
+                },
+                {
+                    "type": "body",
+                    "text": "Simplifica la siguiente expresión."
+                },
+                {
+                    "type": "large_exponent",
+                    "base": ["2^2 / 2", " ="],
+                    "power": ["-3", ""]
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["x^8", "x^6"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Simplifica la siguiente expresión."
+                },
+                {
+                    "type": "fraction",
+                    "numerator": "1",
+                    "baseDenominator": ["t"],
+                    "powerDenominator": ["2"]
+                },
+                {
+                    "type": "button_exercise",
+                    "listBase": ["t", "t"],
+                    "listPower": ["-2", "2"]
+                }
+            ]
+        }
+    ]
+}
