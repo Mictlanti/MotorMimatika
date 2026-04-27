@@ -12,7 +12,7 @@
                     "content": [
                         {
                             "type": "large_exponent",
-                            "base": ["a", "/ a", "= a"],
+                            "base": ["a", " / a", "= a"],
                             "power": ["m", "n", "m - n"]
                         },
                         {
@@ -50,7 +50,7 @@
                     "content": [
                         {
                             "type": "large_exponent",
-                            "base": ["a", "/ a", "= a"],
+                            "base": ["a", " / a", "= a"],
                             "power": ["m", "n", "m - n"]
                         },
                         {
@@ -146,7 +146,7 @@
                 },
                 {
                     "type": "large_exponent",
-                    "base": ["4m", "n", "/ mn"],
+                    "base": ["4m", "n", " / mn"],
                     "power": ["5", "-3", "-3"]
                 },
                 {
