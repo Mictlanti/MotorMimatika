@@ -191,7 +191,7 @@
                     "isMathText": true
                 },
                 {
-                    "type": "drag_card_dynamic",
+                    "type": "card_drag_dynamic",
                     "list_cards": ["y", "+", "6", "x^2", "-", "y^2"],
                     "list_questions": [""]
                 }
