@@ -1,0 +1,139 @@
+{
+    "id_lesson": "facto_1_2",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "3a(x + y) + 3b(x + y)"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "= (x + y)(3a + 3b)"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "= 3(x + y)(a + b)"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "3a(x + y) + 3b(x + y)"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Paso a paso:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Ambos términos tiene un factor común:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "(x + y)"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Extrae el factor común de la ecuación:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "(x + y)(3a + 3b)"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Simplifica la expresión"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "3(x + y)(a + b)"
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Identifica el error."
+                },
+                {
+                    "type": "body",
+                    "text": "6a(x + y) + 2b(x + y) =",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_list",
+                    "list": ["(x + y)(6a + 2b)", "2(x + Y)(6a + 2b)"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "body",
+                    "text": "x^2(x - y) - x(x - y)",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "= "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "body",
+                    "text": "2x^2(y - z) - 6x(y - z)",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "= "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "body",
+                    "text": "5max + b) + 10n(a + b)",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "= "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "body",
+                    "text": "4p^2(s - t) - 6p(s - t)",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "= "
+                }
+            ]
+        }
+    ]
+}
