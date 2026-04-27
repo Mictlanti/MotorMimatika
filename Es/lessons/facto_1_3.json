@@ -1,0 +1,141 @@
+{
+    "id_lesson": "facto_1_3",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(a + b)^2 = a^2 + 2ab + b^2"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "(a + b)^2 = a^2 + 2ab + b^2"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Elevar al cuadrado un binomio es:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- El cuadrado del primer término."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Más el doble del producto de los términos."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Más el cuadrado del segundo término."
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Factoriza"
+                },
+                {
+                    "type": "body",
+                    "text": "x^2 + 2xy + y^2 =",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["(x - y)^2", "x^2 + y^2)", "(x + y)^2", "2(x + y)"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "x^2 + 2x + 1 = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "4x^2 + 4x + 1 = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "body",
+                    "text": "x^2 + 4x + 4 =",
+                    "isMathText": true
+                },
+                {
+                    "type": "card_drag_dynamic",
+                    "list_cards": ["+ 2)", "^2", "(x^2"],
+                    "list_questions": [""]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "(3x - 5y)^2 = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "a^2 + 22a + 121 = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Completa la factorización"
+                },
+                {
+                    "type": "card_dynamic",
+                    "list": ["=", ")^2", "a + 3", "(2", "a + 2", "(a^2"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "9x^2 - 12x + 4 = "
+                }
+            ]
+        }
+    ]
+}
