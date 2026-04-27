@@ -1,0 +1,360 @@
+{
+    "id_lesson": "produc_nota_1_5",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Producto de binomios con término común"
+                },
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(ax+b)(cx+d) = acx^2+(ad+bc)x+bd"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "Cuadrado del término común, más la suma de productos cruzados, más producto de las constantes."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Paso a paso:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Producto de los primeros términos."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "a * c * x^2 = acx^2"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Multiplica cruzado y suma:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "a * d * x + b * c * x = (ad + bc)x"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Multiplica los términos constantes"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "b * d = bd"
+                        }
+                    ]
+                },
+                {
+                    "type": "body",
+                    "text": "Ejemplo."
+                },
+                {
+                    "type": "body",
+                    "text": "(2x + 1)(x + 3)",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "= 2*1*x^2 + (2*3 + 1*1)x + 1 * 3",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "= 2x^2 + 6x + 3",
+                    "isMathText": true
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(ax+b)(cx+d) = acx^2+(ad+bc)x+bd"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "Cuadrado del término común, más la suma de productos cruzados, más producto de las constantes."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Paso a paso:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Producto de los primeros términos."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "a * c * x^2 = acx^2"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Multiplica cruzado y suma:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "a * d * x + b * c * x = (ad + bc)x"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Multiplica los términos constantes"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "b * d = bd"
+                        }
+                    ]
+                },
+                {
+                    "type": "body",
+                    "text": "Ordena verticalmente los pasos para resolver:"
+                },
+                {
+                    "type": "body",
+                    "text": "(2x + 5)(3x - 3) =",
+                    "isMathText": true
+                },
+                {
+                    "type": "card_drag_dynamic",
+                    "list_cards": ["6x^2 + (6 + 15)x - 15", "6x^2 + 21x - 15", "2*3x^2 + (2*3 + 5*3)x + (5)(-3)"],
+                    "list_questions": [""]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(ax+b)(cx+d) = acx^2+(ad+bc)x+bd"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "Cuadrado del término común, más la suma de productos cruzados, más producto de las constantes."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Paso a paso:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Producto de los primeros términos."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "a * c * x^2 = acx^2"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Multiplica cruzado y suma:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "a * d * x + b * c * x = (ad + bc)x"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Multiplica los términos constantes"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "b * d = bd"
+                        }
+                    ]
+                },
+                {
+                    "type": "body",
+                    "text": "Ordena la respuesta:"
+                },
+                {
+                    "type": "body",
+                    "text": "(-x - 5y)(6x + y) =",
+                    "isMathText": true
+                },
+                {
+                    "type": "card_drag_dynamic",
+                    "list_cards": ["-31xy", "-6x^2", "-5y^2"],
+                    "list_questions": [""]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(ax+b)(cx+d) = acx^2+(ad+bc)x+bd"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "Cuadrado del término común, más la suma de productos cruzados, más producto de las constantes."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Paso a paso:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Producto de los primeros términos."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "a * c * x^2 = acx^2"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Multiplica cruzado y suma:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "a * d * x + b * c * x = (ad + bc)x"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Multiplica los términos constantes"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "b * d = bd"
+                        }
+                    ]
+                },
+                {
+                    "type": "body",
+                    "text": "Ordena la respuesta:"
+                },
+                {
+                    "type": "body",
+                    "text": "(2x + 4)(2x + 6) =",
+                    "isMathText": true
+                },
+                {
+                    "type": "card_drag_dynamic",
+                    "list_cards": ["x^2", "+ 24", "y^2", "+ 20", "4", "x"],
+                    "list_questions": [""]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(ax+b)(cx+d) = acx^2+(ad+bc)x+bd"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "Cuadrado del término común, más la suma de productos cruzados, más producto de las constantes."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Paso a paso:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Producto de los primeros términos."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "a * c * x^2 = acx^2"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Multiplica cruzado y suma:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "a * d * x + b * c * x = (ad + bc)x"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Multiplica los términos constantes"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "b * d = bd"
+                        }
+                    ]
+                },
+                {
+                    "type": "body",
+                    "text": "Ordena la respuesta:"
+                },
+                {
+                    "type": "body",
+                    "text": "(3x + 1)(3x - 5) =",
+                    "isMathText": true
+                },
+                {
+                    "type": "card_drag_dynamic",
+                    "list_cards": ["9", "-5", "x", "-12", "x^2"],
+                    "list_questions": [""]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "body",
+                    "text": "(-x + 8)(3x + 2)",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "= "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "body",
+                    "text": "(2x + 3)(3x + 5)",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "= "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "body",
+                    "text": "(-x + 2)(3x - 4)",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "= "
+                }
+            ]
+        }
+    ]
+}
