@@ -1,0 +1,252 @@
+{
+    "id_lesson": "produc_nota_1_4",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Producto de binomios con término común"
+                },
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(x+a)(x+b) = x^2+(a+b)x+ab"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "Multiplicar dos binomios con la misma variable (x) y diferentes números da como resultado:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- El cuadrado del primero término."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Más la suma de los números por x."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- M+as el producto de los números"
+                        }
+                    ]
+                },
+                {
+                    "type": "body",
+                    "text": "Ejemplo."
+                },
+                {
+                    "type": "body",
+                    "text": "(x + 2)(x + 4)",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "= x^2 + (2 + 4)x + 4 * 2",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "= x^2 + 6x + 8",
+                    "isMathText": true
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(x+a)(x+b) = x^2+(a+b)x+ab"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "Multiplicar dos binomios con la misma variable (x) y diferentes números da como resultado:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- El cuadrado del primero término."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Más la suma de los números por x."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- M+as el producto de los números"
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Desarrolla aplicando la fórmula."
+                },
+                {
+                    "type": "body",
+                    "text": "(x + 3)(x + 2) =",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["x^2 - 6x - 5", "x^2 + 5x + 6"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(x+a)(x+b) = x^2+(a+b)x+ab"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "Multiplicar dos binomios con la misma variable (x) y diferentes números da como resultado:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- El cuadrado del primero término."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Más la suma de los números por x."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- M+as el producto de los números"
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Desarrolla aplicando la fórmula."
+                },
+                {
+                    "type": "body",
+                    "text": "(x - 2)(x - 1) =",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["x^2 - 3x + 2", "x^2 - x + 2"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(x+a)(x+b) = x^2+(a+b)x+ab"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "Multiplicar dos binomios con la misma variable (x) y diferentes números da como resultado:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- El cuadrado del primero término."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Más la suma de los números por x."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- M+as el producto de los números"
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Desarrolla aplicando la fórmula."
+                },
+                {
+                    "type": "body",
+                    "text": "(x + 3)(x + 5) =",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["x^2 - 5x + 3", "x^2 + 8x + 15"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Arrastra las cartas para contestar."
+                },
+                {
+                    "type": "body",
+                    "text": "(x + 3y)(x - 2y) =",
+                    "isMathText": true
+                },
+                {
+                    "type": "drag_card_dynamic",
+                    "list_cards": ["y", "+", "6", "x^2", "-", "y^2"],
+                    "list_questions": [""]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "body",
+                    "text": "(x + a)(x -a)",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "= "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "body",
+                    "text": "(x + 3)(x + 5) + (x - 1)^2",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "= "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "body",
+                    "text": "(x + 6)(x - 6) - (x + 9)(x - 4) = ",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "= "
+                }
+            ]
+        }
+    ]
+}
