@@ -1,0 +1,266 @@
+{
+    "id_lesson": "produc_nota_1_3",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Diferencia de cuadrados"
+                },
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(a + b)(a - b) = a^2 - b^2"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "El producto de una suma por su resta da como resultado la diferencia de los cuadrados de los términos."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Paso a paso:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Al multiplicar obtenemos:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "a^2 - ab + ab - b^2"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Restamos: ab - ab = 0"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "... (a + b)(a - b) = a^2 - b^2"
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Desarrolla aplicando la fórmula."
+                },
+                {
+                    "type": "body",
+                    "text": "(x - y)(x + y) =",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["x^2 + y^2", "x^2 - y^2"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(a + b)(a - b) = a^2 - b^2"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "El producto de una suma por su resta da como resultado la diferencia de los cuadrados de los términos."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Paso a paso:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Al multiplicar obtenemos:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "a^2 - ab + ab - b^2"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Restamos: ab - ab = 0"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "... (a + b)(a - b) = a^2 - b^2"
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Desarrolla aplicando la fórmula."
+                },
+                {
+                    "type": "body",
+                    "text": "(x - 2)(x + 2) =",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["x^2 + 4", "x^2 - 2", "x^2 - 4", "x^2 + 2"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Desarrolla aplicando la fórmula."
+                },
+                {
+                    "type": "body",
+                    "text": "(5x - 3)(5x + 3) =",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["25x^2 - 3", "5x^2 - 9", "25x^2 - 9", "5x^2 + 3"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(a + b)(a - b) = a^2 - b^2"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "El producto de una suma por su resta da como resultado la diferencia de los cuadrados de los términos."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Paso a paso:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Al multiplicar obtenemos:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "a^2 - ab + ab - b^2"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Restamos: ab - ab = 0"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "... (a + b)(a - b) = a^2 - b^2"
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Desarrolla aplicando la fórmula."
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "(2x + 3y)(2x - 3y) = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(a + b)(a - b) = a^2 - b^2"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "El producto de una suma por su resta da como resultado la diferencia de los cuadrados de los términos."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Paso a paso:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Al multiplicar obtenemos:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "a^2 - ab + ab - b^2"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Restamos: ab - ab = 0"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "... (a + b)(a - b) = a^2 - b^2"
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Desarrolla aplicando la fórmula."
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "(4x + 3)(4x - 3) = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(a + b)(a - b) = a^2 - b^2"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "El producto de una suma por su resta da como resultado la diferencia de los cuadrados de los términos."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Paso a paso:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Al multiplicar obtenemos:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "a^2 - ab + ab - b^2"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Restamos: ab - ab = 0"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "... (a + b)(a - b) = a^2 - b^2"
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Desarrolla aplicando la fórmula."
+                },
+                {
+                    "type": "body",
+                    "text": "(x + y)^2 - (x + y)(x - y)",
+                    "isMathText": true
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "= "
+                }
+            ]
+        }
+    ]
+}
