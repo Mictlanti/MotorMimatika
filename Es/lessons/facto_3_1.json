@@ -40,11 +40,13 @@
                 },
                 {
                     "type": "body",
-                    "text": "ac = 2*3"
+                    "text": "ac = 2*3",
+                    "isMathText": true
                 },
                 {
                     "type": "body",
-                    "text": "ad + bc = 2*-3 + 5*3"
+                    "text": "ad + bc = 2*-3 + 5*3",
+                    "isMathText": true
                 },
                 {
                     "type": "button_exercise",
