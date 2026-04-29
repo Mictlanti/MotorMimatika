@@ -233,6 +233,42 @@
                     "results": ["9", "20"]
                 }
             ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "¿Qué par de números dan como resultado?"
+                },
+                {
+                    "type" : "ab_exercise",
+                    "results": ["13", "40"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "¿Qué par de números dan como resultado?"
+                },
+                {
+                    "type" : "ab_exercise",
+                    "results": ["-8", "15"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "¿Qué par de números dan como resultado?"
+                },
+                {
+                    "type" : "ab_exercise",
+                    "results": ["-10", "25"]
+                }
+            ]
         }
     ]
 }
