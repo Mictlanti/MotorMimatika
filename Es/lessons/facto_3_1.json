@@ -27,7 +27,7 @@
                 },
                 {
                     "type": "title",
-                    "text": "De una ecuación:"
+                    "text": "De la ecuación:"
                 },
                 {
                     "type": "body",
@@ -51,6 +51,88 @@
                 {
                     "type": "button_exercise",
                     "list": ["bd = 5*-3", "bd = 5*3"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Formula:"
+                },
+                {
+                    "type": "body",
+                    "text": "(ax+b)(cx+d) = acx^2+(ad+bc)x+bd",
+                    "isMathText": true,
+                    "fontSizeMath": 15
+                },
+                {
+                    "type": "title",
+                    "text": "De la ecuación:"
+                },
+                {
+                    "type": "body",
+                    "text": "(2x + 4)(2x + 6)",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Aplicando la fórmula:"
+                },
+                {
+                    "type": "body",
+                    "text": "ad + bc = 2*6 + 4*2",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "bd = 4*6",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["ac = 2*2", "ac = 2*4"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Formula:"
+                },
+                {
+                    "type": "body",
+                    "text": "(ax+b)(cx+d) = acx^2+(ad+bc)x+bd",
+                    "isMathText": true,
+                    "fontSizeMath": 15
+                },
+                {
+                    "type": "title",
+                    "text": "De la ecuación:"
+                },
+                {
+                    "type": "body",
+                    "text": "(3x + 2)(x + 1)",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Aplicando la fórmula:"
+                },
+                {
+                    "type": "body",
+                    "text": "ac = 3*1",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "bd = 2*1",
+                    "isMathText": true
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["ad+bc = 3*2+1*1", "ad+bc = 3*1+2*1"]
                 }
             ]
         }
