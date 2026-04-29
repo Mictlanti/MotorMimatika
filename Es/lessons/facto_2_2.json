@@ -1,0 +1,226 @@
+{
+    "id_lesson": "facto_2_2",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "Recordemos la formula:"
+                },
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(x+a)(x+b) = x^2+(a+b)x+ab"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "Multiplicar dos binomios con la misma variable (x) y diferentes números da como resultado:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- El cuadrado del primero término."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Más la suma de los números por x."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Más el producto de los números"
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Factoriza."
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "(x + 3)(x + 2) ="
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(x+a)(x+b) = x^2+(a+b)x+ab"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "Multiplicar dos binomios con la misma variable (x) y diferentes números da como resultado:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- El cuadrado del primero término."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Más la suma de los números por x."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Más el producto de los números"
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "body",
+                    "text": "Encuentra el par de números que al sumarlos den 7 y al multiplicarlos den 12"
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["1 y 12", "2 y 6", "3 y 4", "-3 y -4"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(x+a)(x+b) = x^2+(a+b)x+ab"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "Multiplicar dos binomios con la misma variable (x) y diferentes números da como resultado:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- El cuadrado del primero término."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Más la suma de los números por x."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Más el producto de los números"
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "body",
+                    "text": "Encuentra el par de números que al sumarlos den 9 y al multiplicarlos den 20."
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["4 y 5", "10 y 2", "-4 y -5", "-4 y 5"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(x+a)(x+b) = x^2+(a+b)x+ab"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "Multiplicar dos binomios con la misma variable (x) y diferentes números da como resultado:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- El cuadrado del primero término."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Más la suma de los números por x."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Más el producto de los números"
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "body",
+                    "text": "Encuentra el par de números que al sumarlos den −7 y al multiplicarlos den 10."
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["-5 y -2", "5 y 2", "10 y 3", "-1 y -10"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(x+a)(x+b) = x^2+(a+b)x+ab"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "Multiplicar dos binomios con la misma variable (x) y diferentes números da como resultado:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- El cuadrado del primero término."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Más la suma de los números por x."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Más el producto de los números"
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "body",
+                    "text": "Encuentra el par de números que al sumarlos den 1 y al multiplicarlos den −12."
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["4 y -3", "-4 y 3", "6 y -2", "-6 y 2"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Contesta correctamente"
+                },
+                {
+                    "type": "body",
+                    "text": "Encuentra el par de números que al sumarlos den −2 y al multiplicarlos den −15."
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["-5 y 3", "5 y -3", "-15 y 1", "-6 y 4"]
+                }
+            ]
+        }
+    ]
+}
