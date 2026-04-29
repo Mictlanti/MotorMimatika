@@ -1,0 +1,55 @@
+{
+    "id_lesson": "facto_3_1",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Contesta lo siguiente"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "(2x + 1)(x + 3) ="
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "body",
+                    "text": "En productos notables vimos la fórmula:"
+                },
+                {
+                    "type": "body",
+                    "text": "(ax+b)(cx+d) = acx^2+(ad+bc)x+bd",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "De una ecuación:"
+                },
+                {
+                    "type": "body",
+                    "text": "(2x + 5)(3x - 3)",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Aplicando la fórmula:"
+                },
+                {
+                    "type": "body",
+                    "text": "ac = 2*3"
+                },
+                {
+                    "type": "body",
+                    "text": "ad + bc = 2*-3 + 5*3"
+                },
+                {
+                    "type": "button_exercise",
+                    "list": ["bd = 5*-3", "bd = 5*3"]
+                }
+            ]
+        }
+    ]
+}
