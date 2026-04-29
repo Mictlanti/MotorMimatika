@@ -133,7 +133,7 @@
                 {
                     "type": "button_exercise",
                     "list": ["ad+bc = 3*2+1*1", "ad+bc = 3*1+2*1"],
-                    "isVerticalExercise": true
+                    "isColumnExercise": true
                 }
             ]
         },
