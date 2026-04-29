@@ -12,7 +12,8 @@
                     "content": [
                         {
                             "type": "short_example",
-                            "text": "(ax+b)(cx+d) = acx^2+(ad+bc)x+bd"
+                            "text": "(ax+b)(cx+d) = acx^2+(ad+bc)x+bd",
+                            "fontSize": 15
                         },
                         {
                             "type": "large_example",
@@ -76,7 +77,8 @@
                     "content": [
                         {
                             "type": "short_example",
-                            "text": "(ax+b)(cx+d) = acx^2+(ad+bc)x+bd"
+                            "text": "(ax+b)(cx+d) = acx^2+(ad+bc)x+bd",
+                            "fontSize": 15
                         },
                         {
                             "type": "large_example",
@@ -135,7 +137,8 @@
                     "content": [
                         {
                             "type": "short_example",
-                            "text": "(ax+b)(cx+d) = acx^2+(ad+bc)x+bd"
+                            "text": "(ax+b)(cx+d) = acx^2+(ad+bc)x+bd",
+                            "fontSize": 15
                         },
                         {
                             "type": "large_example",
@@ -193,7 +196,8 @@
                     "content": [
                         {
                             "type": "short_example",
-                            "text": "(ax+b)(cx+d) = acx^2+(ad+bc)x+bd"
+                            "text": "(ax+b)(cx+d) = acx^2+(ad+bc)x+bd",
+                            "fontSize": 15
                         },
                         {
                             "type": "large_example",
@@ -252,7 +256,8 @@
                     "content": [
                         {
                             "type": "short_example",
-                            "text": "(ax+b)(cx+d) = acx^2+(ad+bc)x+bd"
+                            "text": "(ax+b)(cx+d) = acx^2+(ad+bc)x+bd",
+                            "fontSize": 15
                         },
                         {
                             "type": "large_example",
