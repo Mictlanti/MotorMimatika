@@ -221,6 +221,18 @@
                     "list": ["-5 y 3", "5 y -3", "-15 y 1", "-6 y 4"]
                 }
             ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "¿Qué par de números dan como resultado?"
+                },
+                {
+                    "type" : "ab_exercise",
+                    "results": ["9", "20"]
+                }
+            ]
         }
     ]
 }
