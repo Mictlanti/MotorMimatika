@@ -173,7 +173,7 @@
                 },
                 {
                     "type": "body",
-                    "text": "Ordena la respuesta:"
+                    "text": "Corrige el error en el procedimiento"
                 },
                 {
                     "type": "body",
@@ -182,8 +182,7 @@
                 },
                 {
                     "type": "card_drag_dynamic",
-                    "list_cards": ["-31xy", "-6x^2", "-5y^2"],
-                    "list_questions": [""]
+                    "labelText": ["-1*6x^2 + (-1*1 + (-5)*6)x + (-5)*6*y^2", "-6x^2 - 31x - 5y^2"]
                 }
             ]
         },
