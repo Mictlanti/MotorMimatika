@@ -132,7 +132,67 @@
                 },
                 {
                     "type": "button_exercise",
-                    "list": ["ad+bc = 3*2+1*1", "ad+bc = 3*1+2*1"]
+                    "list": ["ad+bc = 3*2+1*1", "ad+bc = 3*1+2*1"],
+                    "isVerticalExercise": true
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "En factorización, aplicaremos la formula a la inversa:"
+                },
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "(ax+b)(cx+d) = acx^2+(ad+bc)x+bd",
+                            "fontSize": 15
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Cuadrado del término común, más la suma de productos cruzados, más producto de las constantes."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Paso a paso:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Producto de los primeros términos."
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "a * c * x^2 = acx^2"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Multiplica cruzado y suma:"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "a * d * x + b * c * x = (ad + bc)x"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "- Multiplica los términos constantes"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "b * d = bd"
+                        }
+                    ]
+                },
+                {
+                    "type": "body",
+                    "text": "Aplicando la fórmula"
+                },
+                {
+                    "type": "ab_second_exercise",
+                    "options": ["a", "b"],
+                    "equation": "3x^2 + 5x + 2 = "
                 }
             ]
         }
