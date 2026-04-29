@@ -22,7 +22,8 @@
                 {
                     "type": "body",
                     "text": "(ax+b)(cx+d) = acx^2+(ad+bc)x+bd",
-                    "isMathText": true
+                    "isMathText": true,
+                    "fontSizeMath": 15
                 },
                 {
                     "type": "body",
