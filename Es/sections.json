@@ -10,17 +10,5 @@
     "course_id" : "math",
     "title" : "Algebra intermedia",
     "image_section" : "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/delta_cartoon.png"
-  },
-  {
-    "id" : "econo_intro",
-    "course_id" : "econo",
-    "title" : "Introducción",
-    "image_section" : "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/fuhrer_cartoon_one.png"
-  },
-  {
-    "id" : "econo_consumer",
-    "course_id" : "econo",
-    "title" : "Consumidor(Cardinal)",
-    "image_section" : "https://raw.githubusercontent.com/Mictlanti/MotorMimatika/refs/heads/main/Images/fuhrer_cartoon_three.png"
   }
 ]
