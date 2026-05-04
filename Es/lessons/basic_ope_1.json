@@ -64,7 +64,13 @@
                         "type": "input_exercise",
                         "text": "2a + 3a = "
                     }
-                ]
+                ],
+                    "results": [
+                            "UserInput": [
+                                    "id": 0,
+                                    "res": "5a"
+                            ]
+                    ]
             },
             {
                 "blocks": [
