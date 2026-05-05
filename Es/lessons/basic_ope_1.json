@@ -67,7 +67,8 @@
                 ],
             "results": [
                 {
-                    "user_input": [
+                    "type": "user_input",
+                    "listRest": [
                         {
                             "id": 0,
                             "res": "5a"
