@@ -67,7 +67,7 @@
                 ],
             "result": [
                 {
-                    "UserInput": [
+                    "user_input": [
                         {
                             "id": 0,
                             "res": "5a"
