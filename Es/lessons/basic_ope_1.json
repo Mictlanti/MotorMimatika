@@ -66,16 +66,13 @@
                     }
                 ],
             "results": [
-                {
-                    "type": "user_input",
-                    "listRest": [
-                        {
-                            "id": 0,
-                            "res": "5a"
-                        }
-                    ]
-                }
-            ]
+    {
+        "type": "user_input",
+        "listRes": [
+            { "id": 0, "res": "5a" }
+        ]
+    }
+]
         },
             {
                 "blocks": [
