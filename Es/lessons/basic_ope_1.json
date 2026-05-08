@@ -73,8 +73,10 @@
         ]
     },
                     {
-                            "type": "card_dynamic",
-                            "listOrder: [1]
+                            "type": "user_input",
+                            "listRes": [
+                                    { "id": 0, "res": "4x+y" }
+                            ]
                     }
 ]
         },
