@@ -71,7 +71,11 @@
         "listRes": [
             { "id": 0, "res": "5a" }
         ]
-    }
+    },
+                    {
+                            "type": "card_dynamic",
+                            "listOrder: [1]
+                    }
 ]
         },
             {
