@@ -71,6 +71,44 @@
                     "listRes": [
                         {"id": 0, "res": "5a"}
                     ]
+                },
+                {
+                    "type": "user_input",
+                    "listRes": [
+                        {"id": 0, "res": "4x + y"}
+                    ]
+                },
+                {
+                    "type": "button_exercise",
+                    "indexCorrect": 4
+                },
+                {
+                    "type": "user_input",
+                    "listRes": [
+                        {"id": 0, "res": "5x"}
+                    ]
+                },
+                {
+                    "type": "button_exercise",
+                    "indexCorrect": 3
+                },
+                {
+                    "type": "user_input",
+                    "listRes": [
+                        {"id": 0, "res": "7x"}
+                    ]
+                },
+                {
+                    "type": "user_input",
+                    "listRes": [
+                        {"id": 0, "res": "2x+y"}
+                    ]
+                },
+                {
+                    "type": "user_input",
+                    "listRes": [
+                        {"id": 0, "res": "3x+y"}
+                    ]
                 }
             ]
         },
@@ -83,14 +121,6 @@
                 {
                     "type": "input_exercise",
                     "text": "4x + y = "
-                }
-            ],
-            "results": [
-                {
-                    "type": "user_input",
-                    "listRes": [
-                        {"id": 0, "res": "4x + y"}
-                    ]
                 }
             ]
         },
@@ -108,12 +138,6 @@
                 {
                     "type": "button_exercise",
                     "list": ["8c", "-4c", "3c", "10c"]
-                }
-            ],
-            "results": [
-                {
-                    "type": "button_exercise",
-                    "indexCorrect": 4
                 }
             ]
         },
@@ -156,14 +180,6 @@
                     "type": "input_exercise",
                     "text": "5x - 0 = "
                 }
-            ],
-            "results": [
-                {
-                    "type": "user_input",
-                    "listRes": [
-                        {"id": 0, "res": "5x"}
-                    ]
-                }
             ]
         },
         {
@@ -181,12 +197,6 @@
                     "type": "button_exercise",
                     "list": ["-2y", "2y", "0", "y"]
                 }
-            ],
-            "results": [
-                {
-                    "type": "button_exercise",
-                    "indexCorrect": 3
-                }
             ]
         },
         {
@@ -198,14 +208,6 @@
                 {
                     "type": "input_exercise",
                     "text": "10x + x - 4x = "
-                }
-            ],
-            "results": [
-                {
-                    "type": "user_input",
-                    "listRes": [
-                        {"id": 0, "res": "7x"}
-                    ]
                 }
             ]
         },
@@ -219,14 +221,6 @@
                     "type": "input_exercise",
                     "text": "2x - x + x + y = "
                 }
-            ],
-            "results": [
-                {
-                    "type": "user_input",
-                    "listRes": [
-                        {"id": 0, "res": "2x+y"}
-                    ]
-                }
             ]
         },
         {
@@ -239,14 +233,6 @@
                 {
                     "type": "input_exercise",
                     "text": "3x + 2y - y = "
-                }
-            ],
-            "results": [
-                {
-                    "type": "user_input",
-                    "listRes": [
-                        {"id": 0, "res": "3x+y"}
-                    ]
                 }
             ]
         }
