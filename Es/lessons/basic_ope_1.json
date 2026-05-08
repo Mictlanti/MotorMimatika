@@ -81,7 +81,7 @@
                     "text": "Elige la opción correcta"
                 },
                 {
-                    "type": "user_input",
+                    "type": "input_exercise",
                     "text": "4x + y = "
                 }
             ],
