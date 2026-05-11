@@ -201,7 +201,7 @@
         {
             "type": "user_input",
             "listRes": [
-                {"id": 0, "res": "4x + y"}
+                {"id": 0, "res": "4x+y"}
             ]
         },
         {
