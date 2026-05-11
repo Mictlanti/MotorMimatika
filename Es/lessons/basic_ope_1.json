@@ -64,52 +64,6 @@
                     "type": "input_exercise",
                     "text": "2a + 3a = "
                 }
-            ],
-            "results": [
-                {
-                    "type": "user_input",
-                    "listRes": [
-                        {"id": 0, "res": "5a"}
-                    ]
-                },
-                {
-                    "type": "user_input",
-                    "listRes": [
-                        {"id": 0, "res": "4x + y"}
-                    ]
-                },
-                {
-                    "type": "button_exercise",
-                    "indexCorrect": 4
-                },
-                {
-                    "type": "user_input",
-                    "listRes": [
-                        {"id": 0, "res": "5x"}
-                    ]
-                },
-                {
-                    "type": "button_exercise",
-                    "indexCorrect": 3
-                },
-                {
-                    "type": "user_input",
-                    "listRes": [
-                        {"id": 0, "res": "7x"}
-                    ]
-                },
-                {
-                    "type": "user_input",
-                    "listRes": [
-                        {"id": 0, "res": "2x+y"}
-                    ]
-                },
-                {
-                    "type": "user_input",
-                    "listRes": [
-                        {"id": 0, "res": "3x+y"}
-                    ]
-                }
             ]
         },
         {
@@ -234,6 +188,52 @@
                     "type": "input_exercise",
                     "text": "3x + 2y - y = "
                 }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": "5a"}
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": "4x + y"}
+            ]
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 4
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": "5x"}
+            ]
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 3
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": "7x"}
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": "2x+y"}
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": "3x+y"}
             ]
         }
     ]
