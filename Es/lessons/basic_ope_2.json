@@ -78,19 +78,19 @@
     "results": [
         {
             "type": "card_dynamic",
-            "list_order": [
+            "listOrder": [
                 6
             ]
         },
         {
             "type": "card_dynamic",
-            "list_order": [
+            "listOrder": [
                 7
             ]
         },
         {
             "type": "card_dynamic",
-            "list_order": [
+            "listOrder": [
                 2
             ]
         },
@@ -102,7 +102,7 @@
         },
         {
             "type": "card_drag_dynamic",
-            "list_order": [
+            "listOrder": [
                 2, 1, 3
             ]
         },
