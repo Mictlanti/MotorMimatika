@@ -1,173 +1,229 @@
 {
-        "id_lesson": "basic_ope_3",
-        "pages": [
-            {
-                "blocks": [
-                    {
-                        "type": "title",
-                        "text": "Signos de agrupación"
-                    },
-                    {
-                        "type": "card_example",
-                        "content": [
-                            {
-                                "type": "short_example",
-                                "text": "1) + (y) = + y"
-                            },
-                            {
-                                "type": "short_example",
-                                "text": "1) + (-y) = - y"
-                            },
-                            {
-                                "type": "large_example",
-                                "text": "1) + (y) = + y"
-                            },
-                            {
-                                "type": "large_example",
-                                "text": "1) + (-y) = - y"
-                            },
-                            {
-                                "type": "large_example",
-                                "text": "Regla 1: Cuando un número o variable tiene un + delante del paréntesis, simplemente eliminamos los paréntesis."
-                            }
-                        ]
-                    },
-                    {
-                        "type": "body",
-                        "text": "Ordena el signo donde corresponda"
-                    },
-                    {
-                        "type": "input_exercise",
-                        "text": "+ (3x) = "
-                    }
-                ]
-            },
-            {
-                "blocks": [
-                    {
-                        "type": "title",
-                        "text": "Ordena las cartas según la expresión equivalente a:"
-                    },
-                    {
-                        "type": "card_drag_dynamic",
-                        "list_cards": ["x - y", "-x + y", "-x - y"],
-                        "list_questions": ["+ (x - y) =", "+ (-x + y) =", "+ (-x - y) ="]
-                    }
-                ]
-            },
-            {
-                "blocks": [
-                    {
-                        "type": "title",
-                        "text": "Ordena las cartas según la expresión equivalente a:"
-                    },
-                    {
-                        "type": "card_drag_dynamic",
-                        "list_cards": ["-a - b", "a - b", "-a + b"],
-                        "list_questions": ["+ (a - b) =", "+ (- a - b) =", "+ (-a + b) ="]
-                    }
-                ]
-            },
-            {
-                "blocks": [
-                    {
-                        "type": "title",
-                        "text": "Resuelve lo siguiente"
-                    },
-                    {
-                        "type": "input_exercise",
-                        "text": "(2a + a) + (2b - c) ="
-                    }
-                ]
-            },
-            {
-                "blocks": [
-                    {
-                        "type": "title",
-                        "text": "Resuelve lo siguiente"
-                    },
-                    {
-                        "type": "card_dynamic",
-                        "list": ["2x + (-c) =", "2cx", "2(x-c)", "2x", "2c", "2x - c"]
-                    }
-                ]
-            },
-            {
-                "blocks": [
-                    {
-                        "type": "title",
-                        "text": "Signos de agrupación"
-                    },
-                    {
-                        "type": "card_example",
-                        "content": [
-                            {
-                                "type": "short_example",
-                                "text": "1) - (y) = - y"
-                            },
-                            {
-                                "type": "short_example",
-                                "text": "2) - (-y) = + y"
-                            },
-                            {
-                                "type": "large_example",
-                                "text": "1) - (y) = - y"
-                            },
-                            {
-                                "type": "large_example",
-                                "text": "2) - (-y) = + y"
-                            },
-                            {
-                                "type": "large_example",
-                                "text": "Regla 2: Si hay un - (negativo) delante del paréntesis, cambiamos el signo de cada cantidad dentro del paréntesis por su inverso."
-                            }
-                        ]
-                    },
-                    {
-                        "type": "body",
-                        "text": "Resuelve lo siguiente"
-                    },
-                    {
-                        "type": "input_exercise",
-                        "text": "- (3x) = "
-                    }
-                ]
-            },
-            {
-                "blocks": [
-                    {
-                        "type": "title",
-                        "text": "Resuelve lo siguiente"
-                    },
-                    {
-                        "type": "input_exercise",
-                        "text": "3b - (3b + 4) ="
-                    }
-                ]
-            },
-            {
-                "blocks": [
-                    {
-                        "type": "title",
-                        "text": "Ordena las cartas para escribir su expresión equivalente"
-                    },
-                    {
-                        "type": "card_dynamic",
-                        "list": ["- (x - y) =", "-", "+", "x", "y"]
-                    }
-                ]
-            },
-            {
-                "blocks": [
-                    {
-                        "type": "title",
-                        "text": "Resuelve lo siguiente"
-                    },
-                    {
-                        "type": "input_exercise",
-                        "text": "9t - (2t) = "
-                    }
-                ]
-            }
-        ]
-    }
+    "id_lesson": "basic_ope_3",
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Signos de agrupación"
+                },
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "1) + (y) = + y"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "1) + (-y) = - y"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "1) + (y) = + y"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "1) + (-y) = - y"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Regla 1: Cuando un número o variable tiene un + delante del paréntesis, simplemente eliminamos los paréntesis."
+                        }
+                    ]
+                },
+                {
+                    "type": "body",
+                    "text": "Ordena el signo donde corresponda"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "+ (3x) = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Ordena las cartas según la expresión equivalente a:"
+                },
+                {
+                    "type": "card_drag_dynamic",
+                    "list_cards": ["x - y", "-x + y", "-x - y"],
+                    "list_questions": ["+ (x - y) =", "+ (-x + y) =", "+ (-x - y) ="]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Ordena las cartas según la expresión equivalente a:"
+                },
+                {
+                    "type": "card_drag_dynamic",
+                    "list_cards": ["-a - b", "a - b", "-a + b"],
+                    "list_questions": ["+ (a - b) =", "+ (- a - b) =", "+ (-a + b) ="]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Resuelve lo siguiente"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "(2a + a) + (2b - c) ="
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Resuelve lo siguiente"
+                },
+                {
+                    "type": "card_dynamic",
+                    "list": ["2x + (-c) =", "2cx", "2(x-c)", "2x", "2c", "2x - c"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Signos de agrupación"
+                },
+                {
+                    "type": "card_example",
+                    "content": [
+                        {
+                            "type": "short_example",
+                            "text": "1) - (y) = - y"
+                        },
+                        {
+                            "type": "short_example",
+                            "text": "2) - (-y) = + y"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "1) - (y) = - y"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "2) - (-y) = + y"
+                        },
+                        {
+                            "type": "large_example",
+                            "text": "Regla 2: Si hay un - (negativo) delante del paréntesis, cambiamos el signo de cada cantidad dentro del paréntesis por su inverso."
+                        }
+                    ]
+                },
+                {
+                    "type": "body",
+                    "text": "Resuelve lo siguiente"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "- (3x) = "
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Resuelve lo siguiente"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "3b - (3b + 4) ="
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Ordena las cartas para escribir su expresión equivalente"
+                },
+                {
+                    "type": "card_dynamic",
+                    "list": ["- (x - y) =", "-", "+", "x", "y"]
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "type": "title",
+                    "text": "Resuelve lo siguiente"
+                },
+                {
+                    "type": "input_exercise",
+                    "text": "9t - (2t) = "
+                }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "+3x", "3x" ] }
+            ]
+        },
+        {
+            "type": "card_drag_dynamic",
+            "listOrder": [
+                1, 2, 3
+            ]
+        },
+        {
+            "type": "card_drag_dynamic",
+            "listOrder": [
+                2, 1, 3
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "3a+2b-c" ] }
+            ]
+        },
+        {
+            "type": "card_dynamic",
+            "listOrder": [
+                5
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "-3x" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "3b-3b-4", "-4", "0-4" ] }
+            ]
+        },
+        {
+            "type": "card_dynamic",
+            "listOrder": [
+                1, 3, 2, 4
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "7t" ] }
+            ]
+        }
+    ]
+}
