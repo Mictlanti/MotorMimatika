@@ -148,7 +148,7 @@
                 },
                 {
                     "type": "button_exercise",
-                    "list": ["3", "5", "3", "0"]
+                    "list": ["4", "5", "3", "0"]
                 }
             ]
         },
@@ -182,7 +182,7 @@
                 },
                 {
                     "type": "button_exercise",
-                    "list": ["3", "5", "3", "0"]
+                    "list": ["3", "5", "5", "0"]
                 }
             ]
         },
@@ -239,5 +239,61 @@
                 }
             ]
         }
+    ],
+    "results": [
+        {
+            "type": "button_exercise",
+            "indexCorrect": 3
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 1
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 2
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 2
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 3
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 1
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 3
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 1
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 4
+        },
+        {
+            "type": "card_dynamic",
+            "listOrder": [
+                1
+            ]
+        },
+        {
+            "type": "card_dynamic",
+            "listOrder": [
+                1, 4
+            ]
+        },
+        {
+            "type": "card_dynamic",
+            "listOrder": [
+                1
+            ]
+        },
     ]
 }
