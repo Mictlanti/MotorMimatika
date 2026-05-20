@@ -78,9 +78,7 @@
     "results": [
         {
             "type": "card_dynamic",
-            "listOrder": [
-                6
-            ]
+            "listOrder": [ 6,5 ]
         },
         {
             "type": "card_dynamic",
