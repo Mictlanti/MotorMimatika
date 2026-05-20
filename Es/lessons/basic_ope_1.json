@@ -195,14 +195,13 @@
         {
             "type": "user_input",
             "listRes": [
-                {"id": 0, "res": "5a"}
+                {"id": 0, "res": [ "5a" ] }
             ]
         },
         {
             "type": "user_input",
             "listRes": [
-                {"id": 0, "res": "4x+y"},
-                {"id": 0, "res": "y+4x"}
+                {"id": 0, "res": [ "4x+y" ] }
             ]
         },
         {
@@ -212,7 +211,7 @@
         {
             "type": "user_input",
             "listRes": [
-                {"id": 0, "res": "5x"}
+                {"id": 0, "res": [ "5x" ] }
             ]
         },
         {
@@ -222,19 +221,19 @@
         {
             "type": "user_input",
             "listRes": [
-                {"id": 0, "res": "7x"}
+                {"id": 0, "res": [ "7x" ] }
             ]
         },
         {
             "type": "user_input",
             "listRes": [
-                {"id": 0, "res": "2x+y"}
+                {"id": 0, "res": [ "2x+y" ] }
             ]
         },
         {
             "type": "user_input",
             "listRes": [
-                {"id": 0, "res": "3x+y"}
+                {"id": 0, "res": [ "3x+y" ] }
             ]
         }
     ]
