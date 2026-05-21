@@ -1,4 +1,4 @@
-
+{
     "id_lesson": "simpli_3",
     "pages": [
         {
@@ -70,7 +70,6 @@
                 },
                 {
                     "type": "body",
-                    "text": "2(a * a) * 2(a^2)^2 ="
                     "text": "2(a * a) * 2(a^2)^2 =",
                     "isMathText": true
                 },
@@ -102,7 +101,6 @@
                 },
                 {
                     "type": "body",
-                    "text": "x^2(x * x)(xy) ="
                     "text": "x^2(x * x)(xy) =",
                     "isMathText": true
                 },
@@ -133,7 +131,6 @@
                 },
                 {
                     "type": "body",
-                    "text": "(a) * (a * a)^2"
                     "text": "(a) * (a * a)^2",
                     "isMathText": true
                 },
