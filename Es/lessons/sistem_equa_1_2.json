@@ -45,7 +45,7 @@
                 },
                 {
                     "type": "body",
-                    "text": "x = 1",
+                    "text": "x = - 1",
                     "isMathText": true
                 },
                 {
@@ -76,7 +76,7 @@
                 },
                 {
                     "type": "body",
-                    "text": "x = 1",
+                    "text": "x = - 1",
                     "isMathText": true
                 },
                 {
@@ -184,6 +184,40 @@
                     "type": "input_exercise",
                     "text": "(x, y) = ",
                 }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "-1" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "2" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "(-1,2)", "-1,2" ] }
+            ]
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 2
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 1
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "(-2,-3)", "-2,-3" ] }
             ]
         }
     ]
