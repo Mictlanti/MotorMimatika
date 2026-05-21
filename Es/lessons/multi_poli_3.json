@@ -97,7 +97,7 @@
                 },
                 {
                     "type": "button_exercise",
-                    "list": ["x^2+ax+xy+ay", "x^2+ax-xy-ay"]
+                    "list": ["x^2+ab-ax-bx", "x^2-ab+ax-bx"]
                 }
             ]
         },
@@ -264,6 +264,54 @@
                     "type": "input_exercise",
                     "text": "Respuesta: "
                 }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "type": "button_exercise",
+            "indexCorrect": 2
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 1
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "3x(x+3y)+4y(x+3y)", "x(3x+4y)+3y(3x+4y)" ] },
+                {"id": 1, "res": [ "3x^2+9xy+4xy+12y^2", "3x^2+4xy+9xy+12y^2" ] },
+                {"id": 2, "res": [ "3x^2+13xy+12y^2" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "2x(x+2y)-y(x+2y)", "x(2x-y)+2y(2x-y)" ] },
+                {"id": 1, "res": [ "2x^2+4xy-xy-2y^2", "2x^2-xy+4xy-4y^2" ] },
+                {"id": 2, "res": [ "2x^2+3xy-2y^2" ] }
+            ]
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 1
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "x(x-4y+12)-2(x-4y+12)" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "x^3-4x^2+12x-2x^2+8x-24", "x^3-4x^2+12x-2x^2+8x-24=" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "2m^2-mn-9m+7n+35", "2m^2-9m-mn+7n+35" ] }
             ]
         }
     ]
