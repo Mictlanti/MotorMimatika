@@ -289,5 +289,43 @@
                 }
             ]
         }
+    ],
+    "results": [
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "" ] }
+            ]
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 2
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 2
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 1
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 1
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 2
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 2
+        }
     ]
 }
