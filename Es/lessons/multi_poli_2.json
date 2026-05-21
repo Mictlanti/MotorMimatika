@@ -192,5 +192,44 @@
                 }
             ]
         }
-    ]
+    ],
+    "results": {
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "2ac+2ad-bc+bd" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "25ax-5bx-5ay+by", "25xa-5xb-5ya+yb" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 2, "res": [ "ba-b-a+1", "-b-a+ba+1", "-a-b+ba+1", "-a+ab-b+1", "ab-b-a+1" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "2a(x+2y)+b(x+2y)" ] },
+                { "id": 1, "res": [ "2ax+4ay+bx+2by" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 1, "res": [ "ax-2ay-3bx+6by" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "a(5x-3y)-b(5x-3y" ] }
+            ]
+        }
+    }
 }
