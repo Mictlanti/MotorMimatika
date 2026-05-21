@@ -70,7 +70,8 @@
                 },
                 {
                     "type": "body",
-                    "text": "2(a * a) * 2(a^2)^2 ="
+                    "text": "2(a * a) * 2(a^2)^2 =",
+                    "isMathText": true
                 },
                 {
                     "type": "card_drag_dynamic",
@@ -100,7 +101,8 @@
                 },
                 {
                     "type": "body",
-                    "text": "x^2(x * x)(xy) ="
+                    "text": "x^2(x * x)(xy) =",
+                    "isMathText": true
                 },
                 {
                     "type": "card_drag_dynamic",
@@ -129,7 +131,8 @@
                 },
                 {
                     "type": "body",
-                    "text": "(a) * (a * a)^2"
+                    "text": "(a) * (a * a)^2",
+                    "isMathText": true
                 },
                 {
                     "type": "card_drag_dynamic",
@@ -196,6 +199,68 @@
                     "type": "card_dynamic",
                     "list": ["3[(xyz)^2]^2 =", "3x^2y^2z^2", "3x^4y^4z^4", "3x^8y^8z^8", "3x^3y^3z^3", "3x^43y^4z^4"]
                 }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "2a^2b^3c" ] }
+            ]
+        },
+        {
+            "type": "card_drag_dynamic",
+            "listOrder": [ 4, 3, 2, 1 ]
+        },
+        {
+            "type": "card_dynamic",
+            "listOrder": [
+                3
+            ]
+        },
+        {
+            "type": "card_drag_dynamic",
+            "listOrder": [ 3, 1, 2 ]
+        },
+        {
+            "type": "card_dynamic",
+            "listOrder": [
+                4
+            ]
+        },
+        {
+            "type": "card_drag_dynamic",
+            "listOrder": [ 2, 3, 1 ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "a^2x^4y^2", "x^4y^2a^2" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "m^7" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "27a^6b^3" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "a^6b^6" ] }
+            ]
+        },
+        {
+            "type": "card_dynamic",
+            "listOrder": [
+                2
             ]
         }
     ]
