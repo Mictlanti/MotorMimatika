@@ -222,5 +222,35 @@
                 }
             ]
         }
+    ],
+    "results": [
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "-2x-6" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "-x-1" ] }
+            ]
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 2
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "(-5,4)" ] }
+            ]
+        }
     ]
 }
