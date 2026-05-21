@@ -116,5 +116,43 @@
                 }
             ]
         }
+    ],
+    "results": [
+        {
+            "type": "card_drag_dynamic",
+            "listOrder": [
+                1, 2, 3, 4
+            ]
+        },
+        {
+            "type": "card_drag_dynamic",
+            "listOrder": [
+                1, 2, 3, 4
+            ]
+        },
+        {
+            "type": "card_drag_dynamic",
+            "listOrder": [
+                1, 2, 3, 4
+            ]
+        },
+        {
+            "type": "card_drag_dynamic",
+            "listOrder": [
+                1, 2, 3, 4
+            ]
+        },
+        {
+            "type": "card_dynamic",
+            "listOrder": [
+                3, 2
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "2x^3-15x^2+12xy-10" ] }
+            ]
+        }
     ]
 }
