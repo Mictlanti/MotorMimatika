@@ -59,12 +59,40 @@
                 },
                 {
                     "type": "body",
-                    "text": "(x, y) = (1, 6)",
+                    "text": "(x, y) = (-5, 4)",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Sustituyendo (x, y) en 1:"
+                },
+                {
+                    "type": "body",
+                    "text": "-2(-5) - (4) = 6   ...1",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "6 = 6   ...1",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "Sustituyendo (x, y) en 2:"
+                },
+                {
+                    "type": "body",
+                    "text": "-2(-5) - 2(4) = 2   ...1",
+                    "isMathText": true
+                },
+                {
+                    "type": "body",
+                    "text": "2 = 2   ...1",
                     "isMathText": true
                 },
                 {
                     "type": "button_exercise",
-                    "list": ["(x, y) = (1, 6)"]
+                    "list": ["verdadero", "falso"]
                 }
             ]
         },
@@ -106,6 +134,37 @@
                     "type": "input_exercise",
                     "text": "",
                 }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "(1,2)" ] },
+
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "(17/4,3/2)" ] }
+            ]
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 1
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "(-4,13)" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "(2/3,3)" ] }
             ]
         }
     ]
