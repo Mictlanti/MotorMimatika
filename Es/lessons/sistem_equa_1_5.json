@@ -103,5 +103,29 @@
                 }
             ]
         }
+    ],
+    "results": [
+        {
+            "type": "button_exercise",
+            "indexCorrect": 2
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "x=1" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "(1,5)" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "(2,0)" ] }
+            ]
+        }
     ]
 }
