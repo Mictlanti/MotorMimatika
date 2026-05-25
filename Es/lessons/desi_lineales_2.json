@@ -158,5 +158,48 @@
                 }
             ]
         }
+    ],
+    "results": [
+        {
+            "type": "button_exercise",
+            "indexCorrect": 2
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "x<-2", "-2>x" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "x<2", "2>x" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "x<6", "6>x" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 2, "res": [ "x>4" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 2, "res": [ "x<=3" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "6x-4x+2x+3<11" ] },
+                {"id": 1, "res": [ "6x-4x+2x<11-3", "6x-2x<11-3", "4x<11-3" ] }
+            ]
+        }
     ]
 }
