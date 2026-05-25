@@ -75,12 +75,12 @@
                 },
                 {
                     "type": "body",
-                    "text": "y = 2x - 1",
+                    "text": "y = 2x - 1   ...1",
                     "isMathText": true
                 },
                 {
                     "type": "body",
-                    "text": "y = 2x - 4",
+                    "text": "y = 2x - 4   ...2",
                     "isMathText": true
                 },
                 {
@@ -375,6 +375,48 @@
                     "list": ["verdadero", "falso"]
                 }
             ]
+        }
+    ],
+    "results": [
+        {
+            "type": "button_exercise",
+            "indexCorrect": 2
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 0
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "(-1,5)" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "-3x+7" ] }
+            ]
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 1
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "2" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "(2,1)" ] }
+            ]
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 1
         }
     ]
 }
