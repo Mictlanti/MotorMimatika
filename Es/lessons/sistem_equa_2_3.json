@@ -24,8 +24,8 @@
         {
             "blocks": [
                 {
-                    "type": "title",
-                    "text": "Método por sustitución"
+                    "type": "body",
+                    "text": "Contesta correctamente."
                 },
                 {
                     "type": "linear_system",
@@ -33,12 +33,11 @@
                     "equationTwo": "x - y = 3"
                 },
                 {
-                    "type": "body",
-                    "text": "Despejando la variable \"y\" de 1:",
+                    "type": "process_free"
                 },
                 {
                     "type": "input_exercise",
-                    "text": "y = "
+                    "text": "",
                 }
             ]
         },
@@ -100,6 +99,38 @@
                     "type": "input_exercise",
                     "text": "",
                 }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "(4,2)" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "(3,0)" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "(4,3/2)" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "(3/2,3)" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "(-4,13)" ] }
             ]
         }
     ]
