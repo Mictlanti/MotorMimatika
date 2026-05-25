@@ -156,5 +156,35 @@
                 }
             ]
         }
+    ],
+    "results": [
+        {
+            "type": "button_exercise",
+            "indexCorrect": 1
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "-2x+1" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "1" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "(1,-1)" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "(1,3)" ] }
+            ]
+        }
     ]
 }
