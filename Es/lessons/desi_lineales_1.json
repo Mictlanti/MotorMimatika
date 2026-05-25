@@ -241,9 +241,65 @@
                 },
                 {
                     "type": "button_exercise",
-                    "list": ["x >= 2", "x <=2"]
+                    "list": ["x >= 2", "x <=7"]
                 }
             ]
+        }
+    ],
+    "results": [
+        {
+            "type": "button_exercise",
+            "indexCorrect": 1
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "x<11", "11>x" ] }
+            ]
+        },
+        {
+            "type": "card_drag_dynamic",
+            "listOrder": [
+                1, 2
+            ]
+        },
+        {
+            "type": "card_drag_dynamic",
+            "listOrder": [
+                2, 1
+            ]
+        },
+        {
+            "type": "card_drag_dynamic",
+            "listOrder": [
+                2, 1
+            ]
+        },
+        {
+            "type": "card_drag_dynamic",
+            "listOrder": [
+                1, 3, 2
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "x>2" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                {"id": 0, "res": [ "x<=-2" ] }
+            ]
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 1
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 2
         }
     ]
 }
