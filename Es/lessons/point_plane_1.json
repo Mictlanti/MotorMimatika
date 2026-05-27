@@ -259,5 +259,43 @@
                 }
             ]
         }
+    ],
+    "results": [
+        {
+            "type": "button_exercise",
+            "indexCorrect": 4
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 0
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 0
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 1
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 1
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 2
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 2
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 1
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 2
+        }
     ]
 }
