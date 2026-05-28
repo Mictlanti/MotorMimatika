@@ -199,7 +199,7 @@
             "type": "point_graphic",
             "offset": [
                 {
-                    "id": "0",
+                    "id": "1",
                     "offsetX": -0.1,
                     "offsetY": -0.2
                 }
