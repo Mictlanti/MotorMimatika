@@ -48,7 +48,7 @@
                 },
                 {
                     "type": "button_exercise",
-                    "list": ["(1, 3)", "(4, -2)", "(3, 2)", "(-1, -2)"]
+                    "list": ["(1, 3)", "(4, -2)", "(3, -2)", "(-1, -2)"]
                 }
             ]
         },
@@ -178,6 +178,30 @@
                 {
                     "type": "cartesian_plane_dynamic",
                     "listPoints": ["A", "B", "C", "D", "E"]
+                }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "type": "button_exercise",
+            "indexCorrect": 1
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 4
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 3
+        },
+        {
+            "type": "point_graphic",
+            "offset": [
+                {
+                    "id": "0",
+                    "offsetX": -0.1,
+                    "offsetY": -0.2
                 }
             ]
         }
