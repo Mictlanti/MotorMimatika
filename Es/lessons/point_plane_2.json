@@ -200,8 +200,8 @@
             "offset": [
                 {
                     "id": 1,
-                    "offsetX": -0.1,
-                    "offsetY": -0.2
+                    "offsetX": 0.4,
+                    "offsetY": 0.7
                 }
             ]
         }
