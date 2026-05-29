@@ -204,6 +204,141 @@
                     "offsetY": 0.7
                 }
             ]
+        },
+        {
+            "type": "point_graphic",
+            "offset": [
+                {
+                    "id": 1,
+                    "offsetX": 0.5,
+                    "offsetY": 0.4
+                }
+            ]
+        },
+        {
+            "type": "point_graphic",
+            "offset": [
+                {
+                    "id": 1,
+                    "offsetX": 0.6,
+                    "offsetY": 0.1
+                }
+            ]
+        },
+        {
+            "type": "point_graphic",
+            "offset": [
+                {
+                    "id": 1,
+                    "offsetX": 0.5,
+                    "offsetY": 0.7
+                },
+                {
+                    "id": 2,
+                    "offsetX": 0.6,
+                    "offsetY": 0.6
+                }
+            ]
+        },
+        {
+            "type": "point_graphic",
+            "offset": [
+                {
+                    "id": 1,
+                    "offsetX": 0.4,
+                    "offsetY": 0.6
+                },
+                {
+                    "id": 2,
+                    "offsetX": 0.3,
+                    "offsetY": 0.7
+                },
+                {
+                    "id": 3,
+                    "offsetX": 0.3,
+                    "offsetY": 0.3
+                }
+            ]
+        },
+        {
+            "type": "point_graphic",
+            "offset": [
+                {
+                    "id": 1,
+                    "offsetX": 0.4,
+                    "offsetY": 0.6
+                },
+                {
+                    "id": 2,
+                    "offsetX": 0.3,
+                    "offsetY": 0.7
+                },
+                {
+                    "id": 3,
+                    "offsetX": 0.3,
+                    "offsetY": 0.3
+                }
+            ]
+        },
+        {
+            "type": "point_graphic",
+            "offset": [
+                {
+                    "id": 1,
+                    "offsetX": 0.3,
+                    "offsetY": 0.9
+                },
+                {
+                    "id": 2,
+                    "offsetX": 0.4,
+                    "offsetY": 0.7
+                },
+                {
+                    "id": 3,
+                    "offsetX": 0.5,
+                    "offsetY": 0.5
+                },
+                {
+                    "id": 4,
+                    "offsetX": 0.6,
+                    "offsetY": 0.3
+                },
+                {
+                    "id": 5,
+                    "offsetX": 0.1,
+                    "offsetY": 0.7
+                }
+            ]
+        },
+        {
+            "type": "point_graphic",
+            "offset": [
+                {
+                    "id": 1,
+                    "offsetX": 0.1,
+                    "offsetY": 0.2
+                },
+                {
+                    "id": 2,
+                    "offsetX": 0.3,
+                    "offsetY": 0.8
+                },
+                {
+                    "id": 3,
+                    "offsetX": 0.5,
+                    "offsetY": 0.2
+                },
+                {
+                    "id": 4,
+                    "offsetX": 0.7,
+                    "offsetY": 0.8
+                },
+                {
+                    "id": 5,
+                    "offsetX": 0.9,
+                    "offsetY": 0.2
+                }
+            ]
         }
     ]
 }
