@@ -118,8 +118,8 @@
                 },
                 {
                     "type": "large_exponent",
-                    "base": ["s", "* s"],
-                    "power": ["-4", "2"]
+                    "base": ["x", "* x", "x"],
+                    "power": ["-4", "2", "5"]
                 },
                 {
                     "type": "input_exercise",
@@ -197,5 +197,66 @@
                 }
             ]
         }
+    ],
+    "results": [
+        {
+            "type": "button_exercise",
+            "indexCorrect": 0
+        },
+        {
+            "type": "card_dynamic",
+            "listOrder": [
+                2
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "x^7" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "s", "s^1" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "x^3" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "t^4" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "x^4" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "x^5y" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "12a^5" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "3x^3y^5" ] }
+            ]
+        },
+        
     ]
 }
