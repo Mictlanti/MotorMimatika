@@ -262,5 +262,37 @@
                 }
             ]
         }
+    ],
+    "results": [
+        {
+            "type": "button_exercise",
+            "indexCorrect": 2
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 3
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 3
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "4x^2-9y^2" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "16x^2-9" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "2xy+2y^2" ] }
+            ]
+        }
     ]
 }
