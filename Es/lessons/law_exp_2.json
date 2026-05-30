@@ -39,7 +39,7 @@
                 },
                 {
                     "type": "card_dynamic",
-                    "list": ["(x^2 / x^3) * x =", "x^5", "x^2", "x", "x^3", "x^4"]
+                    "list": ["(x^2 / x^3) * x =", "x^5", "x^2", "0", "x^3", "x^4"]
                 }
             ]
         },
@@ -182,6 +182,56 @@
                     "type": "input_exercise",
                     "text": "(xy * 2xy^2) / x^2y = "
                 }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "type": "card_dynamic",
+            "listOrder": [
+                1
+            ]
+        },
+        {
+            "type": "card_dynamic",
+            "listOrder": [
+                0
+            ]
+        },
+        {
+            "type": "card_dynamic",
+            "listOrder": [
+                5
+            ]
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 3
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 2
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 4
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "4m^4" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "x" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "2y^2" ] }
             ]
         }
     ]
