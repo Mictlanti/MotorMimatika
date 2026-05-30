@@ -250,26 +250,6 @@
                 },
                 {
                     "id": 2,
-                    "offsetX": 0.3,
-                    "offsetY": 0.7
-                },
-                {
-                    "id": 3,
-                    "offsetX": 0.3,
-                    "offsetY": 0.3
-                }
-            ]
-        },
-        {
-            "type": "point_graphic",
-            "offset": [
-                {
-                    "id": 1,
-                    "offsetX": 0.4,
-                    "offsetY": 0.6
-                },
-                {
-                    "id": 2,
                     "offsetX": 0.7,
                     "offsetY": 0.3
                 },
