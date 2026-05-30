@@ -187,13 +187,12 @@
                 },
                 {
                     "type": "body",
-                    "text": "(x + 3y)(x - 2y) =",
+                    "text": "(x + 3y)(x - 2y)",
                     "isMathText": true
                 },
                 {
-                    "type": "card_drag_dynamic",
-                    "list_cards": ["y", "+", "6", "x^2", "-", "y^2"],
-                    "list_questions": [""]
+                    "type": "input_exercise",
+                    "text": "= "
                 }
             ]
         },
@@ -205,7 +204,7 @@
                 },
                 {
                     "type": "body",
-                    "text": "(x + a)(x -a)",
+                    "text": "(x + a)(x - a)",
                     "isMathText": true
                 },
                 {
@@ -261,6 +260,30 @@
         {
             "type": "button_exercise",
             "indexCorrect": 1
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "x^2+y-6y^2" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "x^2-a^2" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "2x^2+6x+16", "2(x^2+3x+8)" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "-5x" ] }
+            ]
         }
     ]
 }
