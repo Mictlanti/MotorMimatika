@@ -151,8 +151,8 @@
                 },
                 {
                     "type": "large_exponent",
-                    "base": ["[(y^2 * y", ")^5 / y", "] * (y^3 * y", ],
-                    "power": ["-3", "-8", "-2"]
+                    "base": ["[(y^2 * y", ")^5", " * (y^3 * y^2)" ],
+                    "power": ["-3", "-2", ""]
                 },
                 {
                     "type": "input_exercise",
@@ -194,6 +194,12 @@
             "type": "user_input",
             "listRes": [
                 { "id": 0, "res": [ "a^9" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "y" ] }
             ]
         }
     ]
