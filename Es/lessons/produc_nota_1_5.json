@@ -176,66 +176,6 @@
                 },
                 {
                     "type": "body",
-                    "text": "Corrige el error en el procedimiento"
-                },
-                {
-                    "type": "body",
-                    "text": "(-x - 5y)(6x + y) =",
-                    "isMathText": true
-                },
-                {
-                    "type": "card_drag_dynamic",
-                    "list_cards": ["-6x^2 + (-6 + (-5)*6)x - 5y^2", "-6x^2 - 31x - 5y^2"],
-                    "list_questions": [""]
-                }
-            ]
-        },
-        {
-            "blocks": [
-                {
-                    "type": "card_example",
-                    "content": [
-                        {
-                            "type": "short_example",
-                            "text": "(ax+b)(cx+d) = acx^2+(ad+bc)x+bd",
-                            "fontSize": 15
-                        },
-                        {
-                            "type": "large_example",
-                            "text": "Cuadrado del término común, más la suma de productos cruzados, más producto de las constantes."
-                        },
-                        {
-                            "type": "large_example",
-                            "text": "Paso a paso:"
-                        },
-                        {
-                            "type": "large_example",
-                            "text": "- Producto de los primeros términos."
-                        },
-                        {
-                            "type": "large_example",
-                            "text": "a * c * x^2 = acx^2"
-                        },
-                        {
-                            "type": "large_example",
-                            "text": "- Multiplica cruzado y suma:"
-                        },
-                        {
-                            "type": "large_example",
-                            "text": "a * d * x + b * c * x = (ad + bc)x"
-                        },
-                        {
-                            "type": "large_example",
-                            "text": "- Multiplica los términos constantes"
-                        },
-                        {
-                            "type": "large_example",
-                            "text": "b * d = bd"
-                        }
-                    ]
-                },
-                {
-                    "type": "body",
                     "text": "Ordena la respuesta:"
                 },
                 {
@@ -377,6 +317,12 @@
             "type": "card_drag_dynamic",
             "listOrder": [
                 1, 2, 3
+            ]
+        },
+        {
+            "type": "card_drag_dynamic",
+            "listOrder": [
+                1, 2
             ]
         }
     ]
