@@ -316,13 +316,31 @@
         {
             "type": "card_drag_dynamic",
             "listOrder": [
-                1, 2, 3
+                5, 1, 4, 6, 2, 3
             ]
         },
         {
             "type": "card_drag_dynamic",
             "listOrder": [
-                1, 2
+                1, 5, 4, 3, 2
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "-3x^2-22x+16" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "6x^2+19x+15" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "-3x^2+10x-8" ] }
             ]
         }
     ]
