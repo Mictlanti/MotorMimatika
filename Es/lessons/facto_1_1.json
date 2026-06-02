@@ -133,7 +133,7 @@
                 },
                 {
                     "type": "button_exercise",
-                    "list": ["(a + b)(9x + 9y)", "(x + y)(9a + 9b)"]
+                    "list": ["(a+b)(9x+9y)", "(x+y)(9a+9b)"]
                 }
             ]
         },
@@ -199,7 +199,7 @@
                 },
                 {
                     "type": "button_exercise",
-                    "list": ["9a(1 + b)(x + y)", "9(x + y)(a + b)"],
+                    "list": ["9a(1+b)(x+y)", "9(x+y)(a+b)"],
                     "isVerticalExercise": true
                 }
             ]
@@ -273,6 +273,44 @@
                     "type": "input_exercise",
                     "text": "= "
                 }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "type": "button_exercise",
+            "indexCorrect": 1
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 2
+        },
+        {
+            "type": "button_exercise",
+            "indexCorrect": 2
+        },
+        {
+            "type": "card_drag_dynamic",
+            "listOrder": [
+                1, 2
+            ]
+        },
+        {
+            "type": "card_drag_dynamic",
+            "listOrder": [
+                2, 1
+            ]
+        },
+        {
+            "type": "card_drag_dynamic",
+            "listOrder": [
+                1, 2
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "3a+2b-c" ] }
             ]
         }
     ]
