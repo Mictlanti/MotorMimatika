@@ -43,7 +43,7 @@
                 },
                 {
                     "type": "button_exercise",
-                    "list": ["(x - y)^2", "x^2 + y^2)", "(x + y)^2", "2(x + y)"]
+                    "list": ["(x - y)^2", "x^2 + y^2", "(x + y)^2", "2(x + y)"]
                 }
             ]
         },
@@ -117,11 +117,17 @@
             "blocks": [
                 {
                     "type": "title",
-                    "text": "Completa la factorización"
+                    "text": "Factoriza."
                 },
                 {
-                    "type": "card_dynamic",
-                    "list": ["=", ")^2", "a + 3", "(2", "a + 2", "(a^2"]
+                    "type": "body",
+                    "text": "4x^2 + 12x + 9 =",
+                    "isMathText": true
+                },
+                {
+                    "type": "card_drag_dynamic",
+                    "list_cards": ["+ 3)", "^2", "(2x"],
+                    "list_questions": [""]
                 }
             ]
         },
@@ -135,6 +141,54 @@
                     "type": "input_exercise",
                     "text": "9x^2 - 12x + 4 = "
                 }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "type": "button_exercise",
+            "indexCorrect": 3
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "(x+1)^2" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "(2x+1)^2" ] }
+            ]
+        },
+        {
+            "type": "card_drag_dynamic",
+            "listOrder": [
+                3, 1, 2
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "9x^2-30xy+25y^2" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "(a+11)^2" ] }
+            ]
+        },
+        {
+            "type": "card_drag_dynamic",
+            "listOrder": [
+                3, 1, 2
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "(3x-2)^2" ] }
             ]
         }
     ]
