@@ -63,7 +63,7 @@
                 },
                 {
                     "type": "input_list",
-                    "labelText": ["(x + y)(6a + 2b)", "2(x + Y)(6a + 2b)"]
+                    "list": ["(x + y)(6a + 2b)", "2(x + Y)(6a + 2b)"]
                 }
             ]
         },
@@ -109,7 +109,7 @@
                 },
                 {
                     "type": "body",
-                    "text": "5max + b) + 10n(a + b)",
+                    "text": "5m(a + b) + 10n(a + b)",
                     "isMathText": true
                 },
                 {
@@ -133,6 +133,38 @@
                     "type": "input_exercise",
                     "text": "= "
                 }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 1, "res": [ "2(x+y)(3a+b)" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "x(x-y)(x-1)" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "2x(y-z)(x-3)" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "5(a+b)(m+2n)" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "2p(s-t)(2p-3)" ] }
             ]
         }
     ]
