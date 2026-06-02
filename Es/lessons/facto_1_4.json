@@ -62,8 +62,13 @@
                     "text": "Factoriza."
                 },
                 {
+                    "type": "body",
+                    "text": "x^3 - x^2 - ax^2 + ax",
+                    "isMathText": true
+                },
+                {
                     "type": "input_exercise",
-                    "text": "x^2(x - a) - x(x - a) = "
+                    "text": "= "
                 }
             ]
         },
@@ -105,7 +110,7 @@
                 },
                 {
                     "type": "input_exercise",
-                    "text": "4dx^2 - 12dxy + 9dy^2 = "
+                    "text": "4dx^2 - 72dxy + 9dy^2 = "
                 }
             ]
         },
@@ -117,7 +122,7 @@
                 },
                 {
                     "type": "input_exercise",
-                    "text": "a^3x^2 - 2a^3xy + a^3y^3 = "
+                    "text": "a^3x^2 - 2a^3xy + a^3y^2 = "
                 }
             ]
         },
@@ -127,9 +132,10 @@
                     "type": "title",
                     "text": "Completa la factorización"
                 },
-                { 
+                {
                     "type": "body",
-                    "text": "36abx^2 + 48 abxy + 16aby^2"
+                    "text": "36abx^2 + 48 abxy + 16aby^2",
+                    "isMathText":true
                 },
                 {
                     "type": "input_exercise",
@@ -143,14 +149,63 @@
                     "type": "title",
                     "text": "Completa la factorización"
                 },
-                { 
+                {
                     "type": "body",
-                    "text": "m^2n^3x^2 + 2m^2n^3xy + m^2n^3y^2"
+                    "text": "m^2n^3x^2 + 2m^2n^3xy + m^2n^3y^2",
+                    "isMathText": true
                 },
                 {
                     "type": "input_exercise",
                     "text": "= "
                 }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "type": "button_exercise",
+            "indexCorrect": 2
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "x(x-a)(x-1)" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "5(x-4y)^2" ] }
+            ]
+        },
+        {
+            "type": "card_drag_dynamic",
+            "listOrder": [
+                1, 2
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "d(2x+3y)^2" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "a^3(x-y)^2" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "4ab(3x+2y)^2" ] }
+            ]
+        },
+        {
+            "type": "user_input",
+            "listRes": [
+                { "id": 0, "res": [ "m^2n^3(x+y)^2" ] }
             ]
         }
     ]
