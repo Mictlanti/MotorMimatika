@@ -63,7 +63,7 @@
                 },
                 {
                     "type": "input_list",
-                    "list": ["(x + y)(6a + 2b)", "2(x + Y)(6a + 2b)"]
+                    "labelText": ["(x + y)(6a + 2b)", "2(x + Y)(6a + 2b)"]
                 }
             ]
         },
