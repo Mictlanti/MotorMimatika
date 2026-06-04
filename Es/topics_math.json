@@ -251,34 +251,6 @@
             "title": "Factorización 4"
           }
         ]
-      },
-      {
-        "id": "facto_2",
-        "title": "Factorización 2",
-        "lessons": [
-          {
-            "id": "facto_2_1",
-            "title": "Factorización 6"
-          },
-          {
-            "id": "facto_2_2",
-            "title": "Factorización 7"
-          },
-          {
-            "id": "facto_2_3",
-            "title": "Factorización 8"
-          }
-        ]
-      },
-      {
-        "id": "facto_3",
-        "title": "Factorización 3",
-        "lessons": [
-          {
-            "id": "facto_3_1",
-            "title": "Factorización 9"
-          }
-        ]
       }
     ]
   }
